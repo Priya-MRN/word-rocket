@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Word Rocket · {{ language }} 🚀</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='rocket.css') }}" />
+</head>
+<body class="galaxy" data-code="{{ code }}">
+  {% include "_icons.html" %}
+  <div class="orbs" aria-hidden="true">
+    <span class="orb a"></span><span class="orb b"></span><span class="orb c"></span>
+  </div>
+
+  <main class="shell">
+
+    <!-- ===== Top bar ===== -->
+    <div class="topbar">
+      <a class="pill" href="{{ url_for('index') }}">
+        <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('home') }}"></use></svg> Home
+      </a>
+
+      <span class="spacer"></span>
+
+      <span class="pill" title="Stars collected">
+        <svg class="icon icon-star" role="img" aria-label="Stars"><use href="#i-{{ icon('star') }}"></use></svg>
+        <span id="stars">0</span>
+      </span>
+
+      <button class="pill" id="settings-btn" aria-haspopup="dialog">
+        <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('settings') }}"></use></svg> Options
+      </button>
+    </div>
+
+    <!-- ===== Game ===== -->
+    <div class="game-grid">
+
+      <!-- Rocket / progress -->
+      <section class="stage" id="stage" aria-label="Rocket progress">
+        <div class="launch">
+          <svg class="goal icon" aria-hidden="true"><use href="#i-{{ icon('sparkles') }}"></use></svg>
+          <div class="track" aria-hidden="true"></div>
+          <div class="rocket-wrap" id="rocket-wrap">
+            <svg class="rocket-img icon" id="rocket" aria-hidden="true"><use href="#i-{{ icon('rocket') }}"></use></svg>
+            <span class="flame" id="flame" aria-hidden="true"></span>
+          </div>
+        </div>
+        <div class="lives" id="lives" aria-label="Tries left"></div>
+        <p class="opt-desc" style="text-align:center; margin:8px 0 0;" id="category-label"></p>
+      </section>
+
+      <!-- Word + keyboard -->
+      <section class="play-col">
+        <p class="turn" id="turn" hidden></p>
+
+        <div class="word" id="word" aria-live="polite" aria-label="Word to guess"></div>
+
+        <p class="msg" id="message" role="status">Getting a word ready…</p>
+        <p class="hint-box" id="hint-display"></p>
+
+        <div class="keys" id="keyboard" aria-label="Letters"></div>
+        <div class="keys-nav" id="keys-nav" hidden>
+          <button class="pill" id="page-prev" aria-label="Previous letters">‹</button>
+          <span class="opt-desc" id="page-label">1 / 1</span>
+          <button class="pill" id="page-next" aria-label="More letters">›</button>
+        </div>
+
+        <div class="actions">
+          <button class="pill" id="hint-btn">
+            <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('hint') }}"></use></svg> Hint
+          </button>
+          <button class="pill" id="speak-btn" hidden>
+            <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('speak') }}"></use></svg> Read it
+          </button>
+          <button class="btn-primary" id="new-btn">
+            <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('restart') }}"></use></svg> New word
+          </button>
+        </div>
+      </section>
+    </div>
+
+    <footer class="foot">{{ language }} · v{{ version }}</footer>
+  </main>
+
+  <!-- ===== Settings sheet: the 11 options ===== -->
+  <div class="sheet-backdrop" id="sheet-backdrop" hidden>
+    <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" id="sheet">
+      <div style="display:flex; align-items:center; gap:10px;">
+        <h2 id="sheet-title" style="flex:1;">Options</h2>
+        <button class="pill" id="sheet-close" aria-label="Close options">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('close') }}"></use></svg>
+        </button>
+      </div>
+      <p class="lead">Everything here is remembered on this device.</p>
+
+      <!-- 1. Category -->
+      <div class="opt">
+        <div class="opt-head">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('cat-all') }}"></use></svg>
+          <span class="opt-title">Word category</span>
+        </div>
+        <p class="opt-desc" style="margin:0 0 9px;">Which kind of words to play with.</p>
+        <div class="seg" id="opt-category"></div>
+      </div>
+
+      <!-- 2. Word length -->
+      <div class="opt">
+        <div class="opt-head">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('length') }}"></use></svg>
+          <span class="opt-title">Word length</span>
+        </div>
+        <p class="opt-desc" style="margin:0 0 9px;">Shorter words are easier to start with.</p>
+        <div class="seg" id="opt-length">
+          <button data-v="any" aria-pressed="true">Any</button>
+          <button data-v="3-4" aria-pressed="false">Short (3–4)</button>
+          <button data-v="5-6" aria-pressed="false">Medium (5–6)</button>
+          <button data-v="7-99" aria-pressed="false">Long (7+)</button>
+        </div>
+      </div>
+
+      <!-- 3. Text size -->
+      <div class="opt">
+        <div class="opt-head">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('text-size') }}"></use></svg>
+          <span class="opt-title">Text size</span>
+        </div>
+        <div class="seg" id="opt-text">
+          <button data-v="sm" aria-pressed="false">Small</button>
+          <button data-v="md" aria-pressed="true">Normal</button>
+          <button data-v="lg" aria-pressed="false">Large</button>
+          <button data-v="xl" aria-pressed="false">Huge</button>
+        </div>
+      </div>
+
+      <!-- 4. Extra big keys -->
+      <div class="opt">
+        <div class="opt-head">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('big-keys') }}"></use></svg>
+          <span class="opt-title">Extra big keys</span>
+        </div>
+        <p class="opt-desc" style="margin:0 0 9px;">Bigger targets for small fingers.</p>
+        <div class="seg" id="opt-bigkeys">
+          <button data-v="off" aria-pressed="true">Off</button>
+          <button data-v="on" aria-pressed="false">On</button>
+        </div>
+      </div>
+
+      <!-- 5. Paged keyboard -->
+      <div class="opt">
+        <div class="opt-head">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('pages') }}"></use></svg>
+          <span class="opt-title">Paged keyboard</span>
+        </div>
+        <p class="opt-desc" style="margin:0 0 9px;">Show fewer letters at a time, in pages.</p>
+        <div class="seg" id="opt-paged">
+          <button data-v="off" aria-pressed="true">Off</button>
+          <button data-v="on" aria-pressed="false">On</button>
+        </div>
+      </div>
+
+      <!-- 6. Motion -->
+      <div class="opt">
+        <div class="opt-head">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('motion') }}"></use></svg>
+          <span class="opt-title">Motion</span>
+        </div>
+        <p class="opt-desc" style="margin:0 0 9px;">Turn off to stop things moving and floating.</p>
+        <div class="seg" id="opt-motion">
+          <button data-v="on" aria-pressed="true">On</button>
+          <button data-v="off" aria-pressed="false">Off</button>
+        </div>
+      </div>
+
+      <!-- 7. Sound -->
+      <div class="opt">
+        <div class="opt-head">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('sound-on') }}"></use></svg>
+          <span class="opt-title">Sound</span>
+        </div>
+        <div class="seg" id="opt-sound">
+          <button data-v="on" aria-pressed="true">On</button>
+          <button data-v="off" aria-pressed="false">Off</button>
+        </div>
+      </div>
+
+      <!-- 8. Read aloud -->
+      <div class="opt">
+        <div class="opt-head">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('speak') }}"></use></svg>
+          <span class="opt-title">Read aloud</span>
+        </div>
+        <p class="opt-desc" style="margin:0 0 9px;">Speak the hint and the word out loud.</p>
+        <div class="seg" id="opt-speak">
+          <button data-v="off" aria-pressed="true">Off</button>
+          <button data-v="on" aria-pressed="false">On</button>
+        </div>
+      </div>
+
+      <!-- 9. Always-on hints -->
+      <div class="opt">
+        <div class="opt-head">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('hint') }}"></use></svg>
+          <span class="opt-title">Always show the hint</span>
+        </div>
+        <p class="opt-desc" style="margin:0 0 9px;">Show the clue without having to ask.</p>
+        <div class="seg" id="opt-hints">
+          <button data-v="off" aria-pressed="true">Off</button>
+          <button data-v="on" aria-pressed="false">On</button>
+        </div>
+      </div>
+
+      <!-- 10. Two player -->
+      <div class="opt">
+        <div class="opt-head">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('players') }}"></use></svg>
+          <span class="opt-title">Two players</span>
+        </div>
+        <p class="opt-desc" style="margin:0 0 9px;">Pass and play — the turn moves on a wrong guess.</p>
+        <div class="seg" id="opt-two">
+          <button data-v="off" aria-pressed="true">One player</button>
+          <button data-v="on" aria-pressed="false">Two players</button>
+        </div>
+      </div>
+
+      <!-- 11. Interface language -->
+      <div class="opt">
+        <div class="opt-head">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('language') }}"></use></svg>
+          <span class="opt-title">Menu language</span>
+        </div>
+        <p class="opt-desc" style="margin:0 0 9px;">
+          Changes the buttons and messages only — the words you guess stay
+          {{ language }}.
+        </p>
+        <div class="seg" id="opt-ui">
+          <button data-v="en" aria-pressed="true">English</button>
+          <button data-v="ta" aria-pressed="false">தமிழ்</button>
+        </div>
+      </div>
+
+      <div class="opt" style="display:flex; gap:8px; flex-wrap:wrap;">
+        <button class="pill" id="reset-stars">
+          <svg class="icon icon-star" aria-hidden="true"><use href="#i-{{ icon('star') }}"></use></svg> Reset stars
+        </button>
+        <button class="btn-primary" id="sheet-done">Done</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Win / lose overlay ===== -->
+  <div class="overlay" id="overlay" role="dialog" aria-modal="true" aria-labelledby="overlay-title" hidden>
+    <div class="overlay-card">
+      <h2 id="overlay-title"></h2>
+      <div class="prize-slot" id="overlay-image"></div>
+      <div class="earned" id="overlay-stars"></div>
+      <p class="answer" id="overlay-word"></p>
+      <p class="note-text" id="overlay-msg"></p>
+      <button class="btn-primary" id="overlay-again">
+        <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('play') }}"></use></svg> Play again
+      </button>
+    </div>
+  </div>
+
+  <script>
+    window.WR_ICONS = {
+      heart: "{{ icon('heart') }}",
+      heartEmpty: "{{ icon('heart-empty') }}",
+      star: "{{ icon('star') }}",
+      trophy: "{{ icon('trophy') }}",
+      sad: "{{ icon('sad') }}"
+    };
+  </script>
+  <script src="{{ url_for('static', filename='rocket.js') }}"></script>
+</body>
+</html>

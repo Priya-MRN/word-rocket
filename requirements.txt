@@ -1,0 +1,9 @@
+flask>=3.0
+colorama>=0.4.6
+pytest>=8.0
+
+# Icon source. Ships the upstream lucide SVG set (lucide icons v1.23.0) as a
+# real, versioned package so icon path data is never hand-transcribed.
+# Pinned exactly: the sprite is generated from it by `python tools/icontool.py`.
+# Build-time only — the app serves the generated sprite and never imports this.
+lucide==1.1.4

@@ -1,0 +1,6101 @@
+{
+  "language": "English",
+  "code": "en",
+  "direction": "ltr",
+  "alphabet": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z"
+  ],
+  "words": [
+    {
+      "word": "CAT",
+      "hint": "A pet that says meow",
+      "image": "cat",
+      "category": "animals"
+    },
+    {
+      "word": "DOG",
+      "hint": "A pet that says woof",
+      "image": "dog",
+      "category": "animals"
+    },
+    {
+      "word": "FISH",
+      "hint": "It swims in water",
+      "image": "fish",
+      "category": "animals"
+    },
+    {
+      "word": "BIRD",
+      "hint": "It can fly and sing",
+      "image": "bird",
+      "category": "animals"
+    },
+    {
+      "word": "FROG",
+      "hint": "Green and goes hop hop",
+      "image": "frog",
+      "category": "animals"
+    },
+    {
+      "word": "DUCK",
+      "hint": "A bird that says quack",
+      "image": "duck",
+      "category": "animals"
+    },
+    {
+      "word": "COW",
+      "hint": "Farm animal that gives milk",
+      "image": "cow",
+      "category": "animals"
+    },
+    {
+      "word": "PIG",
+      "hint": "Pink farm animal",
+      "image": "pig",
+      "category": "animals"
+    },
+    {
+      "word": "LION",
+      "hint": "King of the jungle",
+      "image": "lion",
+      "category": "animals"
+    },
+    {
+      "word": "BEAR",
+      "hint": "Big furry animal that loves honey",
+      "image": "bear",
+      "category": "animals"
+    },
+    {
+      "word": "APPLE",
+      "hint": "A red round fruit",
+      "image": "apple",
+      "category": "food"
+    },
+    {
+      "word": "BANANA",
+      "hint": "A long yellow fruit",
+      "image": "banana",
+      "category": "food"
+    },
+    {
+      "word": "GRAPES",
+      "hint": "Tiny round fruits in a bunch",
+      "image": "grapes",
+      "category": "food"
+    },
+    {
+      "word": "MANGO",
+      "hint": "A sweet yellow fruit",
+      "image": "mango",
+      "category": "food"
+    },
+    {
+      "word": "SUN",
+      "hint": "It shines in the sky by day",
+      "image": "sun",
+      "category": "nature"
+    },
+    {
+      "word": "MOON",
+      "hint": "It glows in the sky at night",
+      "image": "moon",
+      "category": "nature"
+    },
+    {
+      "word": "STAR",
+      "hint": "It twinkles in the night sky",
+      "image": "star",
+      "category": "nature"
+    },
+    {
+      "word": "TREE",
+      "hint": "It is tall and green with leaves",
+      "image": "tree",
+      "category": "nature"
+    },
+    {
+      "word": "FLOWER",
+      "hint": "It is pretty and smells nice",
+      "image": "flower",
+      "category": "nature"
+    },
+    {
+      "word": "BALL",
+      "hint": "You kick it or throw it",
+      "image": "ball",
+      "category": "things"
+    },
+    {
+      "word": "HOUSE",
+      "hint": "A place where we live",
+      "image": "house",
+      "category": "home"
+    },
+    {
+      "word": "CAR",
+      "hint": "It has four wheels and drives",
+      "image": "car",
+      "category": "vehicles"
+    },
+    {
+      "word": "HEART",
+      "hint": "A shape that means love",
+      "image": "heart",
+      "category": "things"
+    },
+    {
+      "word": "EGG",
+      "hint": "A hen lays it",
+      "image": "egg",
+      "category": "food"
+    },
+    {
+      "word": "MILK",
+      "hint": "A white drink that is good for you",
+      "image": "milk",
+      "category": "food"
+    },
+    {
+      "word": "RED",
+      "hint": "The color of a strawberry",
+      "image": "heart",
+      "category": "colors"
+    },
+    {
+      "word": "BLUE",
+      "hint": "The color of the sky",
+      "image": "fish",
+      "category": "colors"
+    },
+    {
+      "word": "GREEN",
+      "hint": "The color of grass",
+      "image": "tree",
+      "category": "colors"
+    },
+    {
+      "word": "HEN",
+      "hint": "A farm bird that lays eggs",
+      "image": "hen",
+      "category": "animals"
+    },
+    {
+      "word": "GOAT",
+      "hint": "A farm animal with horns",
+      "image": "goat",
+      "category": "animals"
+    },
+    {
+      "word": "HORSE",
+      "hint": "A big animal you can ride",
+      "image": "horse",
+      "category": "animals"
+    },
+    {
+      "word": "SHEEP",
+      "hint": "A woolly farm animal",
+      "image": "sheep",
+      "category": "animals"
+    },
+    {
+      "word": "RABBIT",
+      "hint": "It hops and has long ears",
+      "image": "rabbit",
+      "category": "animals"
+    },
+    {
+      "word": "MOUSE",
+      "hint": "A tiny animal with a long tail",
+      "image": "mouse",
+      "category": "animals"
+    },
+    {
+      "word": "TIGER",
+      "hint": "A big cat with stripes",
+      "image": "tiger",
+      "category": "animals"
+    },
+    {
+      "word": "MONKEY",
+      "hint": "It climbs trees and loves bananas",
+      "image": "monkey",
+      "category": "animals"
+    },
+    {
+      "word": "ELEPHANT",
+      "hint": "The biggest animal with a trunk",
+      "image": "elephant",
+      "category": "animals"
+    },
+    {
+      "word": "ZEBRA",
+      "hint": "A horse with black and white stripes",
+      "image": "zebra",
+      "category": "animals"
+    },
+    {
+      "word": "GIRAFFE",
+      "hint": "It has a very long neck",
+      "image": "giraffe",
+      "category": "animals"
+    },
+    {
+      "word": "DEER",
+      "hint": "A gentle forest animal with antlers",
+      "image": "deer",
+      "category": "animals"
+    },
+    {
+      "word": "FOX",
+      "hint": "A clever animal with a bushy tail",
+      "image": "fox",
+      "category": "animals"
+    },
+    {
+      "word": "WOLF",
+      "hint": "It howls at the moon",
+      "image": "wolf",
+      "category": "animals"
+    },
+    {
+      "word": "OWL",
+      "hint": "A bird awake at night",
+      "image": "owl",
+      "category": "animals"
+    },
+    {
+      "word": "BEE",
+      "hint": "It buzzes and makes honey",
+      "image": "bee",
+      "category": "animals"
+    },
+    {
+      "word": "ANT",
+      "hint": "A tiny insect that works hard",
+      "image": "ant",
+      "category": "animals"
+    },
+    {
+      "word": "SNAIL",
+      "hint": "It carries its house on its back",
+      "image": "snail",
+      "category": "animals"
+    },
+    {
+      "word": "CRAB",
+      "hint": "It walks sideways on the beach",
+      "image": "crab",
+      "category": "animals"
+    },
+    {
+      "word": "WHALE",
+      "hint": "The biggest animal in the sea",
+      "image": "whale",
+      "category": "animals"
+    },
+    {
+      "word": "SHARK",
+      "hint": "A big fish with sharp teeth",
+      "image": "shark",
+      "category": "animals"
+    },
+    {
+      "word": "DOLPHIN",
+      "hint": "A clever sea animal that jumps",
+      "image": "dolphin",
+      "category": "animals"
+    },
+    {
+      "word": "TURTLE",
+      "hint": "It has a hard shell and moves slowly",
+      "image": "turtle",
+      "category": "animals"
+    },
+    {
+      "word": "SNAKE",
+      "hint": "A long animal with no legs",
+      "image": "snake",
+      "category": "animals"
+    },
+    {
+      "word": "PARROT",
+      "hint": "A colourful bird that can talk",
+      "image": "parrot",
+      "category": "animals"
+    },
+    {
+      "word": "PENGUIN",
+      "hint": "A black and white bird that swims",
+      "image": "penguin",
+      "category": "animals"
+    },
+    {
+      "word": "PANDA",
+      "hint": "A bear that eats bamboo",
+      "image": "panda",
+      "category": "animals"
+    },
+    {
+      "word": "KOALA",
+      "hint": "A sleepy animal that hugs trees",
+      "image": "koala",
+      "category": "animals"
+    },
+    {
+      "word": "CAMEL",
+      "hint": "It has a hump and lives in the desert",
+      "image": "camel",
+      "category": "animals"
+    },
+    {
+      "word": "DONKEY",
+      "hint": "A small animal like a horse",
+      "image": "donkey",
+      "category": "animals"
+    },
+    {
+      "word": "BUFFALO",
+      "hint": "A big strong farm animal",
+      "image": "buffalo",
+      "category": "animals"
+    },
+    {
+      "word": "SQUIRREL",
+      "hint": "A small animal that loves nuts",
+      "image": "squirrel",
+      "category": "animals"
+    },
+    {
+      "word": "BAT",
+      "hint": "It flies at night and hangs upside down",
+      "image": "bat",
+      "category": "animals"
+    },
+    {
+      "word": "EAGLE",
+      "hint": "A big bird with sharp eyes",
+      "image": "eagle",
+      "category": "animals"
+    },
+    {
+      "word": "CROW",
+      "hint": "A black bird that says caw",
+      "image": "crow",
+      "category": "animals"
+    },
+    {
+      "word": "PEACOCK",
+      "hint": "A bird with a beautiful fan tail",
+      "image": "peacock",
+      "category": "animals"
+    },
+    {
+      "word": "SWAN",
+      "hint": "A white bird on the lake",
+      "image": "swan",
+      "category": "animals"
+    },
+    {
+      "word": "ROOSTER",
+      "hint": "He crows in the morning",
+      "image": "rooster",
+      "category": "animals"
+    },
+    {
+      "word": "TURKEY",
+      "hint": "A big farm bird",
+      "image": "turkey",
+      "category": "animals"
+    },
+    {
+      "word": "GOOSE",
+      "hint": "A big bird that honks",
+      "image": "goose",
+      "category": "animals"
+    },
+    {
+      "word": "KITTEN",
+      "hint": "A baby cat",
+      "image": "kitten",
+      "category": "animals"
+    },
+    {
+      "word": "PUPPY",
+      "hint": "A baby dog",
+      "image": "puppy",
+      "category": "animals"
+    },
+    {
+      "word": "CALF",
+      "hint": "A baby cow",
+      "image": "calf",
+      "category": "animals"
+    },
+    {
+      "word": "LAMB",
+      "hint": "A baby sheep",
+      "image": "lamb",
+      "category": "animals"
+    },
+    {
+      "word": "CHICK",
+      "hint": "A baby hen",
+      "image": "chick",
+      "category": "animals"
+    },
+    {
+      "word": "BUTTERFLY",
+      "hint": "It has pretty wings and loves flowers",
+      "image": "butterfly",
+      "category": "animals"
+    },
+    {
+      "word": "SPIDER",
+      "hint": "It has eight legs and spins a web",
+      "image": "spider",
+      "category": "animals"
+    },
+    {
+      "word": "LADYBUG",
+      "hint": "A red beetle with black spots",
+      "image": "ladybug",
+      "category": "animals"
+    },
+    {
+      "word": "CATERPILLAR",
+      "hint": "It turns into a butterfly",
+      "image": "caterpillar",
+      "category": "animals"
+    },
+    {
+      "word": "GRASSHOPPER",
+      "hint": "A green insect that jumps far",
+      "image": "grasshopper",
+      "category": "animals"
+    },
+    {
+      "word": "DRAGONFLY",
+      "hint": "An insect with long clear wings",
+      "image": "dragonfly",
+      "category": "animals"
+    },
+    {
+      "word": "CRICKET",
+      "hint": "An insect that chirps at night",
+      "image": "cricket",
+      "category": "animals"
+    },
+    {
+      "word": "MOTH",
+      "hint": "It flies to the light at night",
+      "image": "moth",
+      "category": "animals"
+    },
+    {
+      "word": "WORM",
+      "hint": "It wiggles in the soil",
+      "image": "worm",
+      "category": "animals"
+    },
+    {
+      "word": "OCTOPUS",
+      "hint": "A sea animal with eight arms",
+      "image": "octopus",
+      "category": "animals"
+    },
+    {
+      "word": "JELLYFISH",
+      "hint": "A soft see-through sea animal",
+      "image": "jellyfish",
+      "category": "animals"
+    },
+    {
+      "word": "STARFISH",
+      "hint": "A sea animal shaped like a star",
+      "image": "starfish",
+      "category": "animals"
+    },
+    {
+      "word": "SEAL",
+      "hint": "A sea animal that claps",
+      "image": "seal",
+      "category": "animals"
+    },
+    {
+      "word": "LOBSTER",
+      "hint": "A sea animal with big claws",
+      "image": "lobster",
+      "category": "animals"
+    },
+    {
+      "word": "SHRIMP",
+      "hint": "A tiny curled sea animal",
+      "image": "shrimp",
+      "category": "animals"
+    },
+    {
+      "word": "FROGLET",
+      "hint": "A young frog",
+      "image": "frog",
+      "category": "animals"
+    },
+    {
+      "word": "LIZARD",
+      "hint": "A small animal that suns on rocks",
+      "image": "lizard",
+      "category": "animals"
+    },
+    {
+      "word": "GECKO",
+      "hint": "A small lizard on the wall",
+      "image": "lizard",
+      "category": "animals"
+    },
+    {
+      "word": "TOAD",
+      "hint": "It is like a frog with bumpy skin",
+      "image": "frog",
+      "category": "animals"
+    },
+    {
+      "word": "CROCODILE",
+      "hint": "A big reptile with a long snout",
+      "image": "crocodile",
+      "category": "animals"
+    },
+    {
+      "word": "HIPPO",
+      "hint": "A big animal that loves water",
+      "image": "hippo",
+      "category": "animals"
+    },
+    {
+      "word": "RHINO",
+      "hint": "A big animal with a horn on its nose",
+      "image": "rhino",
+      "category": "animals"
+    },
+    {
+      "word": "KANGAROO",
+      "hint": "It hops and has a pouch",
+      "image": "kangaroo",
+      "category": "animals"
+    },
+    {
+      "word": "LEOPARD",
+      "hint": "A big cat with spots",
+      "image": "leopard",
+      "category": "animals"
+    },
+    {
+      "word": "CHEETAH",
+      "hint": "The fastest animal on land",
+      "image": "cheetah",
+      "category": "animals"
+    },
+    {
+      "word": "PONY",
+      "hint": "A small horse",
+      "image": "horse",
+      "category": "animals"
+    },
+    {
+      "word": "MULE",
+      "hint": "A strong animal that carries loads",
+      "image": "donkey",
+      "category": "animals"
+    },
+    {
+      "word": "OTTER",
+      "hint": "A playful animal that swims in rivers",
+      "image": "otter",
+      "category": "animals"
+    },
+    {
+      "word": "BEAVER",
+      "hint": "It builds dams with wood",
+      "image": "beaver",
+      "category": "animals"
+    },
+    {
+      "word": "HEDGEHOG",
+      "hint": "A small animal covered in spines",
+      "image": "hedgehog",
+      "category": "animals"
+    },
+    {
+      "word": "RACCOON",
+      "hint": "It has a mask on its face",
+      "image": "raccoon",
+      "category": "animals"
+    },
+    {
+      "word": "SKUNK",
+      "hint": "A black animal with a white stripe",
+      "image": "skunk",
+      "category": "animals"
+    },
+    {
+      "word": "MOLE",
+      "hint": "It digs tunnels under the ground",
+      "image": "mole",
+      "category": "animals"
+    },
+    {
+      "word": "BADGER",
+      "hint": "A striped animal that digs",
+      "image": "badger",
+      "category": "animals"
+    },
+    {
+      "word": "CHIPMUNK",
+      "hint": "A tiny striped animal with cheek pouches",
+      "image": "chipmunk",
+      "category": "animals"
+    },
+    {
+      "word": "HAMSTER",
+      "hint": "A small pet that runs on a wheel",
+      "image": "hamster",
+      "category": "animals"
+    },
+    {
+      "word": "GUINEA",
+      "hint": "A small round pet that squeaks",
+      "image": "hamster",
+      "category": "animals"
+    },
+    {
+      "word": "FERRET",
+      "hint": "A long playful pet",
+      "image": "ferret",
+      "category": "animals"
+    },
+    {
+      "word": "LLAMA",
+      "hint": "A woolly animal with a long neck",
+      "image": "llama",
+      "category": "animals"
+    },
+    {
+      "word": "ALPACA",
+      "hint": "A soft woolly animal",
+      "image": "llama",
+      "category": "animals"
+    },
+    {
+      "word": "YAK",
+      "hint": "A shaggy animal from the mountains",
+      "image": "yak",
+      "category": "animals"
+    },
+    {
+      "word": "BISON",
+      "hint": "A big shaggy wild animal",
+      "image": "bison",
+      "category": "animals"
+    },
+    {
+      "word": "MOOSE",
+      "hint": "A big deer with wide antlers",
+      "image": "moose",
+      "category": "animals"
+    },
+    {
+      "word": "ANTELOPE",
+      "hint": "A fast animal with curved horns",
+      "image": "antelope",
+      "category": "animals"
+    },
+    {
+      "word": "GORILLA",
+      "hint": "The biggest ape",
+      "image": "gorilla",
+      "category": "animals"
+    },
+    {
+      "word": "CHIMP",
+      "hint": "A clever ape",
+      "image": "monkey",
+      "category": "animals"
+    },
+    {
+      "word": "SLOTH",
+      "hint": "The slowest animal in the tree",
+      "image": "sloth",
+      "category": "animals"
+    },
+    {
+      "word": "LEMUR",
+      "hint": "It has a striped tail",
+      "image": "lemur",
+      "category": "animals"
+    },
+    {
+      "word": "FLAMINGO",
+      "hint": "A pink bird standing on one leg",
+      "image": "flamingo",
+      "category": "animals"
+    },
+    {
+      "word": "PELICAN",
+      "hint": "A bird with a big beak pouch",
+      "image": "pelican",
+      "category": "animals"
+    },
+    {
+      "word": "SEAGULL",
+      "hint": "A bird at the seaside",
+      "image": "seagull",
+      "category": "animals"
+    },
+    {
+      "word": "SPARROW",
+      "hint": "A small brown garden bird",
+      "image": "sparrow",
+      "category": "animals"
+    },
+    {
+      "word": "ROBIN",
+      "hint": "A small bird with a red chest",
+      "image": "robin",
+      "category": "animals"
+    },
+    {
+      "word": "PIGEON",
+      "hint": "A grey bird in the city",
+      "image": "pigeon",
+      "category": "animals"
+    },
+    {
+      "word": "WOODPECKER",
+      "hint": "It taps on tree trunks",
+      "image": "woodpecker",
+      "category": "animals"
+    },
+    {
+      "word": "ORANGE",
+      "hint": "A round juicy citrus fruit",
+      "image": "orange",
+      "category": "food"
+    },
+    {
+      "word": "LEMON",
+      "hint": "A sour yellow fruit",
+      "image": "lemon",
+      "category": "food"
+    },
+    {
+      "word": "CHERRY",
+      "hint": "A tiny red fruit with a stone",
+      "image": "cherry",
+      "category": "food"
+    },
+    {
+      "word": "PEACH",
+      "hint": "A soft fruit with fuzzy skin",
+      "image": "peach",
+      "category": "food"
+    },
+    {
+      "word": "PEAR",
+      "hint": "A fruit shaped like a bell",
+      "image": "pear",
+      "category": "food"
+    },
+    {
+      "word": "PLUM",
+      "hint": "A small purple fruit",
+      "image": "plum",
+      "category": "food"
+    },
+    {
+      "word": "MELON",
+      "hint": "A big sweet fruit with seeds",
+      "image": "melon",
+      "category": "food"
+    },
+    {
+      "word": "KIWI",
+      "hint": "A green fruit with fuzzy brown skin",
+      "image": "kiwi",
+      "category": "food"
+    },
+    {
+      "word": "COCONUT",
+      "hint": "A hard brown fruit with white inside",
+      "image": "coconut",
+      "category": "food"
+    },
+    {
+      "word": "PINEAPPLE",
+      "hint": "A spiky fruit with a crown",
+      "image": "pineapple",
+      "category": "food"
+    },
+    {
+      "word": "STRAWBERRY",
+      "hint": "A red fruit with seeds outside",
+      "image": "strawberry",
+      "category": "food"
+    },
+    {
+      "word": "BLUEBERRY",
+      "hint": "A tiny blue fruit",
+      "image": "blueberry",
+      "category": "food"
+    },
+    {
+      "word": "GUAVA",
+      "hint": "A green fruit with pink inside",
+      "image": "guava",
+      "category": "food"
+    },
+    {
+      "word": "PAPAYA",
+      "hint": "An orange fruit with black seeds",
+      "image": "papaya",
+      "category": "food"
+    },
+    {
+      "word": "DATES",
+      "hint": "Sweet brown fruit from a palm tree",
+      "image": "dates",
+      "category": "food"
+    },
+    {
+      "word": "BREAD",
+      "hint": "We make toast with it",
+      "image": "bread",
+      "category": "food"
+    },
+    {
+      "word": "RICE",
+      "hint": "Small white grains we cook",
+      "image": "rice",
+      "category": "food"
+    },
+    {
+      "word": "CHEESE",
+      "hint": "A yellow food made from milk",
+      "image": "cheese",
+      "category": "food"
+    },
+    {
+      "word": "BUTTER",
+      "hint": "We spread it on bread",
+      "image": "butter",
+      "category": "food"
+    },
+    {
+      "word": "HONEY",
+      "hint": "Sweet and made by bees",
+      "image": "honey",
+      "category": "food"
+    },
+    {
+      "word": "SOUP",
+      "hint": "A warm drink you eat with a spoon",
+      "image": "soup",
+      "category": "food"
+    },
+    {
+      "word": "CAKE",
+      "hint": "We eat it on birthdays",
+      "image": "cake",
+      "category": "food"
+    },
+    {
+      "word": "COOKIE",
+      "hint": "A small sweet biscuit",
+      "image": "cookie",
+      "category": "food"
+    },
+    {
+      "word": "CANDY",
+      "hint": "A small sweet treat",
+      "image": "candy",
+      "category": "food"
+    },
+    {
+      "word": "ICECREAM",
+      "hint": "A cold sweet treat",
+      "image": "icecream",
+      "category": "food"
+    },
+    {
+      "word": "PIZZA",
+      "hint": "A round food with cheese on top",
+      "image": "pizza",
+      "category": "food"
+    },
+    {
+      "word": "PASTA",
+      "hint": "Long noodles we boil",
+      "image": "pasta",
+      "category": "food"
+    },
+    {
+      "word": "NOODLES",
+      "hint": "Long thin strands we slurp",
+      "image": "noodles",
+      "category": "food"
+    },
+    {
+      "word": "SANDWICH",
+      "hint": "Food between two slices of bread",
+      "image": "sandwich",
+      "category": "food"
+    },
+    {
+      "word": "BURGER",
+      "hint": "A bun with a patty inside",
+      "image": "burger",
+      "category": "food"
+    },
+    {
+      "word": "SALAD",
+      "hint": "A bowl of fresh vegetables",
+      "image": "salad",
+      "category": "food"
+    },
+    {
+      "word": "CARROT",
+      "hint": "A long orange vegetable",
+      "image": "carrot",
+      "category": "food"
+    },
+    {
+      "word": "POTATO",
+      "hint": "A round vegetable that grows underground",
+      "image": "potato",
+      "category": "food"
+    },
+    {
+      "word": "TOMATO",
+      "hint": "A round red salad vegetable",
+      "image": "tomato",
+      "category": "food"
+    },
+    {
+      "word": "ONION",
+      "hint": "It makes you cry when you cut it",
+      "image": "onion",
+      "category": "food"
+    },
+    {
+      "word": "GARLIC",
+      "hint": "A strong white bulb for cooking",
+      "image": "garlic",
+      "category": "food"
+    },
+    {
+      "word": "PEAS",
+      "hint": "Tiny green balls in a pod",
+      "image": "peas",
+      "category": "food"
+    },
+    {
+      "word": "BEANS",
+      "hint": "Long green pods we cook",
+      "image": "beans",
+      "category": "food"
+    },
+    {
+      "word": "CORN",
+      "hint": "Yellow kernels on a cob",
+      "image": "corn",
+      "category": "food"
+    },
+    {
+      "word": "PUMPKIN",
+      "hint": "A big orange vegetable",
+      "image": "pumpkin",
+      "category": "food"
+    },
+    {
+      "word": "CABBAGE",
+      "hint": "A leafy round vegetable",
+      "image": "cabbage",
+      "category": "food"
+    },
+    {
+      "word": "SPINACH",
+      "hint": "Dark green healthy leaves",
+      "image": "spinach",
+      "category": "food"
+    },
+    {
+      "word": "CUCUMBER",
+      "hint": "A long cool green vegetable",
+      "image": "cucumber",
+      "category": "food"
+    },
+    {
+      "word": "LETTUCE",
+      "hint": "Crisp green salad leaves",
+      "image": "lettuce",
+      "category": "food"
+    },
+    {
+      "word": "MUSHROOM",
+      "hint": "It grows with a little umbrella top",
+      "image": "mushroom",
+      "category": "food"
+    },
+    {
+      "word": "GINGER",
+      "hint": "A spicy root for cooking",
+      "image": "ginger",
+      "category": "food"
+    },
+    {
+      "word": "CHILLI",
+      "hint": "A hot spicy pepper",
+      "image": "chilli",
+      "category": "food"
+    },
+    {
+      "word": "SUGAR",
+      "hint": "Sweet white grains",
+      "image": "sugar",
+      "category": "food"
+    },
+    {
+      "word": "SALT",
+      "hint": "White grains that make food tasty",
+      "image": "salt",
+      "category": "food"
+    },
+    {
+      "word": "WATER",
+      "hint": "We drink it every day",
+      "image": "water",
+      "category": "food"
+    },
+    {
+      "word": "JUICE",
+      "hint": "A sweet drink from fruit",
+      "image": "juice",
+      "category": "food"
+    },
+    {
+      "word": "TEA",
+      "hint": "A warm drink in a cup",
+      "image": "tea",
+      "category": "food"
+    },
+    {
+      "word": "COFFEE",
+      "hint": "A warm brown drink for grown-ups",
+      "image": "coffee",
+      "category": "food"
+    },
+    {
+      "word": "CURD",
+      "hint": "Thick white food made from milk",
+      "image": "curd",
+      "category": "food"
+    },
+    {
+      "word": "CREAM",
+      "hint": "Thick white topping for cake",
+      "image": "cream",
+      "category": "food"
+    },
+    {
+      "word": "JAM",
+      "hint": "Sweet fruit spread for bread",
+      "image": "jam",
+      "category": "food"
+    },
+    {
+      "word": "PANCAKE",
+      "hint": "A flat soft breakfast cake",
+      "image": "pancake",
+      "category": "food"
+    },
+    {
+      "word": "WAFFLE",
+      "hint": "A breakfast cake with squares",
+      "image": "waffle",
+      "category": "food"
+    },
+    {
+      "word": "DONUT",
+      "hint": "A sweet ring with a hole",
+      "image": "donut",
+      "category": "food"
+    },
+    {
+      "word": "MUFFIN",
+      "hint": "A small round cake",
+      "image": "muffin",
+      "category": "food"
+    },
+    {
+      "word": "PIE",
+      "hint": "A pastry with filling inside",
+      "image": "pie",
+      "category": "food"
+    },
+    {
+      "word": "PUDDING",
+      "hint": "A soft sweet dessert",
+      "image": "pudding",
+      "category": "food"
+    },
+    {
+      "word": "CHOCOLATE",
+      "hint": "A sweet brown treat",
+      "image": "chocolate",
+      "category": "food"
+    },
+    {
+      "word": "BISCUIT",
+      "hint": "A crunchy snack with tea",
+      "image": "cookie",
+      "category": "food"
+    },
+    {
+      "word": "POPCORN",
+      "hint": "Corn that pops when hot",
+      "image": "popcorn",
+      "category": "food"
+    },
+    {
+      "word": "CHIPS",
+      "hint": "Thin crispy potato slices",
+      "image": "chips",
+      "category": "food"
+    },
+    {
+      "word": "NUTS",
+      "hint": "Hard shells with a tasty seed inside",
+      "image": "nuts",
+      "category": "food"
+    },
+    {
+      "word": "ALMOND",
+      "hint": "A smooth brown nut",
+      "image": "almond",
+      "category": "food"
+    },
+    {
+      "word": "CASHEW",
+      "hint": "A curved creamy nut",
+      "image": "cashew",
+      "category": "food"
+    },
+    {
+      "word": "PEANUT",
+      "hint": "A nut that grows underground",
+      "image": "peanut",
+      "category": "food"
+    },
+    {
+      "word": "DOSA",
+      "hint": "A thin crispy South Indian pancake",
+      "image": "dosa",
+      "category": "food"
+    },
+    {
+      "word": "IDLI",
+      "hint": "A soft steamed rice cake",
+      "image": "idli",
+      "category": "food"
+    },
+    {
+      "word": "SAMOSA",
+      "hint": "A crispy triangle snack",
+      "image": "samosa",
+      "category": "food"
+    },
+    {
+      "word": "CHAPATI",
+      "hint": "A soft flat bread",
+      "image": "chapati",
+      "category": "food"
+    },
+    {
+      "word": "PORRIDGE",
+      "hint": "A warm soft breakfast",
+      "image": "porridge",
+      "category": "food"
+    },
+    {
+      "word": "YOGURT",
+      "hint": "A creamy food made from milk",
+      "image": "yogurt",
+      "category": "food"
+    },
+    {
+      "word": "OATS",
+      "hint": "A healthy grain for breakfast",
+      "image": "oats",
+      "category": "food"
+    },
+    {
+      "word": "WHEAT",
+      "hint": "A grain we make flour from",
+      "image": "wheat",
+      "category": "food"
+    },
+    {
+      "word": "FLOUR",
+      "hint": "White powder for baking",
+      "image": "flour",
+      "category": "food"
+    },
+    {
+      "word": "OIL",
+      "hint": "We use it to fry food",
+      "image": "oil",
+      "category": "food"
+    },
+    {
+      "word": "VINEGAR",
+      "hint": "A sour liquid for cooking",
+      "image": "vinegar",
+      "category": "food"
+    },
+    {
+      "word": "PEPPER",
+      "hint": "A spice that makes you sneeze",
+      "image": "pepper",
+      "category": "food"
+    },
+    {
+      "word": "CINNAMON",
+      "hint": "A sweet brown spice stick",
+      "image": "cinnamon",
+      "category": "food"
+    },
+    {
+      "word": "LENTILS",
+      "hint": "Small seeds we cook into dal",
+      "image": "lentils",
+      "category": "food"
+    },
+    {
+      "word": "BEETROOT",
+      "hint": "A deep red root vegetable",
+      "image": "beetroot",
+      "category": "food"
+    },
+    {
+      "word": "RADISH",
+      "hint": "A crunchy white root",
+      "image": "radish",
+      "category": "food"
+    },
+    {
+      "word": "TURNIP",
+      "hint": "A round pale root vegetable",
+      "image": "turnip",
+      "category": "food"
+    },
+    {
+      "word": "BROCCOLI",
+      "hint": "A green vegetable like a little tree",
+      "image": "broccoli",
+      "category": "food"
+    },
+    {
+      "word": "CAULIFLOWER",
+      "hint": "A white vegetable with florets",
+      "image": "cauliflower",
+      "category": "food"
+    },
+    {
+      "word": "CELERY",
+      "hint": "A long crunchy green stalk",
+      "image": "celery",
+      "category": "food"
+    },
+    {
+      "word": "OLIVE",
+      "hint": "A small salty fruit for pizza",
+      "image": "olive",
+      "category": "food"
+    },
+    {
+      "word": "BERRY",
+      "hint": "A tiny sweet fruit",
+      "image": "berry",
+      "category": "food"
+    },
+    {
+      "word": "APRICOT",
+      "hint": "A small orange fruit",
+      "image": "apricot",
+      "category": "food"
+    },
+    {
+      "word": "FIG",
+      "hint": "A soft sweet fruit with tiny seeds",
+      "image": "fig",
+      "category": "food"
+    },
+    {
+      "word": "POMEGRANATE",
+      "hint": "A fruit full of red jewels",
+      "image": "pomegranate",
+      "category": "food"
+    },
+    {
+      "word": "JACKFRUIT",
+      "hint": "A huge spiky sweet fruit",
+      "image": "jackfruit",
+      "category": "food"
+    },
+    {
+      "word": "LIME",
+      "hint": "A small green sour fruit",
+      "image": "lime",
+      "category": "food"
+    },
+    {
+      "word": "SOUPBOWL",
+      "hint": "We serve hot soup in it",
+      "image": "soup",
+      "category": "food"
+    },
+    {
+      "word": "SNACK",
+      "hint": "A small bite between meals",
+      "image": "snack",
+      "category": "food"
+    },
+    {
+      "word": "BREAKFAST",
+      "hint": "The first meal of the day",
+      "image": "breakfast",
+      "category": "food"
+    },
+    {
+      "word": "LEAF",
+      "hint": "It grows green on a branch",
+      "image": "leaf",
+      "category": "nature"
+    },
+    {
+      "word": "ROOT",
+      "hint": "It holds the plant in the soil",
+      "image": "root",
+      "category": "nature"
+    },
+    {
+      "word": "SEED",
+      "hint": "A plant grows from it",
+      "image": "seed",
+      "category": "nature"
+    },
+    {
+      "word": "BRANCH",
+      "hint": "An arm of a tree",
+      "image": "branch",
+      "category": "nature"
+    },
+    {
+      "word": "GRASS",
+      "hint": "Soft green ground cover",
+      "image": "grass",
+      "category": "nature"
+    },
+    {
+      "word": "BUSH",
+      "hint": "A small round plant",
+      "image": "bush",
+      "category": "nature"
+    },
+    {
+      "word": "ROSE",
+      "hint": "A pretty flower with thorns",
+      "image": "rose",
+      "category": "nature"
+    },
+    {
+      "word": "LILY",
+      "hint": "A tall white flower",
+      "image": "lily",
+      "category": "nature"
+    },
+    {
+      "word": "TULIP",
+      "hint": "A cup-shaped spring flower",
+      "image": "tulip",
+      "category": "nature"
+    },
+    {
+      "word": "SUNFLOWER",
+      "hint": "A tall flower that follows the sun",
+      "image": "sunflower",
+      "category": "nature"
+    },
+    {
+      "word": "DAISY",
+      "hint": "A small white flower with a yellow middle",
+      "image": "daisy",
+      "category": "nature"
+    },
+    {
+      "word": "LOTUS",
+      "hint": "A flower that floats on water",
+      "image": "lotus",
+      "category": "nature"
+    },
+    {
+      "word": "CACTUS",
+      "hint": "A spiky plant from the desert",
+      "image": "cactus",
+      "category": "nature"
+    },
+    {
+      "word": "PALM",
+      "hint": "A tall tree with big fan leaves",
+      "image": "palm",
+      "category": "nature"
+    },
+    {
+      "word": "BAMBOO",
+      "hint": "A tall hollow green stem",
+      "image": "bamboo",
+      "category": "nature"
+    },
+    {
+      "word": "FERN",
+      "hint": "A plant with feathery leaves",
+      "image": "fern",
+      "category": "nature"
+    },
+    {
+      "word": "MOSS",
+      "hint": "Soft green carpet on rocks",
+      "image": "moss",
+      "category": "nature"
+    },
+    {
+      "word": "VINE",
+      "hint": "A plant that climbs",
+      "image": "vine",
+      "category": "nature"
+    },
+    {
+      "word": "HILL",
+      "hint": "A small mountain",
+      "image": "hill",
+      "category": "nature"
+    },
+    {
+      "word": "MOUNTAIN",
+      "hint": "A very tall rocky peak",
+      "image": "mountain",
+      "category": "nature"
+    },
+    {
+      "word": "VALLEY",
+      "hint": "The low land between hills",
+      "image": "valley",
+      "category": "nature"
+    },
+    {
+      "word": "RIVER",
+      "hint": "Water flowing to the sea",
+      "image": "river",
+      "category": "nature"
+    },
+    {
+      "word": "LAKE",
+      "hint": "A big pool of still water",
+      "image": "lake",
+      "category": "nature"
+    },
+    {
+      "word": "POND",
+      "hint": "A small pool of water",
+      "image": "pond",
+      "category": "nature"
+    },
+    {
+      "word": "SEA",
+      "hint": "A huge body of salty water",
+      "image": "sea",
+      "category": "nature"
+    },
+    {
+      "word": "OCEAN",
+      "hint": "The biggest water on Earth",
+      "image": "ocean",
+      "category": "nature"
+    },
+    {
+      "word": "BEACH",
+      "hint": "Sandy ground by the sea",
+      "image": "beach",
+      "category": "nature"
+    },
+    {
+      "word": "SAND",
+      "hint": "Tiny grains on the beach",
+      "image": "sand",
+      "category": "nature"
+    },
+    {
+      "word": "ROCK",
+      "hint": "A hard lump of stone",
+      "image": "rock",
+      "category": "nature"
+    },
+    {
+      "word": "STONE",
+      "hint": "A small hard piece of rock",
+      "image": "stone",
+      "category": "nature"
+    },
+    {
+      "word": "CAVE",
+      "hint": "A hollow room inside a hill",
+      "image": "cave",
+      "category": "nature"
+    },
+    {
+      "word": "ISLAND",
+      "hint": "Land with water all around",
+      "image": "island",
+      "category": "nature"
+    },
+    {
+      "word": "FOREST",
+      "hint": "A place with many trees",
+      "image": "forest",
+      "category": "nature"
+    },
+    {
+      "word": "DESERT",
+      "hint": "A dry sandy place",
+      "image": "desert",
+      "category": "nature"
+    },
+    {
+      "word": "FIELD",
+      "hint": "Open land where crops grow",
+      "image": "field",
+      "category": "nature"
+    },
+    {
+      "word": "GARDEN",
+      "hint": "A place where flowers grow",
+      "image": "garden",
+      "category": "nature"
+    },
+    {
+      "word": "SKY",
+      "hint": "The blue space above us",
+      "image": "sky",
+      "category": "nature"
+    },
+    {
+      "word": "CLOUD",
+      "hint": "A soft white shape in the sky",
+      "image": "cloud",
+      "category": "nature"
+    },
+    {
+      "word": "EARTH",
+      "hint": "The planet we live on",
+      "image": "earth",
+      "category": "nature"
+    },
+    {
+      "word": "WORLD",
+      "hint": "Everything around us",
+      "image": "earth",
+      "category": "nature"
+    },
+    {
+      "word": "PLANET",
+      "hint": "A big ball in space",
+      "image": "planet",
+      "category": "nature"
+    },
+    {
+      "word": "COMET",
+      "hint": "A star with a bright tail",
+      "image": "comet",
+      "category": "nature"
+    },
+    {
+      "word": "GALAXY",
+      "hint": "A huge family of stars",
+      "image": "galaxy",
+      "category": "nature"
+    },
+    {
+      "word": "SPACE",
+      "hint": "The dark place beyond the sky",
+      "image": "space",
+      "category": "nature"
+    },
+    {
+      "word": "ROCKET",
+      "hint": "It flies up into space",
+      "image": "rocket",
+      "category": "nature"
+    },
+    {
+      "word": "SUNSET",
+      "hint": "When the sun goes down",
+      "image": "sunset",
+      "category": "nature"
+    },
+    {
+      "word": "SUNRISE",
+      "hint": "When the sun comes up",
+      "image": "sunrise",
+      "category": "nature"
+    },
+    {
+      "word": "SHADOW",
+      "hint": "A dark shape made by light",
+      "image": "shadow",
+      "category": "nature"
+    },
+    {
+      "word": "LIGHT",
+      "hint": "It helps us see",
+      "image": "light",
+      "category": "nature"
+    },
+    {
+      "word": "FIRE",
+      "hint": "It is hot and bright",
+      "image": "fire",
+      "category": "nature"
+    },
+    {
+      "word": "WAVE",
+      "hint": "Water rolling onto the shore",
+      "image": "wave",
+      "category": "nature"
+    },
+    {
+      "word": "TIDE",
+      "hint": "The sea rising and falling",
+      "image": "wave",
+      "category": "nature"
+    },
+    {
+      "word": "SHELL",
+      "hint": "You find it on the sand",
+      "image": "shell",
+      "category": "nature"
+    },
+    {
+      "word": "CORAL",
+      "hint": "Colourful rock in the sea",
+      "image": "coral",
+      "category": "nature"
+    },
+    {
+      "word": "PEBBLE",
+      "hint": "A small smooth stone",
+      "image": "pebble",
+      "category": "nature"
+    },
+    {
+      "word": "MUD",
+      "hint": "Wet soft soil",
+      "image": "mud",
+      "category": "nature"
+    },
+    {
+      "word": "SOIL",
+      "hint": "Brown ground where plants grow",
+      "image": "soil",
+      "category": "nature"
+    },
+    {
+      "word": "CLAY",
+      "hint": "Sticky soil we can shape",
+      "image": "clay",
+      "category": "nature"
+    },
+    {
+      "word": "DUST",
+      "hint": "Tiny dry powder in the air",
+      "image": "dust",
+      "category": "nature"
+    },
+    {
+      "word": "SMOKE",
+      "hint": "Grey clouds from a fire",
+      "image": "smoke",
+      "category": "nature"
+    },
+    {
+      "word": "STREAM",
+      "hint": "A small flowing river",
+      "image": "stream",
+      "category": "nature"
+    },
+    {
+      "word": "WATERFALL",
+      "hint": "Water falling from a high rock",
+      "image": "waterfall",
+      "category": "nature"
+    },
+    {
+      "word": "SPRING",
+      "hint": "Water coming out of the ground",
+      "image": "spring",
+      "category": "nature"
+    },
+    {
+      "word": "WELL",
+      "hint": "A deep hole with water",
+      "image": "well",
+      "category": "nature"
+    },
+    {
+      "word": "MEADOW",
+      "hint": "A field full of grass and flowers",
+      "image": "meadow",
+      "category": "nature"
+    },
+    {
+      "word": "JUNGLE",
+      "hint": "A thick wild forest",
+      "image": "jungle",
+      "category": "nature"
+    },
+    {
+      "word": "SWAMP",
+      "hint": "Soft wet muddy land",
+      "image": "swamp",
+      "category": "nature"
+    },
+    {
+      "word": "CLIFF",
+      "hint": "A tall steep rock face",
+      "image": "cliff",
+      "category": "nature"
+    },
+    {
+      "word": "PEAK",
+      "hint": "The very top of a mountain",
+      "image": "peak",
+      "category": "nature"
+    },
+    {
+      "word": "VOLCANO",
+      "hint": "A mountain that spits fire",
+      "image": "volcano",
+      "category": "nature"
+    },
+    {
+      "word": "GLACIER",
+      "hint": "A slow river of ice",
+      "image": "glacier",
+      "category": "nature"
+    },
+    {
+      "word": "ICEBERG",
+      "hint": "A floating mountain of ice",
+      "image": "iceberg",
+      "category": "nature"
+    },
+    {
+      "word": "HORIZON",
+      "hint": "Where the sky meets the land",
+      "image": "horizon",
+      "category": "nature"
+    },
+    {
+      "word": "NATURE",
+      "hint": "All the living world around us",
+      "image": "nature",
+      "category": "nature"
+    },
+    {
+      "word": "SEASON",
+      "hint": "Spring, summer, autumn or winter",
+      "image": "season",
+      "category": "nature"
+    },
+    {
+      "word": "SUMMER",
+      "hint": "The hot sunny season",
+      "image": "summer",
+      "category": "nature"
+    },
+    {
+      "word": "WINTER",
+      "hint": "The cold snowy season",
+      "image": "winter",
+      "category": "nature"
+    },
+    {
+      "word": "AUTUMN",
+      "hint": "When leaves turn brown and fall",
+      "image": "autumn",
+      "category": "nature"
+    },
+    {
+      "word": "PETAL",
+      "hint": "One soft part of a flower",
+      "image": "petal",
+      "category": "nature"
+    },
+    {
+      "word": "STEM",
+      "hint": "The stalk that holds a flower",
+      "image": "stem",
+      "category": "nature"
+    },
+    {
+      "word": "THORN",
+      "hint": "A sharp point on a rose",
+      "image": "thorn",
+      "category": "nature"
+    },
+    {
+      "word": "BUD",
+      "hint": "A flower before it opens",
+      "image": "bud",
+      "category": "nature"
+    },
+    {
+      "word": "POLLEN",
+      "hint": "Yellow dust bees carry",
+      "image": "pollen",
+      "category": "nature"
+    },
+    {
+      "word": "NECTAR",
+      "hint": "Sweet juice inside a flower",
+      "image": "nectar",
+      "category": "nature"
+    },
+    {
+      "word": "HONEYCOMB",
+      "hint": "Where bees keep their honey",
+      "image": "honeycomb",
+      "category": "nature"
+    },
+    {
+      "word": "NEST",
+      "hint": "A bird builds it for its eggs",
+      "image": "nest",
+      "category": "nature"
+    },
+    {
+      "word": "FEATHER",
+      "hint": "It is soft and comes from a bird",
+      "image": "feather",
+      "category": "nature"
+    },
+    {
+      "word": "WING",
+      "hint": "A bird flaps it to fly",
+      "image": "wing",
+      "category": "nature"
+    },
+    {
+      "word": "BURROW",
+      "hint": "A hole where an animal lives",
+      "image": "burrow",
+      "category": "nature"
+    },
+    {
+      "word": "HERD",
+      "hint": "A big group of animals",
+      "image": "herd",
+      "category": "nature"
+    },
+    {
+      "word": "OAK",
+      "hint": "A big strong tree",
+      "image": "oak",
+      "category": "nature"
+    },
+    {
+      "word": "PINE",
+      "hint": "A tree with needles and cones",
+      "image": "pine",
+      "category": "nature"
+    },
+    {
+      "word": "MAPLE",
+      "hint": "A tree with pretty red leaves",
+      "image": "maple",
+      "category": "nature"
+    },
+    {
+      "word": "WILLOW",
+      "hint": "A tree with hanging branches",
+      "image": "willow",
+      "category": "nature"
+    },
+    {
+      "word": "BANYAN",
+      "hint": "A huge tree with hanging roots",
+      "image": "banyan",
+      "category": "nature"
+    },
+    {
+      "word": "NEEM",
+      "hint": "A tree with bitter healthy leaves",
+      "image": "neem",
+      "category": "nature"
+    },
+    {
+      "word": "MANGROVE",
+      "hint": "A tree that grows in salty water",
+      "image": "mangrove",
+      "category": "nature"
+    },
+    {
+      "word": "ORCHID",
+      "hint": "A beautiful delicate flower",
+      "image": "orchid",
+      "category": "nature"
+    },
+    {
+      "word": "JASMINE",
+      "hint": "A small white flower that smells sweet",
+      "image": "jasmine",
+      "category": "nature"
+    },
+    {
+      "word": "MARIGOLD",
+      "hint": "A bright orange flower",
+      "image": "marigold",
+      "category": "nature"
+    },
+    {
+      "word": "BOOK",
+      "hint": "We read stories in it",
+      "image": "book",
+      "category": "things"
+    },
+    {
+      "word": "TOY",
+      "hint": "Something fun to play with",
+      "image": "toy",
+      "category": "things"
+    },
+    {
+      "word": "DOLL",
+      "hint": "A toy that looks like a person",
+      "image": "doll",
+      "category": "things"
+    },
+    {
+      "word": "KITE",
+      "hint": "It flies on a string in the wind",
+      "image": "kite",
+      "category": "things"
+    },
+    {
+      "word": "DRUM",
+      "hint": "You hit it to make a beat",
+      "image": "drum",
+      "category": "things"
+    },
+    {
+      "word": "BELL",
+      "hint": "It rings ding dong",
+      "image": "bell",
+      "category": "things"
+    },
+    {
+      "word": "CLOCK",
+      "hint": "It tells us the time",
+      "image": "clock",
+      "category": "things"
+    },
+    {
+      "word": "WATCH",
+      "hint": "A clock you wear",
+      "image": "watch",
+      "category": "things"
+    },
+    {
+      "word": "KEY",
+      "hint": "It opens a lock",
+      "image": "key",
+      "category": "things"
+    },
+    {
+      "word": "LOCK",
+      "hint": "A key opens it",
+      "image": "lock",
+      "category": "things"
+    },
+    {
+      "word": "BAG",
+      "hint": "We carry things in it",
+      "image": "bag",
+      "category": "things"
+    },
+    {
+      "word": "BOX",
+      "hint": "A square container",
+      "image": "box",
+      "category": "things"
+    },
+    {
+      "word": "ROPE",
+      "hint": "A long thick string",
+      "image": "rope",
+      "category": "things"
+    },
+    {
+      "word": "STRING",
+      "hint": "A thin piece of cord",
+      "image": "string",
+      "category": "things"
+    },
+    {
+      "word": "BALLOON",
+      "hint": "It floats when full of air",
+      "image": "balloon",
+      "category": "things"
+    },
+    {
+      "word": "BUBBLE",
+      "hint": "A round ball of soap and air",
+      "image": "bubble",
+      "category": "things"
+    },
+    {
+      "word": "CANDLE",
+      "hint": "It gives light with a small flame",
+      "image": "candle",
+      "category": "things"
+    },
+    {
+      "word": "LAMP",
+      "hint": "It lights up a room",
+      "image": "lamp",
+      "category": "things"
+    },
+    {
+      "word": "TORCH",
+      "hint": "A light you hold in your hand",
+      "image": "torch",
+      "category": "things"
+    },
+    {
+      "word": "MIRROR",
+      "hint": "You see yourself in it",
+      "image": "mirror",
+      "category": "things"
+    },
+    {
+      "word": "BRUSH",
+      "hint": "We use it to paint or tidy hair",
+      "image": "brush",
+      "category": "things"
+    },
+    {
+      "word": "COMB",
+      "hint": "It tidies your hair",
+      "image": "comb",
+      "category": "things"
+    },
+    {
+      "word": "SOAP",
+      "hint": "It helps you wash",
+      "image": "soap",
+      "category": "things"
+    },
+    {
+      "word": "TOWEL",
+      "hint": "You dry yourself with it",
+      "image": "towel",
+      "category": "things"
+    },
+    {
+      "word": "UMBRELLA",
+      "hint": "It keeps the rain off you",
+      "image": "umbrella",
+      "category": "things"
+    },
+    {
+      "word": "HAT",
+      "hint": "You wear it on your head",
+      "image": "hat",
+      "category": "things"
+    },
+    {
+      "word": "CAP",
+      "hint": "A soft hat with a peak",
+      "image": "cap",
+      "category": "things"
+    },
+    {
+      "word": "SHOE",
+      "hint": "You wear it on your foot",
+      "image": "shoe",
+      "category": "things"
+    },
+    {
+      "word": "SOCK",
+      "hint": "It goes on your foot inside a shoe",
+      "image": "sock",
+      "category": "things"
+    },
+    {
+      "word": "SHIRT",
+      "hint": "You wear it on your top half",
+      "image": "shirt",
+      "category": "things"
+    },
+    {
+      "word": "DRESS",
+      "hint": "A one-piece outfit",
+      "image": "dress",
+      "category": "things"
+    },
+    {
+      "word": "SKIRT",
+      "hint": "It hangs from the waist",
+      "image": "skirt",
+      "category": "things"
+    },
+    {
+      "word": "COAT",
+      "hint": "A warm outer layer",
+      "image": "coat",
+      "category": "things"
+    },
+    {
+      "word": "SCARF",
+      "hint": "You wrap it round your neck",
+      "image": "scarf",
+      "category": "things"
+    },
+    {
+      "word": "GLOVE",
+      "hint": "It keeps your hand warm",
+      "image": "glove",
+      "category": "things"
+    },
+    {
+      "word": "BUTTON",
+      "hint": "It holds your shirt closed",
+      "image": "button",
+      "category": "things"
+    },
+    {
+      "word": "POCKET",
+      "hint": "A small pouch in your clothes",
+      "image": "pocket",
+      "category": "things"
+    },
+    {
+      "word": "RING",
+      "hint": "You wear it on your finger",
+      "image": "ring",
+      "category": "things"
+    },
+    {
+      "word": "CROWN",
+      "hint": "A king wears it on his head",
+      "image": "crown",
+      "category": "things"
+    },
+    {
+      "word": "CAMERA",
+      "hint": "It takes photographs",
+      "image": "camera",
+      "category": "things"
+    },
+    {
+      "word": "PHONE",
+      "hint": "We talk to people with it",
+      "image": "phone",
+      "category": "things"
+    },
+    {
+      "word": "RADIO",
+      "hint": "It plays music and news",
+      "image": "radio",
+      "category": "things"
+    },
+    {
+      "word": "TELEVISION",
+      "hint": "We watch shows on it",
+      "image": "television",
+      "category": "things"
+    },
+    {
+      "word": "COMPUTER",
+      "hint": "We type and play games on it",
+      "image": "computer",
+      "category": "things"
+    },
+    {
+      "word": "ROBOT",
+      "hint": "A machine that can move",
+      "image": "robot",
+      "category": "things"
+    },
+    {
+      "word": "MAGNET",
+      "hint": "It pulls metal towards it",
+      "image": "magnet",
+      "category": "things"
+    },
+    {
+      "word": "BATTERY",
+      "hint": "It stores power for a toy",
+      "image": "battery",
+      "category": "things"
+    },
+    {
+      "word": "WHEEL",
+      "hint": "It is round and helps things roll",
+      "image": "wheel",
+      "category": "things"
+    },
+    {
+      "word": "SPRINGTOY",
+      "hint": "A coil that bounces",
+      "image": "toy",
+      "category": "things"
+    },
+    {
+      "word": "PUZZLE",
+      "hint": "You fit the pieces together",
+      "image": "puzzle",
+      "category": "things"
+    },
+    {
+      "word": "SWING",
+      "hint": "You go back and forth on it",
+      "image": "swing",
+      "category": "things"
+    },
+    {
+      "word": "SLIDE",
+      "hint": "You slide down it in the park",
+      "image": "slide",
+      "category": "things"
+    },
+    {
+      "word": "SEESAW",
+      "hint": "It goes up and down with two children",
+      "image": "seesaw",
+      "category": "things"
+    },
+    {
+      "word": "MARBLE",
+      "hint": "A tiny glass ball",
+      "image": "marble",
+      "category": "things"
+    },
+    {
+      "word": "BLOCKS",
+      "hint": "You stack them to build",
+      "image": "blocks",
+      "category": "things"
+    },
+    {
+      "word": "TEDDY",
+      "hint": "A soft toy bear",
+      "image": "teddy",
+      "category": "things"
+    },
+    {
+      "word": "WHISTLE",
+      "hint": "You blow it to make a sound",
+      "image": "whistle",
+      "category": "things"
+    },
+    {
+      "word": "FLUTE",
+      "hint": "You blow it to play music",
+      "image": "flute",
+      "category": "things"
+    },
+    {
+      "word": "GUITAR",
+      "hint": "It has strings you strum",
+      "image": "guitar",
+      "category": "things"
+    },
+    {
+      "word": "PIANO",
+      "hint": "It has black and white keys",
+      "image": "piano",
+      "category": "things"
+    },
+    {
+      "word": "VIOLIN",
+      "hint": "You play it with a bow",
+      "image": "violin",
+      "category": "things"
+    },
+    {
+      "word": "TRUMPET",
+      "hint": "A shiny horn you blow",
+      "image": "trumpet",
+      "category": "things"
+    },
+    {
+      "word": "BASKET",
+      "hint": "A woven container with a handle",
+      "image": "basket",
+      "category": "things"
+    },
+    {
+      "word": "BUCKET",
+      "hint": "You carry water in it",
+      "image": "bucket",
+      "category": "things"
+    },
+    {
+      "word": "JAR",
+      "hint": "A glass pot with a lid",
+      "image": "jar",
+      "category": "things"
+    },
+    {
+      "word": "BOTTLE",
+      "hint": "We keep water in it",
+      "image": "bottle",
+      "category": "things"
+    },
+    {
+      "word": "CAN",
+      "hint": "A metal tin for drinks",
+      "image": "can",
+      "category": "things"
+    },
+    {
+      "word": "TRAY",
+      "hint": "You carry cups on it",
+      "image": "tray",
+      "category": "things"
+    },
+    {
+      "word": "COIN",
+      "hint": "Round metal money",
+      "image": "coin",
+      "category": "things"
+    },
+    {
+      "word": "MONEY",
+      "hint": "We use it to buy things",
+      "image": "money",
+      "category": "things"
+    },
+    {
+      "word": "TICKET",
+      "hint": "It lets you get on a bus",
+      "image": "ticket",
+      "category": "things"
+    },
+    {
+      "word": "MAP",
+      "hint": "It shows you the way",
+      "image": "map",
+      "category": "things"
+    },
+    {
+      "word": "FLAG",
+      "hint": "It waves on a pole",
+      "image": "flag",
+      "category": "things"
+    },
+    {
+      "word": "GIFT",
+      "hint": "A wrapped surprise",
+      "image": "gift",
+      "category": "things"
+    },
+    {
+      "word": "CARD",
+      "hint": "You send it on a birthday",
+      "image": "card",
+      "category": "things"
+    },
+    {
+      "word": "NEEDLE",
+      "hint": "It is sharp and sews thread",
+      "image": "needle",
+      "category": "things"
+    },
+    {
+      "word": "THREAD",
+      "hint": "A thin line for sewing",
+      "image": "thread",
+      "category": "things"
+    },
+    {
+      "word": "SCISSORS",
+      "hint": "They cut paper",
+      "image": "scissors",
+      "category": "things"
+    },
+    {
+      "word": "GLUE",
+      "hint": "It sticks things together",
+      "image": "glue",
+      "category": "things"
+    },
+    {
+      "word": "TAPE",
+      "hint": "A sticky strip",
+      "image": "tape",
+      "category": "things"
+    },
+    {
+      "word": "PAPER",
+      "hint": "We write and draw on it",
+      "image": "paper",
+      "category": "things"
+    },
+    {
+      "word": "KNOT",
+      "hint": "A tight twist in a rope",
+      "image": "knot",
+      "category": "things"
+    },
+    {
+      "word": "CHAIN",
+      "hint": "Metal rings joined together",
+      "image": "chain",
+      "category": "things"
+    },
+    {
+      "word": "HAMMER",
+      "hint": "You hit nails with it",
+      "image": "hammer",
+      "category": "things"
+    },
+    {
+      "word": "NAIL",
+      "hint": "A small metal spike",
+      "image": "nail",
+      "category": "things"
+    },
+    {
+      "word": "SAW",
+      "hint": "It cuts through wood",
+      "image": "saw",
+      "category": "things"
+    },
+    {
+      "word": "LADDER",
+      "hint": "You climb its steps",
+      "image": "ladder",
+      "category": "things"
+    },
+    {
+      "word": "BROOM",
+      "hint": "You sweep the floor with it",
+      "image": "broom",
+      "category": "things"
+    },
+    {
+      "word": "MOP",
+      "hint": "You wash the floor with it",
+      "image": "mop",
+      "category": "things"
+    },
+    {
+      "word": "SPONGE",
+      "hint": "It soaks up water",
+      "image": "sponge",
+      "category": "things"
+    },
+    {
+      "word": "BUCKETLIST",
+      "hint": "A list of wishes",
+      "image": "list",
+      "category": "things"
+    },
+    {
+      "word": "CUSHION",
+      "hint": "A soft thing to sit on",
+      "image": "cushion",
+      "category": "things"
+    },
+    {
+      "word": "BLANKET",
+      "hint": "It keeps you warm in bed",
+      "image": "blanket",
+      "category": "things"
+    },
+    {
+      "word": "PILLOW",
+      "hint": "You rest your head on it",
+      "image": "pillow",
+      "category": "things"
+    },
+    {
+      "word": "CURTAIN",
+      "hint": "It covers a window",
+      "image": "curtain",
+      "category": "things"
+    },
+    {
+      "word": "CARPET",
+      "hint": "A soft cover for the floor",
+      "image": "carpet",
+      "category": "things"
+    },
+    {
+      "word": "BASKETBALL",
+      "hint": "A ball you bounce and throw",
+      "image": "basketball",
+      "category": "things"
+    },
+    {
+      "word": "RACKET",
+      "hint": "You hit a ball with it",
+      "image": "racket",
+      "category": "things"
+    },
+    {
+      "word": "SKATE",
+      "hint": "A shoe with wheels",
+      "image": "skate",
+      "category": "things"
+    },
+    {
+      "word": "HELMET",
+      "hint": "It protects your head",
+      "image": "helmet",
+      "category": "things"
+    },
+    {
+      "word": "YELLOW",
+      "hint": "The colour of the sun",
+      "image": "yellow",
+      "category": "colors"
+    },
+    {
+      "word": "ORANGEHUE",
+      "hint": "The colour of a carrot",
+      "image": "orange",
+      "category": "colors"
+    },
+    {
+      "word": "PURPLE",
+      "hint": "The colour of a grape",
+      "image": "purple",
+      "category": "colors"
+    },
+    {
+      "word": "PINK",
+      "hint": "The colour of a piglet",
+      "image": "pink",
+      "category": "colors"
+    },
+    {
+      "word": "BROWN",
+      "hint": "The colour of chocolate",
+      "image": "brown",
+      "category": "colors"
+    },
+    {
+      "word": "BLACK",
+      "hint": "The colour of the night sky",
+      "image": "black",
+      "category": "colors"
+    },
+    {
+      "word": "WHITE",
+      "hint": "The colour of snow",
+      "image": "white",
+      "category": "colors"
+    },
+    {
+      "word": "GREY",
+      "hint": "The colour of an elephant",
+      "image": "grey",
+      "category": "colors"
+    },
+    {
+      "word": "GOLD",
+      "hint": "A shiny yellow colour like treasure",
+      "image": "gold",
+      "category": "colors"
+    },
+    {
+      "word": "SILVER",
+      "hint": "A shiny grey colour like a coin",
+      "image": "silver",
+      "category": "colors"
+    },
+    {
+      "word": "IVORY",
+      "hint": "A creamy white colour",
+      "image": "ivory",
+      "category": "colors"
+    },
+    {
+      "word": "BEIGE",
+      "hint": "A pale sandy colour",
+      "image": "beige",
+      "category": "colors"
+    },
+    {
+      "word": "TAN",
+      "hint": "A light brown colour",
+      "image": "tan",
+      "category": "colors"
+    },
+    {
+      "word": "BRONZE",
+      "hint": "A shiny brown metal colour",
+      "image": "bronze",
+      "category": "colors"
+    },
+    {
+      "word": "COPPER",
+      "hint": "A shiny orange metal colour",
+      "image": "copper",
+      "category": "colors"
+    },
+    {
+      "word": "RUBY",
+      "hint": "A deep red like a jewel",
+      "image": "ruby",
+      "category": "colors"
+    },
+    {
+      "word": "EMERALD",
+      "hint": "A rich green like a jewel",
+      "image": "emerald",
+      "category": "colors"
+    },
+    {
+      "word": "SAPPHIRE",
+      "hint": "A deep blue like a jewel",
+      "image": "sapphire",
+      "category": "colors"
+    },
+    {
+      "word": "AMBER",
+      "hint": "A warm orange yellow",
+      "image": "amber",
+      "category": "colors"
+    },
+    {
+      "word": "PEACHY",
+      "hint": "A soft orange pink",
+      "image": "peach",
+      "category": "colors"
+    },
+    {
+      "word": "MINT",
+      "hint": "A pale fresh green",
+      "image": "mint",
+      "category": "colors"
+    },
+    {
+      "word": "TEAL",
+      "hint": "A blue green colour",
+      "image": "teal",
+      "category": "colors"
+    },
+    {
+      "word": "NAVY",
+      "hint": "A very dark blue",
+      "image": "navy",
+      "category": "colors"
+    },
+    {
+      "word": "SKYBLUE",
+      "hint": "The light blue of a clear day",
+      "image": "skyblue",
+      "category": "colors"
+    },
+    {
+      "word": "AQUA",
+      "hint": "A bright watery blue",
+      "image": "aqua",
+      "category": "colors"
+    },
+    {
+      "word": "TURQUOISE",
+      "hint": "A blue green like the sea",
+      "image": "turquoise",
+      "category": "colors"
+    },
+    {
+      "word": "INDIGO",
+      "hint": "A deep blue purple",
+      "image": "indigo",
+      "category": "colors"
+    },
+    {
+      "word": "VIOLET",
+      "hint": "A soft purple colour",
+      "image": "violet",
+      "category": "colors"
+    },
+    {
+      "word": "LAVENDER",
+      "hint": "A pale gentle purple",
+      "image": "lavender",
+      "category": "colors"
+    },
+    {
+      "word": "LILAC",
+      "hint": "A light pinky purple",
+      "image": "lilac",
+      "category": "colors"
+    },
+    {
+      "word": "MAGENTA",
+      "hint": "A bright pinky purple",
+      "image": "magenta",
+      "category": "colors"
+    },
+    {
+      "word": "MAROON",
+      "hint": "A dark brownish red",
+      "image": "maroon",
+      "category": "colors"
+    },
+    {
+      "word": "SCARLET",
+      "hint": "A bright strong red",
+      "image": "scarlet",
+      "category": "colors"
+    },
+    {
+      "word": "CRIMSON",
+      "hint": "A deep rich red",
+      "image": "crimson",
+      "category": "colors"
+    },
+    {
+      "word": "BLUSH",
+      "hint": "A very pale pink",
+      "image": "blush",
+      "category": "colors"
+    },
+    {
+      "word": "SALMON",
+      "hint": "A pinky orange colour",
+      "image": "salmon",
+      "category": "colors"
+    },
+    {
+      "word": "MUSTARD",
+      "hint": "A dull yellow colour",
+      "image": "mustard",
+      "category": "colors"
+    },
+    {
+      "word": "LEMONYELLOW",
+      "hint": "A bright fresh yellow",
+      "image": "lemon",
+      "category": "colors"
+    },
+    {
+      "word": "CHARCOAL",
+      "hint": "A very dark grey",
+      "image": "charcoal",
+      "category": "colors"
+    },
+    {
+      "word": "SLATE",
+      "hint": "A blue grey colour",
+      "image": "slate",
+      "category": "colors"
+    },
+    {
+      "word": "PEARL",
+      "hint": "A shiny soft white",
+      "image": "pearl",
+      "category": "colors"
+    },
+    {
+      "word": "SNOWWHITE",
+      "hint": "The bright white of fresh snow",
+      "image": "white",
+      "category": "colors"
+    },
+    {
+      "word": "MIDNIGHT",
+      "hint": "The darkest blue black",
+      "image": "midnight",
+      "category": "colors"
+    },
+    {
+      "word": "SUNNY",
+      "hint": "Bright and full of sunshine",
+      "image": "sunny",
+      "category": "colors"
+    },
+    {
+      "word": "RAINBOW",
+      "hint": "Seven colours in the sky",
+      "image": "rainbow",
+      "category": "colors"
+    },
+    {
+      "word": "BRIGHT",
+      "hint": "Full of strong light",
+      "image": "bright",
+      "category": "colors"
+    },
+    {
+      "word": "DARK",
+      "hint": "With very little light",
+      "image": "dark",
+      "category": "colors"
+    },
+    {
+      "word": "PALE",
+      "hint": "A soft washed-out colour",
+      "image": "pale",
+      "category": "colors"
+    },
+    {
+      "word": "DEEP",
+      "hint": "A strong rich colour",
+      "image": "deep",
+      "category": "colors"
+    },
+    {
+      "word": "SHINY",
+      "hint": "It reflects the light",
+      "image": "shiny",
+      "category": "colors"
+    },
+    {
+      "word": "DULL",
+      "hint": "Not bright or shiny",
+      "image": "dull",
+      "category": "colors"
+    },
+    {
+      "word": "GLOW",
+      "hint": "A soft warm light",
+      "image": "glow",
+      "category": "colors"
+    },
+    {
+      "word": "SPARKLE",
+      "hint": "Tiny flashes of light",
+      "image": "sparkle",
+      "category": "colors"
+    },
+    {
+      "word": "SHADE",
+      "hint": "A darker tone of a colour",
+      "image": "shade",
+      "category": "colors"
+    },
+    {
+      "word": "TINT",
+      "hint": "A lighter tone of a colour",
+      "image": "tint",
+      "category": "colors"
+    },
+    {
+      "word": "STRIPE",
+      "hint": "A long band of colour",
+      "image": "stripe",
+      "category": "colors"
+    },
+    {
+      "word": "SPOT",
+      "hint": "A small round mark",
+      "image": "spot",
+      "category": "colors"
+    },
+    {
+      "word": "PATCH",
+      "hint": "A small area of colour",
+      "image": "patch",
+      "category": "colors"
+    },
+    {
+      "word": "SWIRL",
+      "hint": "A twisty pattern",
+      "image": "swirl",
+      "category": "colors"
+    },
+    {
+      "word": "CHECK",
+      "hint": "A pattern of squares",
+      "image": "check",
+      "category": "colors"
+    },
+    {
+      "word": "PLAIN",
+      "hint": "All one colour",
+      "image": "plain",
+      "category": "colors"
+    },
+    {
+      "word": "PAINT",
+      "hint": "We colour with it",
+      "image": "paint",
+      "category": "colors"
+    },
+    {
+      "word": "CRAYON",
+      "hint": "A coloured wax stick",
+      "image": "crayon",
+      "category": "colors"
+    },
+    {
+      "word": "MARKER",
+      "hint": "A thick coloured pen",
+      "image": "marker",
+      "category": "colors"
+    },
+    {
+      "word": "PALETTE",
+      "hint": "A board for mixing paint",
+      "image": "palette",
+      "category": "colors"
+    },
+    {
+      "word": "CANVAS",
+      "hint": "Cloth an artist paints on",
+      "image": "canvas",
+      "category": "colors"
+    },
+    {
+      "word": "DYE",
+      "hint": "It changes the colour of cloth",
+      "image": "dye",
+      "category": "colors"
+    },
+    {
+      "word": "INK",
+      "hint": "The coloured liquid in a pen",
+      "image": "ink",
+      "category": "colors"
+    },
+    {
+      "word": "CHALK",
+      "hint": "You draw on a board with it",
+      "image": "chalk",
+      "category": "colors"
+    },
+    {
+      "word": "PASTEL",
+      "hint": "A soft gentle colour",
+      "image": "pastel",
+      "category": "colors"
+    },
+    {
+      "word": "SANDY",
+      "hint": "The pale colour of a beach",
+      "image": "sandy",
+      "category": "colors"
+    },
+    {
+      "word": "SNOWY",
+      "hint": "White like fresh snow",
+      "image": "snowy",
+      "category": "colors"
+    },
+    {
+      "word": "SUNSHINE",
+      "hint": "A warm bright yellow",
+      "image": "sunshine",
+      "category": "colors"
+    },
+    {
+      "word": "SEAGREEN",
+      "hint": "The green of the ocean",
+      "image": "seagreen",
+      "category": "colors"
+    },
+    {
+      "word": "LEAFY",
+      "hint": "The fresh green of new leaves",
+      "image": "leafy",
+      "category": "colors"
+    },
+    {
+      "word": "GRASSY",
+      "hint": "The green of a lawn",
+      "image": "grassy",
+      "category": "colors"
+    },
+    {
+      "word": "CHERRYRED",
+      "hint": "The bright red of a cherry",
+      "image": "cherry",
+      "category": "colors"
+    },
+    {
+      "word": "BERRYBLUE",
+      "hint": "The deep blue of a berry",
+      "image": "blueberry",
+      "category": "colors"
+    },
+    {
+      "word": "PLUMPURPLE",
+      "hint": "The purple of a ripe plum",
+      "image": "plum",
+      "category": "colors"
+    },
+    {
+      "word": "HONEYGOLD",
+      "hint": "A warm golden brown",
+      "image": "honey",
+      "category": "colors"
+    },
+    {
+      "word": "COCOA",
+      "hint": "A soft milky brown",
+      "image": "cocoa",
+      "category": "colors"
+    },
+    {
+      "word": "COFFEEBROWN",
+      "hint": "A dark rich brown",
+      "image": "coffee",
+      "category": "colors"
+    },
+    {
+      "word": "CARAMEL",
+      "hint": "A sweet golden brown",
+      "image": "caramel",
+      "category": "colors"
+    },
+    {
+      "word": "TOFFEE",
+      "hint": "A warm sticky brown",
+      "image": "toffee",
+      "category": "colors"
+    },
+    {
+      "word": "CLOUDY",
+      "hint": "A soft grey white",
+      "image": "cloudy",
+      "category": "colors"
+    },
+    {
+      "word": "STORMY",
+      "hint": "A dark heavy grey",
+      "image": "stormy",
+      "category": "colors"
+    },
+    {
+      "word": "MISTY",
+      "hint": "A pale hazy grey",
+      "image": "misty",
+      "category": "colors"
+    },
+    {
+      "word": "DUSKY",
+      "hint": "The dim colour of evening",
+      "image": "dusky",
+      "category": "colors"
+    },
+    {
+      "word": "FIERY",
+      "hint": "A hot glowing orange red",
+      "image": "fiery",
+      "category": "colors"
+    },
+    {
+      "word": "ICY",
+      "hint": "A pale cold blue",
+      "image": "icy",
+      "category": "colors"
+    },
+    {
+      "word": "FROSTY",
+      "hint": "White and sparkling with cold",
+      "image": "frosty",
+      "category": "colors"
+    },
+    {
+      "word": "BLOSSOM",
+      "hint": "The soft pink of spring flowers",
+      "image": "blossom",
+      "category": "colors"
+    },
+    {
+      "word": "MEADOWGREEN",
+      "hint": "The green of a wild field",
+      "image": "meadow",
+      "category": "colors"
+    },
+    {
+      "word": "SUNSETORANGE",
+      "hint": "The orange of the evening sky",
+      "image": "sunset",
+      "category": "colors"
+    },
+    {
+      "word": "EYE",
+      "hint": "We see with it",
+      "image": "eye",
+      "category": "body"
+    },
+    {
+      "word": "EAR",
+      "hint": "We hear with it",
+      "image": "ear",
+      "category": "body"
+    },
+    {
+      "word": "NOSE",
+      "hint": "We smell with it",
+      "image": "nose",
+      "category": "body"
+    },
+    {
+      "word": "MOUTH",
+      "hint": "We eat and talk with it",
+      "image": "mouth",
+      "category": "body"
+    },
+    {
+      "word": "HAND",
+      "hint": "It has five fingers",
+      "image": "hand",
+      "category": "body"
+    },
+    {
+      "word": "FOOT",
+      "hint": "We stand on it",
+      "image": "foot",
+      "category": "body"
+    },
+    {
+      "word": "ARM",
+      "hint": "It joins your hand to your body",
+      "image": "arm",
+      "category": "body"
+    },
+    {
+      "word": "LEG",
+      "hint": "You walk and run with it",
+      "image": "leg",
+      "category": "body"
+    },
+    {
+      "word": "HEAD",
+      "hint": "Your face and hair are on it",
+      "image": "head",
+      "category": "body"
+    },
+    {
+      "word": "HAIR",
+      "hint": "It grows on your head",
+      "image": "hair",
+      "category": "body"
+    },
+    {
+      "word": "FACE",
+      "hint": "Your eyes and nose are on it",
+      "image": "face",
+      "category": "body"
+    },
+    {
+      "word": "NECK",
+      "hint": "It joins your head to your body",
+      "image": "neck",
+      "category": "body"
+    },
+    {
+      "word": "BACK",
+      "hint": "The side behind you",
+      "image": "back",
+      "category": "body"
+    },
+    {
+      "word": "CHEST",
+      "hint": "The front of your body",
+      "image": "chest",
+      "category": "body"
+    },
+    {
+      "word": "TUMMY",
+      "hint": "Where your food goes",
+      "image": "tummy",
+      "category": "body"
+    },
+    {
+      "word": "KNEE",
+      "hint": "It bends in the middle of your leg",
+      "image": "knee",
+      "category": "body"
+    },
+    {
+      "word": "ELBOW",
+      "hint": "It bends in the middle of your arm",
+      "image": "elbow",
+      "category": "body"
+    },
+    {
+      "word": "SHOULDER",
+      "hint": "The top of your arm",
+      "image": "shoulder",
+      "category": "body"
+    },
+    {
+      "word": "FINGER",
+      "hint": "You have five on each hand",
+      "image": "finger",
+      "category": "body"
+    },
+    {
+      "word": "THUMB",
+      "hint": "The short fat finger",
+      "image": "thumb",
+      "category": "body"
+    },
+    {
+      "word": "TOE",
+      "hint": "You have five on each foot",
+      "image": "toe",
+      "category": "body"
+    },
+    {
+      "word": "SKIN",
+      "hint": "It covers your whole body",
+      "image": "skin",
+      "category": "body"
+    },
+    {
+      "word": "BONE",
+      "hint": "It is hard and inside you",
+      "image": "bone",
+      "category": "body"
+    },
+    {
+      "word": "TOOTH",
+      "hint": "You bite with it",
+      "image": "tooth",
+      "category": "body"
+    },
+    {
+      "word": "TEETH",
+      "hint": "You chew your food with them",
+      "image": "tooth",
+      "category": "body"
+    },
+    {
+      "word": "TONGUE",
+      "hint": "You taste with it",
+      "image": "tongue",
+      "category": "body"
+    },
+    {
+      "word": "LIP",
+      "hint": "It is soft around your mouth",
+      "image": "lip",
+      "category": "body"
+    },
+    {
+      "word": "CHIN",
+      "hint": "It is below your mouth",
+      "image": "chin",
+      "category": "body"
+    },
+    {
+      "word": "CHEEK",
+      "hint": "The soft side of your face",
+      "image": "cheek",
+      "category": "body"
+    },
+    {
+      "word": "FOREHEAD",
+      "hint": "Above your eyebrows",
+      "image": "forehead",
+      "category": "body"
+    },
+    {
+      "word": "EYEBROW",
+      "hint": "The line of hair above your eye",
+      "image": "eyebrow",
+      "category": "body"
+    },
+    {
+      "word": "EYELASH",
+      "hint": "Tiny hairs on your eyelid",
+      "image": "eyelash",
+      "category": "body"
+    },
+    {
+      "word": "HEARTBEAT",
+      "hint": "The thump inside your chest",
+      "image": "heartbeat",
+      "category": "body"
+    },
+    {
+      "word": "BRAIN",
+      "hint": "You think with it",
+      "image": "brain",
+      "category": "body"
+    },
+    {
+      "word": "LUNG",
+      "hint": "You breathe with it",
+      "image": "lung",
+      "category": "body"
+    },
+    {
+      "word": "BLOOD",
+      "hint": "It is red and flows inside you",
+      "image": "blood",
+      "category": "body"
+    },
+    {
+      "word": "MUSCLE",
+      "hint": "It makes you strong",
+      "image": "muscle",
+      "category": "body"
+    },
+    {
+      "word": "WRIST",
+      "hint": "It joins your hand to your arm",
+      "image": "wrist",
+      "category": "body"
+    },
+    {
+      "word": "ANKLE",
+      "hint": "It joins your foot to your leg",
+      "image": "ankle",
+      "category": "body"
+    },
+    {
+      "word": "HEEL",
+      "hint": "The back of your foot",
+      "image": "heel",
+      "category": "body"
+    },
+    {
+      "word": "FIST",
+      "hint": "A closed hand",
+      "image": "fist",
+      "category": "body"
+    },
+    {
+      "word": "WAIST",
+      "hint": "The middle of your body",
+      "image": "waist",
+      "category": "body"
+    },
+    {
+      "word": "HIP",
+      "hint": "The side of your body below the waist",
+      "image": "hip",
+      "category": "body"
+    },
+    {
+      "word": "SMILE",
+      "hint": "A happy shape with your mouth",
+      "image": "smile",
+      "category": "body"
+    },
+    {
+      "word": "LAUGH",
+      "hint": "The happy sound you make",
+      "image": "laugh",
+      "category": "body"
+    },
+    {
+      "word": "YAWN",
+      "hint": "You do it when you are sleepy",
+      "image": "yawn",
+      "category": "body"
+    },
+    {
+      "word": "SNEEZE",
+      "hint": "Achoo!",
+      "image": "sneeze",
+      "category": "body"
+    },
+    {
+      "word": "BREATH",
+      "hint": "The air you take in",
+      "image": "breath",
+      "category": "body"
+    },
+    {
+      "word": "VOICE",
+      "hint": "The sound you speak with",
+      "image": "voice",
+      "category": "body"
+    },
+    {
+      "word": "WHISPER",
+      "hint": "A very quiet voice",
+      "image": "whisper",
+      "category": "body"
+    },
+    {
+      "word": "SHOUT",
+      "hint": "A very loud voice",
+      "image": "shout",
+      "category": "body"
+    },
+    {
+      "word": "BLINK",
+      "hint": "When your eyes shut quickly",
+      "image": "blink",
+      "category": "body"
+    },
+    {
+      "word": "WINK",
+      "hint": "Closing one eye at a friend",
+      "image": "wink",
+      "category": "body"
+    },
+    {
+      "word": "NOD",
+      "hint": "Moving your head to say yes",
+      "image": "nod",
+      "category": "body"
+    },
+    {
+      "word": "CLAP",
+      "hint": "You hit your hands together",
+      "image": "clap",
+      "category": "body"
+    },
+    {
+      "word": "POINT",
+      "hint": "You show with your finger",
+      "image": "point",
+      "category": "body"
+    },
+    {
+      "word": "HUG",
+      "hint": "You hold someone close",
+      "image": "hug",
+      "category": "body"
+    },
+    {
+      "word": "JUMP",
+      "hint": "You push off the ground",
+      "image": "jump",
+      "category": "body"
+    },
+    {
+      "word": "RUN",
+      "hint": "You move very fast on your feet",
+      "image": "run",
+      "category": "body"
+    },
+    {
+      "word": "WALK",
+      "hint": "You move slowly on your feet",
+      "image": "walk",
+      "category": "body"
+    },
+    {
+      "word": "SKIP",
+      "hint": "You hop along happily",
+      "image": "skip",
+      "category": "body"
+    },
+    {
+      "word": "CRAWL",
+      "hint": "You move on hands and knees",
+      "image": "crawl",
+      "category": "body"
+    },
+    {
+      "word": "CLIMB",
+      "hint": "You go up using hands and feet",
+      "image": "climb",
+      "category": "body"
+    },
+    {
+      "word": "STRETCH",
+      "hint": "You reach out long and tall",
+      "image": "stretch",
+      "category": "body"
+    },
+    {
+      "word": "BEND",
+      "hint": "You fold your body over",
+      "image": "bend",
+      "category": "body"
+    },
+    {
+      "word": "SIT",
+      "hint": "You rest on a chair",
+      "image": "sit",
+      "category": "body"
+    },
+    {
+      "word": "STAND",
+      "hint": "You are up on your feet",
+      "image": "stand",
+      "category": "body"
+    },
+    {
+      "word": "SLEEP",
+      "hint": "You close your eyes and rest",
+      "image": "sleep",
+      "category": "body"
+    },
+    {
+      "word": "DREAM",
+      "hint": "A story in your sleep",
+      "image": "dream",
+      "category": "body"
+    },
+    {
+      "word": "WAKE",
+      "hint": "You open your eyes in the morning",
+      "image": "wake",
+      "category": "body"
+    },
+    {
+      "word": "TASTE",
+      "hint": "What your tongue tells you",
+      "image": "taste",
+      "category": "body"
+    },
+    {
+      "word": "TOUCH",
+      "hint": "What your fingers tell you",
+      "image": "touch",
+      "category": "body"
+    },
+    {
+      "word": "SMELL",
+      "hint": "What your nose tells you",
+      "image": "smell",
+      "category": "body"
+    },
+    {
+      "word": "HEARING",
+      "hint": "What your ears give you",
+      "image": "hearing",
+      "category": "body"
+    },
+    {
+      "word": "SIGHT",
+      "hint": "What your eyes give you",
+      "image": "sight",
+      "category": "body"
+    },
+    {
+      "word": "HEALTHY",
+      "hint": "Strong and feeling well",
+      "image": "healthy",
+      "category": "body"
+    },
+    {
+      "word": "TIRED",
+      "hint": "You need a rest",
+      "image": "tired",
+      "category": "body"
+    },
+    {
+      "word": "HUNGRY",
+      "hint": "Your tummy wants food",
+      "image": "hungry",
+      "category": "body"
+    },
+    {
+      "word": "THIRSTY",
+      "hint": "You want a drink",
+      "image": "thirsty",
+      "category": "body"
+    },
+    {
+      "word": "HAPPY",
+      "hint": "You feel very good",
+      "image": "happy",
+      "category": "body"
+    },
+    {
+      "word": "SAD",
+      "hint": "You feel like crying",
+      "image": "sad",
+      "category": "body"
+    },
+    {
+      "word": "ANGRY",
+      "hint": "You feel cross",
+      "image": "angry",
+      "category": "body"
+    },
+    {
+      "word": "SCARED",
+      "hint": "You feel afraid",
+      "image": "scared",
+      "category": "body"
+    },
+    {
+      "word": "BRAVE",
+      "hint": "You are not afraid",
+      "image": "brave",
+      "category": "body"
+    },
+    {
+      "word": "CALM",
+      "hint": "You feel quiet and still",
+      "image": "calm",
+      "category": "body"
+    },
+    {
+      "word": "EXCITED",
+      "hint": "You cannot wait",
+      "image": "excited",
+      "category": "body"
+    },
+    {
+      "word": "PROUD",
+      "hint": "You feel good about what you did",
+      "image": "proud",
+      "category": "body"
+    },
+    {
+      "word": "SHY",
+      "hint": "You feel quiet with new people",
+      "image": "shy",
+      "category": "body"
+    },
+    {
+      "word": "KIND",
+      "hint": "You are nice to others",
+      "image": "kind",
+      "category": "body"
+    },
+    {
+      "word": "GENTLE",
+      "hint": "You are soft and careful",
+      "image": "gentle",
+      "category": "body"
+    },
+    {
+      "word": "STRONG",
+      "hint": "You can lift heavy things",
+      "image": "strong",
+      "category": "body"
+    },
+    {
+      "word": "QUICK",
+      "hint": "You move very fast",
+      "image": "quick",
+      "category": "body"
+    },
+    {
+      "word": "TALL",
+      "hint": "You reach up high",
+      "image": "tall",
+      "category": "body"
+    },
+    {
+      "word": "SHORT",
+      "hint": "You are not very tall",
+      "image": "short",
+      "category": "body"
+    },
+    {
+      "word": "WARM",
+      "hint": "You feel nice and hot",
+      "image": "warm",
+      "category": "body"
+    },
+    {
+      "word": "COOL",
+      "hint": "You feel a little cold",
+      "image": "cool",
+      "category": "body"
+    },
+    {
+      "word": "TICKLE",
+      "hint": "It makes you giggle",
+      "image": "tickle",
+      "category": "body"
+    },
+    {
+      "word": "DOOR",
+      "hint": "You open it to go in",
+      "image": "door",
+      "category": "home"
+    },
+    {
+      "word": "WINDOW",
+      "hint": "You look outside through it",
+      "image": "window",
+      "category": "home"
+    },
+    {
+      "word": "ROOF",
+      "hint": "It covers the top of a house",
+      "image": "roof",
+      "category": "home"
+    },
+    {
+      "word": "WALL",
+      "hint": "It stands up at the side of a room",
+      "image": "wall",
+      "category": "home"
+    },
+    {
+      "word": "FLOOR",
+      "hint": "You walk on it inside",
+      "image": "floor",
+      "category": "home"
+    },
+    {
+      "word": "STAIRS",
+      "hint": "You climb them to go up",
+      "image": "stairs",
+      "category": "home"
+    },
+    {
+      "word": "GATE",
+      "hint": "A door in a fence",
+      "image": "gate",
+      "category": "home"
+    },
+    {
+      "word": "FENCE",
+      "hint": "It goes around a garden",
+      "image": "fence",
+      "category": "home"
+    },
+    {
+      "word": "CHAIR",
+      "hint": "You sit on it",
+      "image": "chair",
+      "category": "home"
+    },
+    {
+      "word": "TABLE",
+      "hint": "You eat at it",
+      "image": "table",
+      "category": "home"
+    },
+    {
+      "word": "BED",
+      "hint": "You sleep in it",
+      "image": "bed",
+      "category": "home"
+    },
+    {
+      "word": "SOFA",
+      "hint": "A long soft seat",
+      "image": "sofa",
+      "category": "home"
+    },
+    {
+      "word": "SHELF",
+      "hint": "You put books on it",
+      "image": "shelf",
+      "category": "home"
+    },
+    {
+      "word": "CUPBOARD",
+      "hint": "You keep things behind its doors",
+      "image": "cupboard",
+      "category": "home"
+    },
+    {
+      "word": "DRAWER",
+      "hint": "You pull it out to find things",
+      "image": "drawer",
+      "category": "home"
+    },
+    {
+      "word": "DESK",
+      "hint": "You write at it",
+      "image": "desk",
+      "category": "home"
+    },
+    {
+      "word": "KITCHEN",
+      "hint": "The room where we cook",
+      "image": "kitchen",
+      "category": "home"
+    },
+    {
+      "word": "BEDROOM",
+      "hint": "The room where we sleep",
+      "image": "bedroom",
+      "category": "home"
+    },
+    {
+      "word": "BATHROOM",
+      "hint": "The room where we wash",
+      "image": "bathroom",
+      "category": "home"
+    },
+    {
+      "word": "GARAGE",
+      "hint": "Where the car sleeps",
+      "image": "garage",
+      "category": "home"
+    },
+    {
+      "word": "BALCONY",
+      "hint": "A little outdoor ledge",
+      "image": "balcony",
+      "category": "home"
+    },
+    {
+      "word": "GARDENHOME",
+      "hint": "Green space beside a house",
+      "image": "garden",
+      "category": "home"
+    },
+    {
+      "word": "POT",
+      "hint": "We cook in it",
+      "image": "pot",
+      "category": "home"
+    },
+    {
+      "word": "PAN",
+      "hint": "A flat pot for frying",
+      "image": "pan",
+      "category": "home"
+    },
+    {
+      "word": "PLATE",
+      "hint": "We eat our food off it",
+      "image": "plate",
+      "category": "home"
+    },
+    {
+      "word": "BOWL",
+      "hint": "A round dish for soup",
+      "image": "bowl",
+      "category": "home"
+    },
+    {
+      "word": "CUP",
+      "hint": "You drink from it",
+      "image": "cup",
+      "category": "home"
+    },
+    {
+      "word": "GLASS",
+      "hint": "A clear cup for water",
+      "image": "glass",
+      "category": "home"
+    },
+    {
+      "word": "SPOON",
+      "hint": "You eat soup with it",
+      "image": "spoon",
+      "category": "home"
+    },
+    {
+      "word": "FORK",
+      "hint": "It has little points for food",
+      "image": "fork",
+      "category": "home"
+    },
+    {
+      "word": "KNIFE",
+      "hint": "It cuts your food",
+      "image": "knife",
+      "category": "home"
+    },
+    {
+      "word": "KETTLE",
+      "hint": "It boils the water",
+      "image": "kettle",
+      "category": "home"
+    },
+    {
+      "word": "STOVE",
+      "hint": "We cook on its hot top",
+      "image": "stove",
+      "category": "home"
+    },
+    {
+      "word": "OVEN",
+      "hint": "We bake cakes in it",
+      "image": "oven",
+      "category": "home"
+    },
+    {
+      "word": "FRIDGE",
+      "hint": "It keeps food cold",
+      "image": "fridge",
+      "category": "home"
+    },
+    {
+      "word": "SINK",
+      "hint": "We wash dishes in it",
+      "image": "sink",
+      "category": "home"
+    },
+    {
+      "word": "TAP",
+      "hint": "Water comes out of it",
+      "image": "tap",
+      "category": "home"
+    },
+    {
+      "word": "SHOWER",
+      "hint": "Water rains on you to wash",
+      "image": "shower",
+      "category": "home"
+    },
+    {
+      "word": "BATHTUB",
+      "hint": "A big tub for washing",
+      "image": "bathtub",
+      "category": "home"
+    },
+    {
+      "word": "MAT",
+      "hint": "You wipe your feet on it",
+      "image": "mat",
+      "category": "home"
+    },
+    {
+      "word": "RUG",
+      "hint": "A small soft floor cover",
+      "image": "rug",
+      "category": "home"
+    },
+    {
+      "word": "CLOCKWALL",
+      "hint": "It hangs and tells the time",
+      "image": "clock",
+      "category": "home"
+    },
+    {
+      "word": "PICTURE",
+      "hint": "A painting on the wall",
+      "image": "picture",
+      "category": "home"
+    },
+    {
+      "word": "FRAME",
+      "hint": "It holds a photo",
+      "image": "frame",
+      "category": "home"
+    },
+    {
+      "word": "VASE",
+      "hint": "You put flowers in it",
+      "image": "vase",
+      "category": "home"
+    },
+    {
+      "word": "CANDLESTICK",
+      "hint": "It holds a candle",
+      "image": "candlestick",
+      "category": "home"
+    },
+    {
+      "word": "SWITCH",
+      "hint": "You press it for the light",
+      "image": "switch",
+      "category": "home"
+    },
+    {
+      "word": "PLUG",
+      "hint": "It goes into the wall for power",
+      "image": "plug",
+      "category": "home"
+    },
+    {
+      "word": "WIRE",
+      "hint": "It carries the power along",
+      "image": "wire",
+      "category": "home"
+    },
+    {
+      "word": "FAN",
+      "hint": "It blows cool air",
+      "image": "fan",
+      "category": "home"
+    },
+    {
+      "word": "BROOMSTICK",
+      "hint": "A long brush for sweeping",
+      "image": "broom",
+      "category": "home"
+    },
+    {
+      "word": "DUSTBIN",
+      "hint": "We drop rubbish in it",
+      "image": "dustbin",
+      "category": "home"
+    },
+    {
+      "word": "BASKETHOME",
+      "hint": "A woven container for washing",
+      "image": "basket",
+      "category": "home"
+    },
+    {
+      "word": "IRON",
+      "hint": "It presses your clothes flat",
+      "image": "iron",
+      "category": "home"
+    },
+    {
+      "word": "WASHER",
+      "hint": "A machine that cleans clothes",
+      "image": "washer",
+      "category": "home"
+    },
+    {
+      "word": "HANGER",
+      "hint": "Your shirt hangs on it",
+      "image": "hanger",
+      "category": "home"
+    },
+    {
+      "word": "SHELFBOOK",
+      "hint": "A row of books on the wall",
+      "image": "bookshelf",
+      "category": "home"
+    },
+    {
+      "word": "LADDERHOME",
+      "hint": "You climb it to reach high things",
+      "image": "ladder",
+      "category": "home"
+    },
+    {
+      "word": "TOOLBOX",
+      "hint": "It holds hammers and nails",
+      "image": "toolbox",
+      "category": "home"
+    },
+    {
+      "word": "GARDENHOSE",
+      "hint": "A long tube for watering plants",
+      "image": "hose",
+      "category": "home"
+    },
+    {
+      "word": "LAWN",
+      "hint": "The grass around a house",
+      "image": "lawn",
+      "category": "home"
+    },
+    {
+      "word": "PORCH",
+      "hint": "A covered space by the front door",
+      "image": "porch",
+      "category": "home"
+    },
+    {
+      "word": "CHIMNEY",
+      "hint": "Smoke goes up it",
+      "image": "chimney",
+      "category": "home"
+    },
+    {
+      "word": "ATTIC",
+      "hint": "A room right under the roof",
+      "image": "attic",
+      "category": "home"
+    },
+    {
+      "word": "CELLAR",
+      "hint": "A room under the house",
+      "image": "cellar",
+      "category": "home"
+    },
+    {
+      "word": "HALL",
+      "hint": "The space just inside the door",
+      "image": "hall",
+      "category": "home"
+    },
+    {
+      "word": "CORNER",
+      "hint": "Where two walls meet",
+      "image": "corner",
+      "category": "home"
+    },
+    {
+      "word": "CEILING",
+      "hint": "The top of a room",
+      "image": "ceiling",
+      "category": "home"
+    },
+    {
+      "word": "STEP",
+      "hint": "One part of the stairs",
+      "image": "step",
+      "category": "home"
+    },
+    {
+      "word": "HANDLE",
+      "hint": "You hold it to open a door",
+      "image": "handle",
+      "category": "home"
+    },
+    {
+      "word": "HINGE",
+      "hint": "It lets a door swing",
+      "image": "hinge",
+      "category": "home"
+    },
+    {
+      "word": "BOLT",
+      "hint": "It locks a door tight",
+      "image": "bolt",
+      "category": "home"
+    },
+    {
+      "word": "LETTERBOX",
+      "hint": "The post comes through it",
+      "image": "letterbox",
+      "category": "home"
+    },
+    {
+      "word": "DOORBELL",
+      "hint": "You press it to say you are here",
+      "image": "doorbell",
+      "category": "home"
+    },
+    {
+      "word": "KEYRING",
+      "hint": "It holds all your keys",
+      "image": "keyring",
+      "category": "home"
+    },
+    {
+      "word": "QUILT",
+      "hint": "A thick warm bed cover",
+      "image": "quilt",
+      "category": "home"
+    },
+    {
+      "word": "SHEET",
+      "hint": "A flat cloth on the bed",
+      "image": "sheet",
+      "category": "home"
+    },
+    {
+      "word": "MATTRESS",
+      "hint": "The soft part of a bed",
+      "image": "mattress",
+      "category": "home"
+    },
+    {
+      "word": "CRADLE",
+      "hint": "A baby rocks to sleep in it",
+      "image": "cradle",
+      "category": "home"
+    },
+    {
+      "word": "STOOL",
+      "hint": "A small seat with no back",
+      "image": "stool",
+      "category": "home"
+    },
+    {
+      "word": "BENCH",
+      "hint": "A long seat for two or more",
+      "image": "bench",
+      "category": "home"
+    },
+    {
+      "word": "WARDROBE",
+      "hint": "A tall cupboard for clothes",
+      "image": "wardrobe",
+      "category": "home"
+    },
+    {
+      "word": "MIRRORHOME",
+      "hint": "It hangs on the wall to show your face",
+      "image": "mirror",
+      "category": "home"
+    },
+    {
+      "word": "LANTERN",
+      "hint": "A lamp you can carry",
+      "image": "lantern",
+      "category": "home"
+    },
+    {
+      "word": "BULB",
+      "hint": "It glows in the lamp",
+      "image": "bulb",
+      "category": "home"
+    },
+    {
+      "word": "CANDLEWAX",
+      "hint": "The soft part a candle is made of",
+      "image": "candle",
+      "category": "home"
+    },
+    {
+      "word": "MATCH",
+      "hint": "A small stick that makes fire",
+      "image": "match",
+      "category": "home"
+    },
+    {
+      "word": "STOVETOP",
+      "hint": "The hot flat part we cook on",
+      "image": "stove",
+      "category": "home"
+    },
+    {
+      "word": "LID",
+      "hint": "It covers a pot",
+      "image": "lid",
+      "category": "home"
+    },
+    {
+      "word": "JUG",
+      "hint": "It pours water",
+      "image": "jug",
+      "category": "home"
+    },
+    {
+      "word": "TEAPOT",
+      "hint": "It pours the tea",
+      "image": "teapot",
+      "category": "home"
+    },
+    {
+      "word": "SAUCER",
+      "hint": "A small plate under a cup",
+      "image": "saucer",
+      "category": "home"
+    },
+    {
+      "word": "NAPKIN",
+      "hint": "You wipe your mouth on it",
+      "image": "napkin",
+      "category": "home"
+    },
+    {
+      "word": "APRON",
+      "hint": "It keeps your clothes clean while cooking",
+      "image": "apron",
+      "category": "home"
+    },
+    {
+      "word": "TRAYHOME",
+      "hint": "You carry the plates on it",
+      "image": "tray",
+      "category": "home"
+    },
+    {
+      "word": "CLOTH",
+      "hint": "A piece of soft material",
+      "image": "cloth",
+      "category": "home"
+    },
+    {
+      "word": "DUSTER",
+      "hint": "You wipe the dust with it",
+      "image": "duster",
+      "category": "home"
+    },
+    {
+      "word": "SCRUBBER",
+      "hint": "It cleans the dirty pans",
+      "image": "scrubber",
+      "category": "home"
+    },
+    {
+      "word": "DETERGENT",
+      "hint": "Powder that washes clothes",
+      "image": "detergent",
+      "category": "home"
+    },
+    {
+      "word": "CLOTHESLINE",
+      "hint": "Wet clothes hang on it to dry",
+      "image": "clothesline",
+      "category": "home"
+    },
+    {
+      "word": "BUS",
+      "hint": "Many people ride in it together",
+      "image": "bus",
+      "category": "vehicles"
+    },
+    {
+      "word": "TRAIN",
+      "hint": "It runs along rails",
+      "image": "train",
+      "category": "vehicles"
+    },
+    {
+      "word": "PLANE",
+      "hint": "It flies in the sky",
+      "image": "plane",
+      "category": "vehicles"
+    },
+    {
+      "word": "BOAT",
+      "hint": "It floats on the water",
+      "image": "boat",
+      "category": "vehicles"
+    },
+    {
+      "word": "SHIP",
+      "hint": "A very big boat",
+      "image": "ship",
+      "category": "vehicles"
+    },
+    {
+      "word": "BIKE",
+      "hint": "It has two wheels and pedals",
+      "image": "bike",
+      "category": "vehicles"
+    },
+    {
+      "word": "CYCLE",
+      "hint": "You pedal it to go along",
+      "image": "bike",
+      "category": "vehicles"
+    },
+    {
+      "word": "SCOOTER",
+      "hint": "A small two-wheeled ride",
+      "image": "scooter",
+      "category": "vehicles"
+    },
+    {
+      "word": "TRUCK",
+      "hint": "It carries heavy loads",
+      "image": "truck",
+      "category": "vehicles"
+    },
+    {
+      "word": "VAN",
+      "hint": "A boxy vehicle for goods",
+      "image": "van",
+      "category": "vehicles"
+    },
+    {
+      "word": "JEEP",
+      "hint": "A strong car for rough roads",
+      "image": "jeep",
+      "category": "vehicles"
+    },
+    {
+      "word": "TAXI",
+      "hint": "A car you pay to ride in",
+      "image": "taxi",
+      "category": "vehicles"
+    },
+    {
+      "word": "TRACTOR",
+      "hint": "It works on the farm",
+      "image": "tractor",
+      "category": "vehicles"
+    },
+    {
+      "word": "DIGGER",
+      "hint": "It scoops up the earth",
+      "image": "digger",
+      "category": "vehicles"
+    },
+    {
+      "word": "CRANE",
+      "hint": "It lifts heavy things up high",
+      "image": "crane",
+      "category": "vehicles"
+    },
+    {
+      "word": "AMBULANCE",
+      "hint": "It rushes people to hospital",
+      "image": "ambulance",
+      "category": "vehicles"
+    },
+    {
+      "word": "FIRETRUCK",
+      "hint": "It races to put out fires",
+      "image": "firetruck",
+      "category": "vehicles"
+    },
+    {
+      "word": "POLICECAR",
+      "hint": "It has a flashing blue light",
+      "image": "policecar",
+      "category": "vehicles"
+    },
+    {
+      "word": "HELICOPTER",
+      "hint": "It flies with spinning blades",
+      "image": "helicopter",
+      "category": "vehicles"
+    },
+    {
+      "word": "ROCKETSHIP",
+      "hint": "It blasts off into space",
+      "image": "rocket",
+      "category": "vehicles"
+    },
+    {
+      "word": "SUBMARINE",
+      "hint": "A boat that goes under the sea",
+      "image": "submarine",
+      "category": "vehicles"
+    },
+    {
+      "word": "CANOE",
+      "hint": "A narrow boat you paddle",
+      "image": "canoe",
+      "category": "vehicles"
+    },
+    {
+      "word": "KAYAK",
+      "hint": "A small boat for one person",
+      "image": "kayak",
+      "category": "vehicles"
+    },
+    {
+      "word": "RAFT",
+      "hint": "A flat float on the water",
+      "image": "raft",
+      "category": "vehicles"
+    },
+    {
+      "word": "FERRY",
+      "hint": "A boat that carries cars across",
+      "image": "ferry",
+      "category": "vehicles"
+    },
+    {
+      "word": "SAILBOAT",
+      "hint": "A boat pushed by the wind",
+      "image": "sailboat",
+      "category": "vehicles"
+    },
+    {
+      "word": "YACHT",
+      "hint": "A smart boat for sailing",
+      "image": "yacht",
+      "category": "vehicles"
+    },
+    {
+      "word": "TRAM",
+      "hint": "A street train on rails",
+      "image": "tram",
+      "category": "vehicles"
+    },
+    {
+      "word": "METRO",
+      "hint": "A train under the city",
+      "image": "metro",
+      "category": "vehicles"
+    },
+    {
+      "word": "MONORAIL",
+      "hint": "A train on a single rail",
+      "image": "monorail",
+      "category": "vehicles"
+    },
+    {
+      "word": "TROLLEY",
+      "hint": "A cart you push along",
+      "image": "trolley",
+      "category": "vehicles"
+    },
+    {
+      "word": "WAGON",
+      "hint": "A cart pulled behind",
+      "image": "wagon",
+      "category": "vehicles"
+    },
+    {
+      "word": "CART",
+      "hint": "It has wheels and carries things",
+      "image": "cart",
+      "category": "vehicles"
+    },
+    {
+      "word": "SLEDGE",
+      "hint": "It slides over the snow",
+      "image": "sledge",
+      "category": "vehicles"
+    },
+    {
+      "word": "SLEIGH",
+      "hint": "A sled pulled by animals",
+      "image": "sleigh",
+      "category": "vehicles"
+    },
+    {
+      "word": "SKATEBOARD",
+      "hint": "A board with four small wheels",
+      "image": "skateboard",
+      "category": "vehicles"
+    },
+    {
+      "word": "SURFBOARD",
+      "hint": "You ride the waves on it",
+      "image": "surfboard",
+      "category": "vehicles"
+    },
+    {
+      "word": "GLIDER",
+      "hint": "A plane with no engine",
+      "image": "glider",
+      "category": "vehicles"
+    },
+    {
+      "word": "BALLOONRIDE",
+      "hint": "A basket under a big hot air balloon",
+      "image": "hotairballoon",
+      "category": "vehicles"
+    },
+    {
+      "word": "PARACHUTE",
+      "hint": "It floats you gently down",
+      "image": "parachute",
+      "category": "vehicles"
+    },
+    {
+      "word": "JET",
+      "hint": "A very fast plane",
+      "image": "jet",
+      "category": "vehicles"
+    },
+    {
+      "word": "ENGINE",
+      "hint": "It makes a vehicle go",
+      "image": "engine",
+      "category": "vehicles"
+    },
+    {
+      "word": "TYRE",
+      "hint": "The rubber ring on a wheel",
+      "image": "tyre",
+      "category": "vehicles"
+    },
+    {
+      "word": "BRAKE",
+      "hint": "You press it to stop",
+      "image": "brake",
+      "category": "vehicles"
+    },
+    {
+      "word": "PEDAL",
+      "hint": "You push it with your foot",
+      "image": "pedal",
+      "category": "vehicles"
+    },
+    {
+      "word": "STEERING",
+      "hint": "You turn it to go left or right",
+      "image": "steering",
+      "category": "vehicles"
+    },
+    {
+      "word": "SEATBELT",
+      "hint": "It keeps you safe in the car",
+      "image": "seatbelt",
+      "category": "vehicles"
+    },
+    {
+      "word": "HORN",
+      "hint": "It goes beep beep",
+      "image": "horn",
+      "category": "vehicles"
+    },
+    {
+      "word": "MIRRORCAR",
+      "hint": "The driver looks behind in it",
+      "image": "carmirror",
+      "category": "vehicles"
+    },
+    {
+      "word": "HEADLIGHT",
+      "hint": "It shines on the road at night",
+      "image": "headlight",
+      "category": "vehicles"
+    },
+    {
+      "word": "ROAD",
+      "hint": "Cars drive along it",
+      "image": "road",
+      "category": "vehicles"
+    },
+    {
+      "word": "STREET",
+      "hint": "A road with houses on it",
+      "image": "street",
+      "category": "vehicles"
+    },
+    {
+      "word": "LANE",
+      "hint": "A narrow little road",
+      "image": "lane",
+      "category": "vehicles"
+    },
+    {
+      "word": "BRIDGE",
+      "hint": "It crosses over a river",
+      "image": "bridge",
+      "category": "vehicles"
+    },
+    {
+      "word": "TUNNEL",
+      "hint": "A road through a hill",
+      "image": "tunnel",
+      "category": "vehicles"
+    },
+    {
+      "word": "TRACK",
+      "hint": "The train runs on it",
+      "image": "track",
+      "category": "vehicles"
+    },
+    {
+      "word": "STATION",
+      "hint": "Where you catch a train",
+      "image": "station",
+      "category": "vehicles"
+    },
+    {
+      "word": "AIRPORT",
+      "hint": "Where planes take off",
+      "image": "airport",
+      "category": "vehicles"
+    },
+    {
+      "word": "HARBOUR",
+      "hint": "Where the boats rest",
+      "image": "harbour",
+      "category": "vehicles"
+    },
+    {
+      "word": "PORT",
+      "hint": "Where ships load and unload",
+      "image": "port",
+      "category": "vehicles"
+    },
+    {
+      "word": "RUNWAY",
+      "hint": "Planes speed along it to fly",
+      "image": "runway",
+      "category": "vehicles"
+    },
+    {
+      "word": "GARAGECAR",
+      "hint": "Where a car is fixed",
+      "image": "garage",
+      "category": "vehicles"
+    },
+    {
+      "word": "PARKING",
+      "hint": "Where you leave the car",
+      "image": "parking",
+      "category": "vehicles"
+    },
+    {
+      "word": "SIGNAL",
+      "hint": "A light that says stop or go",
+      "image": "signal",
+      "category": "vehicles"
+    },
+    {
+      "word": "CROSSING",
+      "hint": "A safe place to walk over the road",
+      "image": "crossing",
+      "category": "vehicles"
+    },
+    {
+      "word": "PAVEMENT",
+      "hint": "The path beside the road",
+      "image": "pavement",
+      "category": "vehicles"
+    },
+    {
+      "word": "FUEL",
+      "hint": "A vehicle drinks it to go",
+      "image": "fuel",
+      "category": "vehicles"
+    },
+    {
+      "word": "PETROL",
+      "hint": "Liquid fuel for a car",
+      "image": "petrol",
+      "category": "vehicles"
+    },
+    {
+      "word": "DRIVER",
+      "hint": "The person who steers",
+      "image": "driver",
+      "category": "vehicles"
+    },
+    {
+      "word": "PILOT",
+      "hint": "The person who flies a plane",
+      "image": "pilot",
+      "category": "vehicles"
+    },
+    {
+      "word": "SAILOR",
+      "hint": "A person who works on a ship",
+      "image": "sailor",
+      "category": "vehicles"
+    },
+    {
+      "word": "CAPTAIN",
+      "hint": "The chief of a ship",
+      "image": "captain",
+      "category": "vehicles"
+    },
+    {
+      "word": "PASSENGER",
+      "hint": "Someone riding along",
+      "image": "passenger",
+      "category": "vehicles"
+    },
+    {
+      "word": "JOURNEY",
+      "hint": "A trip from here to there",
+      "image": "journey",
+      "category": "vehicles"
+    },
+    {
+      "word": "TRAVEL",
+      "hint": "To go from place to place",
+      "image": "travel",
+      "category": "vehicles"
+    },
+    {
+      "word": "WHEELBARROW",
+      "hint": "A cart with one wheel for the garden",
+      "image": "wheelbarrow",
+      "category": "vehicles"
+    },
+    {
+      "word": "RICKSHAW",
+      "hint": "A small three-wheeled ride",
+      "image": "rickshaw",
+      "category": "vehicles"
+    },
+    {
+      "word": "CARAVAN",
+      "hint": "A little house pulled behind a car",
+      "image": "caravan",
+      "category": "vehicles"
+    },
+    {
+      "word": "LORRY",
+      "hint": "A very big goods truck",
+      "image": "lorry",
+      "category": "vehicles"
+    },
+    {
+      "word": "TANKER",
+      "hint": "A truck that carries liquid",
+      "image": "tanker",
+      "category": "vehicles"
+    },
+    {
+      "word": "MIXER",
+      "hint": "A truck that spins concrete",
+      "image": "mixer",
+      "category": "vehicles"
+    },
+    {
+      "word": "BULLDOZER",
+      "hint": "It pushes earth with a big blade",
+      "image": "bulldozer",
+      "category": "vehicles"
+    },
+    {
+      "word": "FORKLIFT",
+      "hint": "It lifts boxes on two prongs",
+      "image": "forklift",
+      "category": "vehicles"
+    },
+    {
+      "word": "COMBINE",
+      "hint": "A machine that harvests crops",
+      "image": "combine",
+      "category": "vehicles"
+    },
+    {
+      "word": "PLOUGH",
+      "hint": "It turns over the soil",
+      "image": "plough",
+      "category": "vehicles"
+    },
+    {
+      "word": "SPACESHIP",
+      "hint": "It travels between the stars",
+      "image": "spaceship",
+      "category": "vehicles"
+    },
+    {
+      "word": "SHUTTLE",
+      "hint": "A craft that goes to space and back",
+      "image": "shuttle",
+      "category": "vehicles"
+    },
+    {
+      "word": "SATELLITE",
+      "hint": "It circles the Earth up high",
+      "image": "satellite",
+      "category": "vehicles"
+    },
+    {
+      "word": "ROVER",
+      "hint": "A robot car on another planet",
+      "image": "rover",
+      "category": "vehicles"
+    },
+    {
+      "word": "BALLOONFLY",
+      "hint": "It rises with hot air inside",
+      "image": "hotairballoon",
+      "category": "vehicles"
+    },
+    {
+      "word": "SEAPLANE",
+      "hint": "A plane that lands on water",
+      "image": "seaplane",
+      "category": "vehicles"
+    },
+    {
+      "word": "SPEEDBOAT",
+      "hint": "A very fast little boat",
+      "image": "speedboat",
+      "category": "vehicles"
+    },
+    {
+      "word": "GONDOLA",
+      "hint": "A long boat with a pole",
+      "image": "gondola",
+      "category": "vehicles"
+    },
+    {
+      "word": "BARGE",
+      "hint": "A flat boat for heavy loads",
+      "image": "barge",
+      "category": "vehicles"
+    },
+    {
+      "word": "TRAILER",
+      "hint": "It is towed behind a truck",
+      "image": "trailer",
+      "category": "vehicles"
+    },
+    {
+      "word": "MOPED",
+      "hint": "A little motorbike",
+      "image": "moped",
+      "category": "vehicles"
+    },
+    {
+      "word": "QUADBIKE",
+      "hint": "A bike with four fat wheels",
+      "image": "quadbike",
+      "category": "vehicles"
+    },
+    {
+      "word": "UNICYCLE",
+      "hint": "A cycle with just one wheel",
+      "image": "unicycle",
+      "category": "vehicles"
+    },
+    {
+      "word": "TRICYCLE",
+      "hint": "A cycle with three wheels",
+      "image": "tricycle",
+      "category": "vehicles"
+    },
+    {
+      "word": "CABLECAR",
+      "hint": "It hangs from a wire up the mountain",
+      "image": "cablecar",
+      "category": "vehicles"
+    },
+    {
+      "word": "PEN",
+      "hint": "You write with it in ink",
+      "image": "pen",
+      "category": "school"
+    },
+    {
+      "word": "PENCIL",
+      "hint": "You write and can rub it out",
+      "image": "pencil",
+      "category": "school"
+    },
+    {
+      "word": "ERASER",
+      "hint": "It rubs out your mistakes",
+      "image": "eraser",
+      "category": "school"
+    },
+    {
+      "word": "RULER",
+      "hint": "You draw straight lines with it",
+      "image": "ruler",
+      "category": "school"
+    },
+    {
+      "word": "SHARPENER",
+      "hint": "It makes a pencil pointy",
+      "image": "sharpener",
+      "category": "school"
+    },
+    {
+      "word": "NOTEBOOK",
+      "hint": "You write your work in it",
+      "image": "notebook",
+      "category": "school"
+    },
+    {
+      "word": "BOARD",
+      "hint": "The teacher writes on it",
+      "image": "board",
+      "category": "school"
+    },
+    {
+      "word": "CLASS",
+      "hint": "A room full of children learning",
+      "image": "classroom",
+      "category": "school"
+    },
+    {
+      "word": "SCHOOL",
+      "hint": "Where children go to learn",
+      "image": "school",
+      "category": "school"
+    },
+    {
+      "word": "TEACHER",
+      "hint": "The person who helps you learn",
+      "image": "teacher",
+      "category": "school"
+    },
+    {
+      "word": "STUDENT",
+      "hint": "A person who is learning",
+      "image": "student",
+      "category": "school"
+    },
+    {
+      "word": "PUPIL",
+      "hint": "A child at school",
+      "image": "student",
+      "category": "school"
+    },
+    {
+      "word": "FRIEND",
+      "hint": "Someone you like to play with",
+      "image": "friend",
+      "category": "school"
+    },
+    {
+      "word": "LESSON",
+      "hint": "A time for learning one thing",
+      "image": "lesson",
+      "category": "school"
+    },
+    {
+      "word": "HOMEWORK",
+      "hint": "School work you do at home",
+      "image": "homework",
+      "category": "school"
+    },
+    {
+      "word": "EXAM",
+      "hint": "A test of what you know",
+      "image": "exam",
+      "category": "school"
+    },
+    {
+      "word": "QUESTION",
+      "hint": "Something you ask",
+      "image": "question",
+      "category": "school"
+    },
+    {
+      "word": "ANSWER",
+      "hint": "What you say back to a question",
+      "image": "answer",
+      "category": "school"
+    },
+    {
+      "word": "STORY",
+      "hint": "A tale in a book",
+      "image": "story",
+      "category": "school"
+    },
+    {
+      "word": "POEM",
+      "hint": "Words that rhyme",
+      "image": "poem",
+      "category": "school"
+    },
+    {
+      "word": "LETTER",
+      "hint": "One sign of the alphabet",
+      "image": "letterabc",
+      "category": "school"
+    },
+    {
+      "word": "ALPHABET",
+      "hint": "All the letters together",
+      "image": "alphabet",
+      "category": "school"
+    },
+    {
+      "word": "NUMBER",
+      "hint": "You count with it",
+      "image": "number",
+      "category": "school"
+    },
+    {
+      "word": "COUNT",
+      "hint": "To say one, two, three",
+      "image": "count",
+      "category": "school"
+    },
+    {
+      "word": "MATHS",
+      "hint": "The subject of numbers",
+      "image": "maths",
+      "category": "school"
+    },
+    {
+      "word": "SCIENCE",
+      "hint": "Learning how the world works",
+      "image": "science",
+      "category": "school"
+    },
+    {
+      "word": "HISTORY",
+      "hint": "Learning about long ago",
+      "image": "history",
+      "category": "school"
+    },
+    {
+      "word": "MUSIC",
+      "hint": "The subject of songs and sounds",
+      "image": "musicclass",
+      "category": "school"
+    },
+    {
+      "word": "DRAWING",
+      "hint": "Making a picture with lines",
+      "image": "drawing",
+      "category": "school"
+    },
+    {
+      "word": "PAINTING",
+      "hint": "Making a picture with colour",
+      "image": "painting",
+      "category": "school"
+    },
+    {
+      "word": "CRAFT",
+      "hint": "Making things with your hands",
+      "image": "craft",
+      "category": "school"
+    },
+    {
+      "word": "LIBRARY",
+      "hint": "A room full of books",
+      "image": "library",
+      "category": "school"
+    },
+    {
+      "word": "BELLSCHOOL",
+      "hint": "It rings for the end of class",
+      "image": "schoolbell",
+      "category": "school"
+    },
+    {
+      "word": "PLAYGROUND",
+      "hint": "Where children play outside",
+      "image": "playground",
+      "category": "school"
+    },
+    {
+      "word": "BREAK",
+      "hint": "A rest between lessons",
+      "image": "break",
+      "category": "school"
+    },
+    {
+      "word": "LUNCH",
+      "hint": "The meal in the middle of the day",
+      "image": "lunch",
+      "category": "school"
+    },
+    {
+      "word": "UNIFORM",
+      "hint": "The clothes you wear to school",
+      "image": "uniform",
+      "category": "school"
+    },
+    {
+      "word": "SATCHEL",
+      "hint": "A bag for carrying books",
+      "image": "satchel",
+      "category": "school"
+    },
+    {
+      "word": "CRAYONBOX",
+      "hint": "A box of coloured wax sticks",
+      "image": "crayons",
+      "category": "school"
+    },
+    {
+      "word": "GLUESTICK",
+      "hint": "It sticks your paper down",
+      "image": "gluestick",
+      "category": "school"
+    },
+    {
+      "word": "STAPLER",
+      "hint": "It clips pages together",
+      "image": "stapler",
+      "category": "school"
+    },
+    {
+      "word": "CLIP",
+      "hint": "It holds papers in place",
+      "image": "paperclip",
+      "category": "school"
+    },
+    {
+      "word": "FOLDER",
+      "hint": "It keeps your papers tidy",
+      "image": "folder",
+      "category": "school"
+    },
+    {
+      "word": "CHART",
+      "hint": "A picture that shows facts",
+      "image": "chart",
+      "category": "school"
+    },
+    {
+      "word": "GLOBE",
+      "hint": "A round model of the Earth",
+      "image": "globe",
+      "category": "school"
+    },
+    {
+      "word": "ATLAS",
+      "hint": "A book full of maps",
+      "image": "atlas",
+      "category": "school"
+    },
+    {
+      "word": "DICTIONARY",
+      "hint": "It tells you what words mean",
+      "image": "dictionary",
+      "category": "school"
+    },
+    {
+      "word": "PAGE",
+      "hint": "One sheet in a book",
+      "image": "page",
+      "category": "school"
+    },
+    {
+      "word": "WORD",
+      "hint": "Letters that mean something",
+      "image": "word",
+      "category": "school"
+    },
+    {
+      "word": "SENTENCE",
+      "hint": "Words that make a whole idea",
+      "image": "sentence",
+      "category": "school"
+    },
+    {
+      "word": "SPELL",
+      "hint": "To put the letters in order",
+      "image": "spell",
+      "category": "school"
+    },
+    {
+      "word": "READ",
+      "hint": "To look at words and understand",
+      "image": "read",
+      "category": "school"
+    },
+    {
+      "word": "WRITE",
+      "hint": "To make words with a pen",
+      "image": "write",
+      "category": "school"
+    },
+    {
+      "word": "LEARN",
+      "hint": "To find out something new",
+      "image": "learn",
+      "category": "school"
+    },
+    {
+      "word": "TEACH",
+      "hint": "To help someone learn",
+      "image": "teach",
+      "category": "school"
+    },
+    {
+      "word": "STUDY",
+      "hint": "To work at learning",
+      "image": "study",
+      "category": "school"
+    },
+    {
+      "word": "THINK",
+      "hint": "To use your mind",
+      "image": "think",
+      "category": "school"
+    },
+    {
+      "word": "KNOW",
+      "hint": "To have it in your head already",
+      "image": "know",
+      "category": "school"
+    },
+    {
+      "word": "PRACTISE",
+      "hint": "To do it again to get better",
+      "image": "practise",
+      "category": "school"
+    },
+    {
+      "word": "LISTEN",
+      "hint": "To use your ears carefully",
+      "image": "listen",
+      "category": "school"
+    },
+    {
+      "word": "SPEAK",
+      "hint": "To say words out loud",
+      "image": "speak",
+      "category": "school"
+    },
+    {
+      "word": "SHARE",
+      "hint": "To let others have some too",
+      "image": "share",
+      "category": "school"
+    },
+    {
+      "word": "HELP",
+      "hint": "To do something kind for someone",
+      "image": "help",
+      "category": "school"
+    },
+    {
+      "word": "TIDY",
+      "hint": "To put things back neatly",
+      "image": "tidy",
+      "category": "school"
+    },
+    {
+      "word": "QUIET",
+      "hint": "With no noise at all",
+      "image": "quiet",
+      "category": "school"
+    },
+    {
+      "word": "LINE",
+      "hint": "Children stand in it one behind another",
+      "image": "line",
+      "category": "school"
+    },
+    {
+      "word": "GROUP",
+      "hint": "Some children working together",
+      "image": "group",
+      "category": "school"
+    },
+    {
+      "word": "TEAM",
+      "hint": "A group that plays together",
+      "image": "team",
+      "category": "school"
+    },
+    {
+      "word": "GAME",
+      "hint": "Something fun with rules",
+      "image": "game",
+      "category": "school"
+    },
+    {
+      "word": "PRIZE",
+      "hint": "What you win",
+      "image": "prize",
+      "category": "school"
+    },
+    {
+      "word": "MEDAL",
+      "hint": "You wear it when you win",
+      "image": "medal",
+      "category": "school"
+    },
+    {
+      "word": "STARCHART",
+      "hint": "Where your gold stars are stuck",
+      "image": "starchart",
+      "category": "school"
+    },
+    {
+      "word": "BADGE",
+      "hint": "You pin it on your shirt",
+      "image": "badge",
+      "category": "school"
+    },
+    {
+      "word": "REPORT",
+      "hint": "It tells how you are doing",
+      "image": "report",
+      "category": "school"
+    },
+    {
+      "word": "DIARY",
+      "hint": "You write each day in it",
+      "image": "diary",
+      "category": "school"
+    },
+    {
+      "word": "PRINCIPAL",
+      "hint": "The head of the school",
+      "image": "principal",
+      "category": "school"
+    },
+    {
+      "word": "OFFICE",
+      "hint": "Where the school papers are kept",
+      "image": "office",
+      "category": "school"
+    },
+    {
+      "word": "CORRIDOR",
+      "hint": "A long passage between rooms",
+      "image": "corridor",
+      "category": "school"
+    },
+    {
+      "word": "CANTEEN",
+      "hint": "Where lunch is served",
+      "image": "canteen",
+      "category": "school"
+    },
+    {
+      "word": "ASSEMBLY",
+      "hint": "When the whole school meets",
+      "image": "assembly",
+      "category": "school"
+    },
+    {
+      "word": "REGISTER",
+      "hint": "The list of names",
+      "image": "register",
+      "category": "school"
+    },
+    {
+      "word": "TIMETABLE",
+      "hint": "It shows which lesson is next",
+      "image": "timetable",
+      "category": "school"
+    },
+    {
+      "word": "TERM",
+      "hint": "A part of the school year",
+      "image": "term",
+      "category": "school"
+    },
+    {
+      "word": "HOLIDAY",
+      "hint": "A break from school",
+      "image": "holiday",
+      "category": "school"
+    },
+    {
+      "word": "TRIP",
+      "hint": "A day out with the class",
+      "image": "trip",
+      "category": "school"
+    },
+    {
+      "word": "PROJECT",
+      "hint": "A big piece of work",
+      "image": "project",
+      "category": "school"
+    },
+    {
+      "word": "MODEL",
+      "hint": "A small copy you build",
+      "image": "model",
+      "category": "school"
+    },
+    {
+      "word": "EXPERIMENT",
+      "hint": "A science test you try",
+      "image": "experiment",
+      "category": "school"
+    },
+    {
+      "word": "MICROSCOPE",
+      "hint": "It makes tiny things look big",
+      "image": "microscope",
+      "category": "school"
+    },
+    {
+      "word": "MAGNIFIER",
+      "hint": "A lens that enlarges things",
+      "image": "magnifier",
+      "category": "school"
+    },
+    {
+      "word": "TELESCOPE",
+      "hint": "It brings far things close",
+      "image": "telescope",
+      "category": "school"
+    },
+    {
+      "word": "CALCULATOR",
+      "hint": "It helps you add numbers",
+      "image": "calculator",
+      "category": "school"
+    },
+    {
+      "word": "ABACUS",
+      "hint": "You count with its beads",
+      "image": "abacus",
+      "category": "school"
+    },
+    {
+      "word": "COMPASS",
+      "hint": "It draws a perfect circle",
+      "image": "compass",
+      "category": "school"
+    },
+    {
+      "word": "PROTRACTOR",
+      "hint": "It measures angles",
+      "image": "protractor",
+      "category": "school"
+    },
+    {
+      "word": "TRIANGLE",
+      "hint": "A shape with three sides",
+      "image": "triangle",
+      "category": "school"
+    },
+    {
+      "word": "SQUARE",
+      "hint": "A shape with four equal sides",
+      "image": "square",
+      "category": "school"
+    },
+    {
+      "word": "CIRCLE",
+      "hint": "A perfectly round shape",
+      "image": "circle",
+      "category": "school"
+    },
+    {
+      "word": "RECTANGLE",
+      "hint": "A shape with four sides, two long",
+      "image": "rectangle",
+      "category": "school"
+    },
+    {
+      "word": "OVAL",
+      "hint": "A shape like an egg",
+      "image": "oval",
+      "category": "school"
+    },
+    {
+      "word": "RAIN",
+      "hint": "Water falling from the clouds",
+      "image": "rain",
+      "category": "weather"
+    },
+    {
+      "word": "SNOW",
+      "hint": "Soft white flakes falling",
+      "image": "snow",
+      "category": "weather"
+    },
+    {
+      "word": "WIND",
+      "hint": "Air that blows on your face",
+      "image": "wind",
+      "category": "weather"
+    },
+    {
+      "word": "STORM",
+      "hint": "Wild wind and heavy rain",
+      "image": "storm",
+      "category": "weather"
+    },
+    {
+      "word": "THUNDER",
+      "hint": "The loud rumble in the sky",
+      "image": "thunder",
+      "category": "weather"
+    },
+    {
+      "word": "LIGHTNING",
+      "hint": "A bright flash in a storm",
+      "image": "lightning",
+      "category": "weather"
+    },
+    {
+      "word": "HAIL",
+      "hint": "Little balls of ice falling",
+      "image": "hail",
+      "category": "weather"
+    },
+    {
+      "word": "FOG",
+      "hint": "A thick cloud near the ground",
+      "image": "fog",
+      "category": "weather"
+    },
+    {
+      "word": "MIST",
+      "hint": "A thin damp haze",
+      "image": "mist",
+      "category": "weather"
+    },
+    {
+      "word": "DEW",
+      "hint": "Tiny drops on the morning grass",
+      "image": "dew",
+      "category": "weather"
+    },
+    {
+      "word": "FROST",
+      "hint": "White ice on a cold morning",
+      "image": "frost",
+      "category": "weather"
+    },
+    {
+      "word": "ICE",
+      "hint": "Water gone hard with cold",
+      "image": "ice",
+      "category": "weather"
+    },
+    {
+      "word": "SLEET",
+      "hint": "Rain and snow together",
+      "image": "sleet",
+      "category": "weather"
+    },
+    {
+      "word": "DRIZZLE",
+      "hint": "Very light rain",
+      "image": "drizzle",
+      "category": "weather"
+    },
+    {
+      "word": "PUDDLE",
+      "hint": "A little pool after the rain",
+      "image": "puddle",
+      "category": "weather"
+    },
+    {
+      "word": "HEAT",
+      "hint": "When it is very warm",
+      "image": "heat",
+      "category": "weather"
+    },
+    {
+      "word": "COLD",
+      "hint": "When you need a coat",
+      "image": "cold",
+      "category": "weather"
+    },
+    {
+      "word": "CHILL",
+      "hint": "A little bit of cold",
+      "image": "chill",
+      "category": "weather"
+    },
+    {
+      "word": "BREEZE",
+      "hint": "A gentle wind",
+      "image": "breeze",
+      "category": "weather"
+    },
+    {
+      "word": "GALE",
+      "hint": "A very strong wind",
+      "image": "gale",
+      "category": "weather"
+    },
+    {
+      "word": "GUST",
+      "hint": "A sudden puff of wind",
+      "image": "gust",
+      "category": "weather"
+    },
+    {
+      "word": "RAINBOWSKY",
+      "hint": "Colours in the sky after rain",
+      "image": "rainbow",
+      "category": "weather"
+    },
+    {
+      "word": "SUNBEAM",
+      "hint": "A ray of sunlight",
+      "image": "sunbeam",
+      "category": "weather"
+    },
+    {
+      "word": "SUNLIGHT",
+      "hint": "Light coming from the sun",
+      "image": "sunlight",
+      "category": "weather"
+    },
+    {
+      "word": "MOONLIGHT",
+      "hint": "Soft light at night",
+      "image": "moonlight",
+      "category": "weather"
+    },
+    {
+      "word": "STARLIGHT",
+      "hint": "The tiny light of far stars",
+      "image": "starlight",
+      "category": "weather"
+    },
+    {
+      "word": "DAYTIME",
+      "hint": "When the sun is up",
+      "image": "daytime",
+      "category": "weather"
+    },
+    {
+      "word": "NIGHTTIME",
+      "hint": "When the sky is dark",
+      "image": "nighttime",
+      "category": "weather"
+    },
+    {
+      "word": "MORNING",
+      "hint": "The early part of the day",
+      "image": "morning",
+      "category": "weather"
+    },
+    {
+      "word": "NOON",
+      "hint": "The middle of the day",
+      "image": "noon",
+      "category": "weather"
+    },
+    {
+      "word": "EVENING",
+      "hint": "When the day is ending",
+      "image": "evening",
+      "category": "weather"
+    },
+    {
+      "word": "MIDNIGHTHOUR",
+      "hint": "The very middle of the night",
+      "image": "midnight",
+      "category": "weather"
+    },
+    {
+      "word": "DAWN",
+      "hint": "When the sky first gets light",
+      "image": "dawn",
+      "category": "weather"
+    },
+    {
+      "word": "DUSK",
+      "hint": "When the light is fading",
+      "image": "dusk",
+      "category": "weather"
+    },
+    {
+      "word": "TWILIGHT",
+      "hint": "The soft light after sunset",
+      "image": "twilight",
+      "category": "weather"
+    },
+    {
+      "word": "SEASONS",
+      "hint": "Spring, summer, autumn and winter",
+      "image": "seasons",
+      "category": "weather"
+    },
+    {
+      "word": "SPRINGTIME",
+      "hint": "When flowers start to grow",
+      "image": "springtime",
+      "category": "weather"
+    },
+    {
+      "word": "MONSOON",
+      "hint": "The season of heavy rain",
+      "image": "monsoon",
+      "category": "weather"
+    },
+    {
+      "word": "DROUGHT",
+      "hint": "A long time with no rain",
+      "image": "drought",
+      "category": "weather"
+    },
+    {
+      "word": "FLOOD",
+      "hint": "Too much water on the land",
+      "image": "flood",
+      "category": "weather"
+    },
+    {
+      "word": "RAINBOWARC",
+      "hint": "The curved band of colours",
+      "image": "rainbow",
+      "category": "weather"
+    },
+    {
+      "word": "UMBRELLARAIN",
+      "hint": "You open it when it pours",
+      "image": "umbrella",
+      "category": "weather"
+    },
+    {
+      "word": "RAINCOAT",
+      "hint": "A coat that keeps rain off",
+      "image": "raincoat",
+      "category": "weather"
+    },
+    {
+      "word": "BOOTS",
+      "hint": "You wear them in the puddles",
+      "image": "boots",
+      "category": "weather"
+    },
+    {
+      "word": "SNOWMAN",
+      "hint": "You build him from snow",
+      "image": "snowman",
+      "category": "weather"
+    },
+    {
+      "word": "SNOWFLAKE",
+      "hint": "One tiny piece of snow",
+      "image": "snowflake",
+      "category": "weather"
+    },
+    {
+      "word": "ICICLE",
+      "hint": "A spike of ice hanging down",
+      "image": "icicle",
+      "category": "weather"
+    },
+    {
+      "word": "BLIZZARD",
+      "hint": "A storm full of snow",
+      "image": "blizzard",
+      "category": "weather"
+    },
+    {
+      "word": "AVALANCHE",
+      "hint": "Snow rushing down a mountain",
+      "image": "avalanche",
+      "category": "weather"
+    },
+    {
+      "word": "CYCLONE",
+      "hint": "A spinning wind storm",
+      "image": "cyclone",
+      "category": "weather"
+    },
+    {
+      "word": "HURRICANE",
+      "hint": "A huge spinning sea storm",
+      "image": "hurricane",
+      "category": "weather"
+    },
+    {
+      "word": "TORNADO",
+      "hint": "A spinning funnel of wind",
+      "image": "tornado",
+      "category": "weather"
+    },
+    {
+      "word": "WHIRLWIND",
+      "hint": "A little spinning wind",
+      "image": "whirlwind",
+      "category": "weather"
+    },
+    {
+      "word": "SANDSTORM",
+      "hint": "Wind full of flying sand",
+      "image": "sandstorm",
+      "category": "weather"
+    },
+    {
+      "word": "HUMID",
+      "hint": "When the air feels sticky",
+      "image": "humid",
+      "category": "weather"
+    },
+    {
+      "word": "DAMP",
+      "hint": "A little bit wet",
+      "image": "damp",
+      "category": "weather"
+    },
+    {
+      "word": "DRY",
+      "hint": "With no water at all",
+      "image": "dry",
+      "category": "weather"
+    },
+    {
+      "word": "WET",
+      "hint": "Covered in water",
+      "image": "wet",
+      "category": "weather"
+    },
+    {
+      "word": "SOGGY",
+      "hint": "Very wet and soft",
+      "image": "soggy",
+      "category": "weather"
+    },
+    {
+      "word": "SLIPPERY",
+      "hint": "Easy to slide on",
+      "image": "slippery",
+      "category": "weather"
+    },
+    {
+      "word": "MUDDY",
+      "hint": "Covered in wet soil",
+      "image": "muddy",
+      "category": "weather"
+    },
+    {
+      "word": "DUSTY",
+      "hint": "Covered in dry powder",
+      "image": "dusty",
+      "category": "weather"
+    },
+    {
+      "word": "BREEZY",
+      "hint": "With a gentle wind",
+      "image": "breezy",
+      "category": "weather"
+    },
+    {
+      "word": "WINDY",
+      "hint": "With a lot of wind",
+      "image": "windy",
+      "category": "weather"
+    },
+    {
+      "word": "RAINY",
+      "hint": "With a lot of rain",
+      "image": "rainy",
+      "category": "weather"
+    },
+    {
+      "word": "FOGGY",
+      "hint": "You cannot see very far",
+      "image": "foggy",
+      "category": "weather"
+    },
+    {
+      "word": "CLEAR",
+      "hint": "With no clouds at all",
+      "image": "clearsky",
+      "category": "weather"
+    },
+    {
+      "word": "WEATHER",
+      "hint": "What the sky is doing today",
+      "image": "weather",
+      "category": "weather"
+    },
+    {
+      "word": "CLIMATE",
+      "hint": "The usual weather of a place",
+      "image": "climate",
+      "category": "weather"
+    },
+    {
+      "word": "FORECAST",
+      "hint": "What the weather will do next",
+      "image": "forecast",
+      "category": "weather"
+    },
+    {
+      "word": "TEMPERATURE",
+      "hint": "How hot or cold it is",
+      "image": "temperature",
+      "category": "weather"
+    },
+    {
+      "word": "THERMOMETER",
+      "hint": "It measures how hot it is",
+      "image": "thermometer",
+      "category": "weather"
+    },
+    {
+      "word": "BAROMETER",
+      "hint": "It measures the air",
+      "image": "barometer",
+      "category": "weather"
+    },
+    {
+      "word": "WINDVANE",
+      "hint": "It shows which way the wind blows",
+      "image": "windvane",
+      "category": "weather"
+    },
+    {
+      "word": "WINDMILL",
+      "hint": "The wind turns its sails",
+      "image": "windmill",
+      "category": "weather"
+    },
+    {
+      "word": "SUNDIAL",
+      "hint": "It tells time with a shadow",
+      "image": "sundial",
+      "category": "weather"
+    },
+    {
+      "word": "SUNGLASSES",
+      "hint": "You wear them in bright sun",
+      "image": "sunglasses",
+      "category": "weather"
+    },
+    {
+      "word": "SUNHAT",
+      "hint": "It shades your face",
+      "image": "sunhat",
+      "category": "weather"
+    },
+    {
+      "word": "SUNSCREEN",
+      "hint": "It protects your skin",
+      "image": "sunscreen",
+      "category": "weather"
+    },
+    {
+      "word": "SHADETREE",
+      "hint": "A cool spot out of the sun",
+      "image": "shade",
+      "category": "weather"
+    },
+    {
+      "word": "SHELTER",
+      "hint": "A place out of the rain",
+      "image": "shelter",
+      "category": "weather"
+    },
+    {
+      "word": "BONFIRE",
+      "hint": "A big warm outdoor fire",
+      "image": "bonfire",
+      "category": "weather"
+    },
+    {
+      "word": "FIREPLACE",
+      "hint": "Where a home fire burns",
+      "image": "fireplace",
+      "category": "weather"
+    },
+    {
+      "word": "SWEATER",
+      "hint": "A warm woolly top",
+      "image": "sweater",
+      "category": "weather"
+    },
+    {
+      "word": "MITTEN",
+      "hint": "A warm cover for your hand",
+      "image": "mitten",
+      "category": "weather"
+    },
+    {
+      "word": "EARMUFF",
+      "hint": "It keeps your ears warm",
+      "image": "earmuff",
+      "category": "weather"
+    },
+    {
+      "word": "SNOWBALL",
+      "hint": "You roll it and throw it",
+      "image": "snowball",
+      "category": "weather"
+    },
+    {
+      "word": "SLUSH",
+      "hint": "Half-melted messy snow",
+      "image": "slush",
+      "category": "weather"
+    },
+    {
+      "word": "THAW",
+      "hint": "When the ice turns to water",
+      "image": "thaw",
+      "category": "weather"
+    },
+    {
+      "word": "MELT",
+      "hint": "To turn from ice into water",
+      "image": "melt",
+      "category": "weather"
+    },
+    {
+      "word": "FREEZE",
+      "hint": "To turn from water into ice",
+      "image": "freeze",
+      "category": "weather"
+    },
+    {
+      "word": "SEASONAL",
+      "hint": "Changing with the time of year",
+      "image": "seasonal",
+      "category": "weather"
+    }
+  ]
+}

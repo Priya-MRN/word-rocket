@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Word Rocket 🚀</title>
+  <meta name="description" content="Word Rocket - a joyful, multilingual word-guessing game for kids." />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='rocket.css') }}" />
+</head>
+<body class="galaxy">
+  {% include "_icons.html" %}
+  <div class="orbs" aria-hidden="true">
+    <span class="orb a"></span><span class="orb b"></span><span class="orb c"></span>
+  </div>
+
+  <main class="shell">
+    <header class="hero">
+      <svg class="hero-rocket icon" aria-hidden="true"><use href="#i-{{ icon('rocket') }}"></use></svg>
+      <p class="kicker">Word Rocket</p>
+      <h1>Spell it. Launch it.</h1>
+      <p class="sub">
+        Guess the letters to fly your rocket to the stars. Pick a language to
+        begin — you can change the words, the size and the sounds any time.
+      </p>
+    </header>
+
+    {% if error %}
+      <p class="msg" style="color: var(--coral);">{{ error }}</p>
+    {% endif %}
+
+    <h2 class="head-font" style="font-size: var(--h2); margin: 0 0 4px;">Choose your words</h2>
+    <section class="lang-grid">
+      {% for lang in languages %}
+        <a class="lang-card" href="{{ url_for('play', code=lang.code) }}"
+           aria-label="Play in {{ lang.language }} — {{ lang.count }} words in {{ lang.categories }} categories">
+          <svg class="big icon" aria-hidden="true"><use href="#i-{{ icon('language') }}"></use></svg>
+          <span>
+            <span class="name">{{ lang.language }}</span><br />
+            <span class="meta">{{ lang.count }} words · {{ lang.categories }} categories</span>
+          </span>
+        </a>
+      {% else %}
+        <p class="msg">No language packs found.</p>
+      {% endfor %}
+    </section>
+
+    <section class="note-grid">
+      <div class="note">
+        <h3 style="color: var(--cyan);">Play your way</h3>
+        <p>Pick a category and word length, make the text or keys bigger, turn
+           motion and sound off, or play two-player pass-and-play.</p>
+      </div>
+      <div class="note">
+        <h3 style="color: var(--mint);">Kind by design</h3>
+        <p>No hanging figure — ever. Wrong guesses just slow the rocket down,
+           and losing is always gentle and encouraging.</p>
+      </div>
+      <div class="note">
+        <h3 style="color: var(--gold);">Two languages</h3>
+        <p>English and Tamil, each with its own word list. Tamil is guessed by
+           whole characters, not by code points.</p>
+      </div>
+      <div class="note">
+        <h3 style="color: var(--violet);">Add your own</h3>
+        <p>Upload a small JSON pack to teach the game a new language or your
+           own word list.</p>
+      </div>
+    </section>
+
+    <details class="note" style="margin-top: 14px;">
+      <summary class="head-font" style="cursor: pointer; font-size: var(--body);">
+        <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('upload') }}"></use></svg> Add a new language pack
+      </summary>
+
+      <p class="opt-desc" style="margin-top: 12px;">
+        <strong>1.</strong> Download the template · <strong>2.</strong> edit it for your
+        language · <strong>3.</strong> upload it. It appears above straight away.
+      </p>
+
+      <p>
+        <a class="pill" href="/api/pack-template" download style="margin: 8px 0;">
+          <svg class="icon" aria-hidden="true"><use href="#i-{{ icon('download') }}"></use></svg> Download template (.json)
+        </a>
+      </p>
+
+      <p class="opt-desc">
+        Required: <code>language</code>, <code>code</code>, and a non-empty
+        <code>words</code> list. Optional per word: <code>hint</code>,
+        <code>image</code> and <code>category</code>. Omit <code>alphabet</code>
+        for scripts like Tamil and the keyboard is built from the word itself.
+      </p>
+
+      <form id="upload-form" style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+        <input type="file" id="pack-file" accept=".json,application/json"
+               style="color: var(--dim); font-size: 14px;" />
+        <button type="submit" class="btn-primary">Upload pack</button>
+      </form>
+      <p id="upload-msg" class="opt-desc" role="status"></p>
+    </details>
+
+    <footer class="foot">Made for happy learning · v{{ version }}</footer>
+  </main>
+
+  <script>
+    const form = document.getElementById('upload-form');
+    const msg = document.getElementById('upload-msg');
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const fileInput = document.getElementById('pack-file');
+      if (!fileInput.files.length) {
+        msg.textContent = 'Please choose a .json pack file first.';
+        return;
+      }
+      const data = new FormData();
+      data.append('file', fileInput.files[0]);
+      msg.textContent = 'Uploading your pack…';
+      try {
+        const res = await fetch('/api/upload-pack', { method: 'POST', body: data });
+        const json = await res.json();
+        if (res.ok) {
+          msg.textContent = `Added "${json.language}" (${json.count} words). Reloading…`;
+          setTimeout(() => location.reload(), 900);
+        } else {
+          msg.textContent = json.error || 'Upload failed.';
+        }
+      } catch (err) {
+        msg.textContent = 'Could not upload: ' + err;
+      }
+    });
+
+    // A few twinkling stars, positioned by script so the markup stays clean.
+    const orbs = document.querySelector('.orbs');
+    for (let i = 0; i < 26; i++) {
+      const s = document.createElement('span');
+      s.className = 'twinkle';
+      s.style.left = Math.random() * 100 + '%';
+      s.style.top = Math.random() * 100 + '%';
+      s.style.animationDelay = (Math.random() * 3).toFixed(2) + 's';
+      orbs.appendChild(s);
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hangman-game"
+version = "1.0.0"
+description = "A versatile, multilingual, kid-friendly Hangman game (English + Tamil) with auto-generated SVG art, a joyful web UI, and a colorful CLI."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Interconnected" }]
+keywords = ["hangman", "game", "kids", "multilingual", "tamil", "education"]
+dependencies = [
+    "flask>=3.0",
+    "colorama>=0.4.6",
+]
+
+[project.optional-dependencies]
+# `lucide` bundles the upstream lucide icon SVGs (v1.23.0 in lucide==1.1.4).
+# It is a build-time/dev dependency only: tools/icontool.py reads the packaged
+# SVGs to generate web/templates/_icons.html. The running app serves the
+# generated sprite and never imports lucide.
+dev = ["pytest>=8.0", "lucide==1.1.4"]
+
+[project.scripts]
+hangman = "hangman.cli:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+hangman = ["languages/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

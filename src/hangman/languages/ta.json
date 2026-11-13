@@ -1,0 +1,1598 @@
+{
+  "language": "தமிழ் (Tamil)",
+  "code": "ta",
+  "direction": "ltr",
+  "alphabet": [],
+  "words": [
+    {
+      "word": "பூனை",
+      "hint": "Cat - a pet that says meow",
+      "image": "cat",
+      "category": "animals"
+    },
+    {
+      "word": "நாய்",
+      "hint": "Dog - a pet that says woof",
+      "image": "dog",
+      "category": "animals"
+    },
+    {
+      "word": "மீன்",
+      "hint": "Fish - it swims in water",
+      "image": "fish",
+      "category": "animals"
+    },
+    {
+      "word": "பறவை",
+      "hint": "Bird - it can fly and sing",
+      "image": "bird",
+      "category": "animals"
+    },
+    {
+      "word": "தவளை",
+      "hint": "Frog - green and goes hop hop",
+      "image": "frog",
+      "category": "animals"
+    },
+    {
+      "word": "மாடு",
+      "hint": "Cow - farm animal that gives milk",
+      "image": "cow",
+      "category": "animals"
+    },
+    {
+      "word": "சிங்கம்",
+      "hint": "Lion - king of the jungle",
+      "image": "lion",
+      "category": "animals"
+    },
+    {
+      "word": "முயல்",
+      "hint": "Rabbit - it hops and has long ears",
+      "image": "rabbit",
+      "category": "animals"
+    },
+    {
+      "word": "பந்து",
+      "hint": "Ball - you kick it or throw it",
+      "image": "ball",
+      "category": "things"
+    },
+    {
+      "word": "மரம்",
+      "hint": "Tree - tall and green with leaves",
+      "image": "tree",
+      "category": "nature"
+    },
+    {
+      "word": "பழம்",
+      "hint": "Fruit - sweet and good to eat",
+      "image": "apple",
+      "category": "food"
+    },
+    {
+      "word": "பூ",
+      "hint": "Flower - pretty and smells nice",
+      "image": "flower",
+      "category": "nature"
+    },
+    {
+      "word": "சூரியன்",
+      "hint": "Sun - it shines in the sky by day",
+      "image": "sun",
+      "category": "nature"
+    },
+    {
+      "word": "நிலா",
+      "hint": "Moon - it glows in the sky at night",
+      "image": "moon",
+      "category": "nature"
+    },
+    {
+      "word": "நட்சத்திரம்",
+      "hint": "Star - it twinkles at night",
+      "image": "star",
+      "category": "nature"
+    },
+    {
+      "word": "வீடு",
+      "hint": "House - a place where we live",
+      "image": "house",
+      "category": "home"
+    },
+    {
+      "word": "கார்",
+      "hint": "Car - it has wheels and drives",
+      "image": "car",
+      "category": "vehicles"
+    },
+    {
+      "word": "பால்",
+      "hint": "Milk - a white drink that is good for you",
+      "image": "milk",
+      "category": "food"
+    },
+    {
+      "word": "முட்டை",
+      "hint": "Egg - a hen lays it",
+      "image": "egg",
+      "category": "food"
+    },
+    {
+      "word": "வாழை",
+      "hint": "Banana - a long yellow fruit",
+      "image": "banana",
+      "category": "food"
+    },
+    {
+      "word": "மாம்பழம்",
+      "hint": "Mango - a sweet yellow fruit",
+      "image": "mango",
+      "category": "food"
+    },
+    {
+      "word": "எலி",
+      "hint": "Mouse - a small animal",
+      "image": "cat",
+      "category": "animals"
+    },
+    {
+      "word": "ஆடு",
+      "hint": "Goat - a farm animal",
+      "image": "cow",
+      "category": "animals"
+    },
+    {
+      "word": "தண்ணீர்",
+      "hint": "Water - we drink it",
+      "image": "fish",
+      "category": "food"
+    },
+    {
+      "word": "கண்",
+      "hint": "Eye - we see with it",
+      "image": "heart",
+      "category": "body"
+    },
+    {
+      "word": "குதிரை",
+      "hint": "குதிரை - சவாரி செய்யும் விலங்கு",
+      "image": "horse",
+      "category": "animals"
+    },
+    {
+      "word": "யானை",
+      "hint": "யானை - தும்பிக்கை உள்ள பெரிய விலங்கு",
+      "image": "elephant",
+      "category": "animals"
+    },
+    {
+      "word": "புலி",
+      "hint": "புலி - கோடுகள் உள்ள பெரிய பூனை",
+      "image": "tiger",
+      "category": "animals"
+    },
+    {
+      "word": "கரடி",
+      "hint": "கரடி - தேன் விரும்பும் விலங்கு",
+      "image": "bear",
+      "category": "animals"
+    },
+    {
+      "word": "குரங்கு",
+      "hint": "குரங்கு - மரம் ஏறும் விலங்கு",
+      "image": "monkey",
+      "category": "animals"
+    },
+    {
+      "word": "மான்",
+      "hint": "மான் - கொம்பு உள்ள காட்டு விலங்கு",
+      "image": "deer",
+      "category": "animals"
+    },
+    {
+      "word": "நரி",
+      "hint": "நரி - தந்திரமான விலங்கு",
+      "image": "fox",
+      "category": "animals"
+    },
+    {
+      "word": "ஓநாய்",
+      "hint": "ஓநாய் - ஊளையிடும் விலங்கு",
+      "image": "wolf",
+      "category": "animals"
+    },
+    {
+      "word": "பன்றி",
+      "hint": "பன்றி - சேற்றில் விளையாடும் விலங்கு",
+      "image": "pig",
+      "category": "animals"
+    },
+    {
+      "word": "கழுதை",
+      "hint": "கழுதை - சுமை தூக்கும் விலங்கு",
+      "image": "donkey",
+      "category": "animals"
+    },
+    {
+      "word": "ஒட்டகம்",
+      "hint": "ஒட்டகம் - பாலைவனத்தில் வாழும் விலங்கு",
+      "image": "camel",
+      "category": "animals"
+    },
+    {
+      "word": "சிறுத்தை",
+      "hint": "சிறுத்தை - புள்ளிகள் உள்ள விலங்கு",
+      "image": "leopard",
+      "category": "animals"
+    },
+    {
+      "word": "அணில்",
+      "hint": "அணில் - சிறிய கோடுகள் உள்ள விலங்கு",
+      "image": "squirrel",
+      "category": "animals"
+    },
+    {
+      "word": "வௌவால்",
+      "hint": "வௌவால் - இரவில் பறக்கும் விலங்கு",
+      "image": "bat",
+      "category": "animals"
+    },
+    {
+      "word": "பாம்பு",
+      "hint": "பாம்பு - கால் இல்லாத நீளமான உயிரினம்",
+      "image": "snake",
+      "category": "animals"
+    },
+    {
+      "word": "ஆமை",
+      "hint": "ஆமை - மெதுவாக நடக்கும் ஓடு உள்ள உயிரினம்",
+      "image": "turtle",
+      "category": "animals"
+    },
+    {
+      "word": "நண்டு",
+      "hint": "நண்டு - கடற்கரையில் பக்கவாட்டில் நடக்கும்",
+      "image": "crab",
+      "category": "animals"
+    },
+    {
+      "word": "இறால்",
+      "hint": "இறால் - கடலில் வாழும் சிறிய உயிரினம்",
+      "image": "shrimp",
+      "category": "animals"
+    },
+    {
+      "word": "திமிங்கிலம்",
+      "hint": "திமிங்கிலம் - கடலின் மிகப் பெரிய உயிரினம்",
+      "image": "whale",
+      "category": "animals"
+    },
+    {
+      "word": "சுறா",
+      "hint": "சுறா - கூர்மையான பற்கள் உள்ள மீன்",
+      "image": "shark",
+      "category": "animals"
+    },
+    {
+      "word": "தேனீ",
+      "hint": "தேனீ - தேன் தரும் பூச்சி",
+      "image": "bee",
+      "category": "animals"
+    },
+    {
+      "word": "எறும்பு",
+      "hint": "எறும்பு - மிகச் சிறிய உழைக்கும் பூச்சி",
+      "image": "ant",
+      "category": "animals"
+    },
+    {
+      "word": "வண்ணத்துப்பூச்சி",
+      "hint": "வண்ணத்துப்பூச்சி - அழகிய சிறகுகள் உள்ள பூச்சி",
+      "image": "butterfly",
+      "category": "animals"
+    },
+    {
+      "word": "சிலந்தி",
+      "hint": "சிலந்தி - வலை பின்னும் பூச்சி",
+      "image": "spider",
+      "category": "animals"
+    },
+    {
+      "word": "கொசு",
+      "hint": "கொசு - ரீங்காரமிடும் சிறிய பூச்சி",
+      "image": "mosquito",
+      "category": "animals"
+    },
+    {
+      "word": "நத்தை",
+      "hint": "நத்தை - ஓட்டை சுமக்கும் மெதுவான உயிரினம்",
+      "image": "snail",
+      "category": "animals"
+    },
+    {
+      "word": "மயில்",
+      "hint": "மயில் - அழகிய தோகை உள்ள பறவை",
+      "image": "peacock",
+      "category": "animals"
+    },
+    {
+      "word": "கிளி",
+      "hint": "கிளி - பேசும் பச்சை பறவை",
+      "image": "parrot",
+      "category": "animals"
+    },
+    {
+      "word": "காகம்",
+      "hint": "காகம் - கரையும் கருப்பு பறவை",
+      "image": "crow",
+      "category": "animals"
+    },
+    {
+      "word": "கோழி",
+      "hint": "கோழி - முட்டை இடும் பறவை",
+      "image": "hen",
+      "category": "animals"
+    },
+    {
+      "word": "அரிசி",
+      "hint": "அரிசி - சமைத்து உண்ணும் தானியம்",
+      "image": "rice",
+      "category": "food"
+    },
+    {
+      "word": "தோசை",
+      "hint": "தோசை - மெல்லிய சுவையான உணவு",
+      "image": "dosa",
+      "category": "food"
+    },
+    {
+      "word": "இட்லி",
+      "hint": "இட்லி - ஆவியில் வேகவைத்த உணவு",
+      "image": "idli",
+      "category": "food"
+    },
+    {
+      "word": "சாதம்",
+      "hint": "சாதம் - சமைத்த அரிசி உணவு",
+      "image": "rice",
+      "category": "food"
+    },
+    {
+      "word": "ரொட்டி",
+      "hint": "ரொட்டி - மாவினால் செய்த உணவு",
+      "image": "bread",
+      "category": "food"
+    },
+    {
+      "word": "தேன்",
+      "hint": "தேன் - தேனீ தரும் இனிப்பு",
+      "image": "honey",
+      "category": "food"
+    },
+    {
+      "word": "சர்க்கரை",
+      "hint": "சர்க்கரை - இனிப்பான வெள்ளைப் பொருள்",
+      "image": "sugar",
+      "category": "food"
+    },
+    {
+      "word": "உப்பு",
+      "hint": "உப்பு - உணவுக்கு சுவை தரும் பொருள்",
+      "image": "salt",
+      "category": "food"
+    },
+    {
+      "word": "எண்ணெய்",
+      "hint": "எண்ணெய் - பொரிக்கப் பயன்படும் திரவம்",
+      "image": "oil",
+      "category": "food"
+    },
+    {
+      "word": "தயிர்",
+      "hint": "தயிர் - பாலில் இருந்து செய்யும் உணவு",
+      "image": "curd",
+      "category": "food"
+    },
+    {
+      "word": "வெண்ணெய்",
+      "hint": "வெண்ணெய் - ரொட்டியில் தடவும் உணவு",
+      "image": "butter",
+      "category": "food"
+    },
+    {
+      "word": "ஆப்பிள்",
+      "hint": "ஆப்பிள் - சிவப்பு நிற பழம்",
+      "image": "apple",
+      "category": "food"
+    },
+    {
+      "word": "திராட்சை",
+      "hint": "திராட்சை - கொத்தாக உள்ள சிறிய பழம்",
+      "image": "grapes",
+      "category": "food"
+    },
+    {
+      "word": "எலுமிச்சை",
+      "hint": "எலுமிச்சை - புளிப்பான மஞ்சள் பழம்",
+      "image": "lemon",
+      "category": "food"
+    },
+    {
+      "word": "தேங்காய்",
+      "hint": "தேங்காய் - உள்ளே வெள்ளையாக உள்ள பழம்",
+      "image": "coconut",
+      "category": "food"
+    },
+    {
+      "word": "ஆரஞ்சு",
+      "hint": "ஆரஞ்சு - சாறு நிறைந்த பழம்",
+      "image": "orange",
+      "category": "food"
+    },
+    {
+      "word": "பலாப்பழம்",
+      "hint": "பலாப்பழம் - முள் உள்ள பெரிய பழம்",
+      "image": "jackfruit",
+      "category": "food"
+    },
+    {
+      "word": "கொய்யா",
+      "hint": "கொய்யா - பச்சை நிற பழம்",
+      "image": "guava",
+      "category": "food"
+    },
+    {
+      "word": "பப்பாளி",
+      "hint": "பப்பாளி - ஆரஞ்சு நிற பழம்",
+      "image": "papaya",
+      "category": "food"
+    },
+    {
+      "word": "கேரட்",
+      "hint": "கேரட் - ஆரஞ்சு நிற காய்கறி",
+      "image": "carrot",
+      "category": "food"
+    },
+    {
+      "word": "தக்காளி",
+      "hint": "தக்காளி - சிவப்பு நிற காய்கறி",
+      "image": "tomato",
+      "category": "food"
+    },
+    {
+      "word": "வெங்காயம்",
+      "hint": "வெங்காயம் - கண்ணீர் வரவைக்கும் காய்கறி",
+      "image": "onion",
+      "category": "food"
+    },
+    {
+      "word": "உருளைக்கிழங்கு",
+      "hint": "உருளைக்கிழங்கு - மண்ணுக்கு அடியில் வளரும் கிழங்கு",
+      "image": "potato",
+      "category": "food"
+    },
+    {
+      "word": "கத்திரிக்காய்",
+      "hint": "கத்திரிக்காய் - ஊதா நிற காய்கறி",
+      "image": "eggplant",
+      "category": "food"
+    },
+    {
+      "word": "முருங்கை",
+      "hint": "முருங்கை - நீளமான பச்சை காய்",
+      "image": "drumstick",
+      "category": "food"
+    },
+    {
+      "word": "மிளகாய்",
+      "hint": "மிளகாய் - காரமான காய்",
+      "image": "chilli",
+      "category": "food"
+    },
+    {
+      "word": "இஞ்சி",
+      "hint": "இஞ்சி - காரமான வேர்",
+      "image": "ginger",
+      "category": "food"
+    },
+    {
+      "word": "பூண்டு",
+      "hint": "பூண்டு - வாசனையான வெள்ளை பொருள்",
+      "image": "garlic",
+      "category": "food"
+    },
+    {
+      "word": "கீரை",
+      "hint": "கீரை - பச்சை நிற இலை உணவு",
+      "image": "spinach",
+      "category": "food"
+    },
+    {
+      "word": "பருப்பு",
+      "hint": "பருப்பு - சமைத்து உண்ணும் தானியம்",
+      "image": "lentils",
+      "category": "food"
+    },
+    {
+      "word": "இலை",
+      "hint": "இலை - மரத்தில் வளரும் பச்சை பகுதி",
+      "image": "leaf",
+      "category": "nature"
+    },
+    {
+      "word": "வேர்",
+      "hint": "வேர் - மண்ணுக்குள் இருக்கும் பகுதி",
+      "image": "root",
+      "category": "nature"
+    },
+    {
+      "word": "விதை",
+      "hint": "விதை - இதிலிருந்து செடி முளைக்கும்",
+      "image": "seed",
+      "category": "nature"
+    },
+    {
+      "word": "புல்",
+      "hint": "புல் - தரையில் வளரும் பச்சை தாவரம்",
+      "image": "grass",
+      "category": "nature"
+    },
+    {
+      "word": "காடு",
+      "hint": "காடு - மரங்கள் நிறைந்த இடம்",
+      "image": "forest",
+      "category": "nature"
+    },
+    {
+      "word": "மலை",
+      "hint": "மலை - மிக உயரமான இடம்",
+      "image": "mountain",
+      "category": "nature"
+    },
+    {
+      "word": "ஆறு",
+      "hint": "ஆறு - ஓடும் நீர்",
+      "image": "river",
+      "category": "nature"
+    },
+    {
+      "word": "கடல்",
+      "hint": "கடல் - உப்பு நீர் நிறைந்த இடம்",
+      "image": "sea",
+      "category": "nature"
+    },
+    {
+      "word": "ஏரி",
+      "hint": "ஏரி - நீர் நிறைந்த பெரிய குளம்",
+      "image": "lake",
+      "category": "nature"
+    },
+    {
+      "word": "குளம்",
+      "hint": "குளம் - சிறிய நீர் நிலை",
+      "image": "pond",
+      "category": "nature"
+    },
+    {
+      "word": "மணல்",
+      "hint": "மணல் - கடற்கரையில் உள்ள சிறு துகள்",
+      "image": "sand",
+      "category": "nature"
+    },
+    {
+      "word": "கல்",
+      "hint": "கல் - கடினமான பொருள்",
+      "image": "stone",
+      "category": "nature"
+    },
+    {
+      "word": "வானம்",
+      "hint": "வானம் - நமக்கு மேலே உள்ள நீல வெளி",
+      "image": "sky",
+      "category": "nature"
+    },
+    {
+      "word": "மேகம்",
+      "hint": "மேகம் - வானத்தில் உள்ள வெண்மையான உருவம்",
+      "image": "cloud",
+      "category": "nature"
+    },
+    {
+      "word": "பூமி",
+      "hint": "பூமி - நாம் வாழும் கிரகம்",
+      "image": "earth",
+      "category": "nature"
+    },
+    {
+      "word": "ரோஜா",
+      "hint": "ரோஜா - முள் உள்ள அழகிய பூ",
+      "image": "rose",
+      "category": "nature"
+    },
+    {
+      "word": "மல்லிகை",
+      "hint": "மல்லிகை - நறுமணமுள்ள வெள்ளை பூ",
+      "image": "jasmine",
+      "category": "nature"
+    },
+    {
+      "word": "தாமரை",
+      "hint": "தாமரை - நீரில் மிதக்கும் பூ",
+      "image": "lotus",
+      "category": "nature"
+    },
+    {
+      "word": "செடி",
+      "hint": "செடி - சிறிய தாவரம்",
+      "image": "plant",
+      "category": "nature"
+    },
+    {
+      "word": "கிளை",
+      "hint": "கிளை - மரத்தின் ஒரு பகுதி",
+      "image": "branch",
+      "category": "nature"
+    },
+    {
+      "word": "தீவு",
+      "hint": "தீவு - நீரால் சூழப்பட்ட நிலம்",
+      "image": "island",
+      "category": "nature"
+    },
+    {
+      "word": "பாலைவனம்",
+      "hint": "பாலைவனம் - மணல் நிறைந்த வறண்ட இடம்",
+      "image": "desert",
+      "category": "nature"
+    },
+    {
+      "word": "அருவி",
+      "hint": "அருவி - உயரத்திலிருந்து விழும் நீர்",
+      "image": "waterfall",
+      "category": "nature"
+    },
+    {
+      "word": "குகை",
+      "hint": "குகை - மலைக்குள் உள்ள வெற்று இடம்",
+      "image": "cave",
+      "category": "nature"
+    },
+    {
+      "word": "வயல்",
+      "hint": "வயல் - பயிர் விளையும் நிலம்",
+      "image": "field",
+      "category": "nature"
+    },
+    {
+      "word": "தோட்டம்",
+      "hint": "தோட்டம் - பூக்கள் வளரும் இடம்",
+      "image": "garden",
+      "category": "nature"
+    },
+    {
+      "word": "அலை",
+      "hint": "அலை - கடலில் எழும் நீர்",
+      "image": "wave",
+      "category": "nature"
+    },
+    {
+      "word": "சங்கு",
+      "hint": "சங்கு - கடற்கரையில் கிடைக்கும் ஓடு",
+      "image": "shell",
+      "category": "nature"
+    },
+    {
+      "word": "விண்மீன்",
+      "hint": "விண்மீன் - வானில் மின்னும் ஒளி",
+      "image": "star",
+      "category": "nature"
+    },
+    {
+      "word": "கோள்",
+      "hint": "கோள் - விண்வெளியில் உள்ள உருண்டை",
+      "image": "planet",
+      "category": "nature"
+    },
+    {
+      "word": "காது",
+      "hint": "காது - கேட்கப் பயன்படும் உறுப்பு",
+      "image": "ear",
+      "category": "body"
+    },
+    {
+      "word": "மூக்கு",
+      "hint": "மூக்கு - முகர பயன்படும் உறுப்பு",
+      "image": "nose",
+      "category": "body"
+    },
+    {
+      "word": "வாய்",
+      "hint": "வாய் - பேசவும் உண்ணவும் பயன்படும் உறுப்பு",
+      "image": "mouth",
+      "category": "body"
+    },
+    {
+      "word": "கை",
+      "hint": "கை - பொருட்களைப் பிடிக்கும் உறுப்பு",
+      "image": "hand",
+      "category": "body"
+    },
+    {
+      "word": "கால்",
+      "hint": "கால் - நடக்கப் பயன்படும் உறுப்பு",
+      "image": "leg",
+      "category": "body"
+    },
+    {
+      "word": "தலை",
+      "hint": "தலை - உடலின் மேல் பகுதி",
+      "image": "head",
+      "category": "body"
+    },
+    {
+      "word": "முகம்",
+      "hint": "முகம் - கண், மூக்கு உள்ள பகுதி",
+      "image": "face",
+      "category": "body"
+    },
+    {
+      "word": "முடி",
+      "hint": "முடி - தலையில் வளர்வது",
+      "image": "hair",
+      "category": "body"
+    },
+    {
+      "word": "பல்",
+      "hint": "பல் - உணவை மெல்லும் உறுப்பு",
+      "image": "tooth",
+      "category": "body"
+    },
+    {
+      "word": "நாக்கு",
+      "hint": "நாக்கு - சுவை அறியும் உறுப்பு",
+      "image": "tongue",
+      "category": "body"
+    },
+    {
+      "word": "விரல்",
+      "hint": "விரல் - கையின் நுனி பகுதி",
+      "image": "finger",
+      "category": "body"
+    },
+    {
+      "word": "தோள்",
+      "hint": "தோள் - கையின் மேல் பகுதி",
+      "image": "shoulder",
+      "category": "body"
+    },
+    {
+      "word": "முழங்கால்",
+      "hint": "முழங்கால் - காலின் மடங்கும் இடம்",
+      "image": "knee",
+      "category": "body"
+    },
+    {
+      "word": "இதயம்",
+      "hint": "இதயம் - மார்பில் துடிக்கும் உறுப்பு",
+      "image": "heart",
+      "category": "body"
+    },
+    {
+      "word": "மூளை",
+      "hint": "மூளை - சிந்திக்கப் பயன்படும் உறுப்பு",
+      "image": "brain",
+      "category": "body"
+    },
+    {
+      "word": "புத்தகம்",
+      "hint": "புத்தகம் - கதை படிக்கும் பொருள்",
+      "image": "book",
+      "category": "things"
+    },
+    {
+      "word": "பொம்மை",
+      "hint": "பொம்மை - விளையாடும் பொருள்",
+      "image": "doll",
+      "category": "things"
+    },
+    {
+      "word": "பட்டம்",
+      "hint": "பட்டம் - காற்றில் பறக்கும் விளையாட்டு",
+      "image": "kite",
+      "category": "things"
+    },
+    {
+      "word": "மணி",
+      "hint": "மணி - ஒலி எழுப்பும் பொருள்",
+      "image": "bell",
+      "category": "things"
+    },
+    {
+      "word": "கடிகாரம்",
+      "hint": "கடிகாரம் - நேரம் காட்டும் பொருள்",
+      "image": "clock",
+      "category": "things"
+    },
+    {
+      "word": "சாவி",
+      "hint": "சாவி - பூட்டைத் திறக்கும் பொருள்",
+      "image": "key",
+      "category": "things"
+    },
+    {
+      "word": "பை",
+      "hint": "பை - பொருட்களைச் சுமக்கும் பொருள்",
+      "image": "bag",
+      "category": "things"
+    },
+    {
+      "word": "பெட்டி",
+      "hint": "பெட்டி - பொருட்கள் வைக்கும் கொள்கலன்",
+      "image": "box",
+      "category": "things"
+    },
+    {
+      "word": "கயிறு",
+      "hint": "கயிறு - நீளமான கட்டும் பொருள்",
+      "image": "rope",
+      "category": "things"
+    },
+    {
+      "word": "பலூன்",
+      "hint": "பலூன் - காற்று நிரப்பி மிதக்கும் பொருள்",
+      "image": "balloon",
+      "category": "things"
+    },
+    {
+      "word": "மெழுகுவர்த்தி",
+      "hint": "மெழுகுவர்த்தி - ஒளி தரும் பொருள்",
+      "image": "candle",
+      "category": "things"
+    },
+    {
+      "word": "கண்ணாடி",
+      "hint": "கண்ணாடி - உருவம் காட்டும் பொருள்",
+      "image": "mirror",
+      "category": "things"
+    },
+    {
+      "word": "சோப்பு",
+      "hint": "சோப்பு - கழுவப் பயன்படும் பொருள்",
+      "image": "soap",
+      "category": "things"
+    },
+    {
+      "word": "குடை",
+      "hint": "குடை - மழையிலிருந்து காக்கும் பொருள்",
+      "image": "umbrella",
+      "category": "things"
+    },
+    {
+      "word": "தொப்பி",
+      "hint": "தொப்பி - தலையில் அணியும் பொருள்",
+      "image": "hat",
+      "category": "things"
+    },
+    {
+      "word": "சிவப்பு",
+      "hint": "சிவப்பு - ரோஜாவின் நிறம்",
+      "image": "red",
+      "category": "colors"
+    },
+    {
+      "word": "நீலம்",
+      "hint": "நீலம் - வானத்தின் நிறம்",
+      "image": "blue",
+      "category": "colors"
+    },
+    {
+      "word": "பச்சை",
+      "hint": "பச்சை - இலையின் நிறம்",
+      "image": "green",
+      "category": "colors"
+    },
+    {
+      "word": "மஞ்சள்",
+      "hint": "மஞ்சள் - சூரியனின் நிறம்",
+      "image": "yellow",
+      "category": "colors"
+    },
+    {
+      "word": "கருப்பு",
+      "hint": "கருப்பு - இரவின் நிறம்",
+      "image": "black",
+      "category": "colors"
+    },
+    {
+      "word": "வெள்ளை",
+      "hint": "வெள்ளை - பாலின் நிறம்",
+      "image": "white",
+      "category": "colors"
+    },
+    {
+      "word": "ஊதா",
+      "hint": "ஊதா - திராட்சையின் நிறம்",
+      "image": "purple",
+      "category": "colors"
+    },
+    {
+      "word": "இளஞ்சிவப்பு",
+      "hint": "இளஞ்சிவப்பு - மென்மையான சிவப்பு நிறம்",
+      "image": "pink",
+      "category": "colors"
+    },
+    {
+      "word": "பழுப்பு",
+      "hint": "பழுப்பு - மண்ணின் நிறம்",
+      "image": "brown",
+      "category": "colors"
+    },
+    {
+      "word": "சாம்பல்",
+      "hint": "சாம்பல் - யானையின் நிறம்",
+      "image": "grey",
+      "category": "colors"
+    },
+    {
+      "word": "ஆரஞ்சுநிறம்",
+      "hint": "ஆரஞ்சுநிறம் - கேரட்டின் நிறம்",
+      "image": "orange",
+      "category": "colors"
+    },
+    {
+      "word": "தங்கம்",
+      "hint": "தங்கம் - மின்னும் மஞ்சள் நிறம்",
+      "image": "gold",
+      "category": "colors"
+    },
+    {
+      "word": "வெள்ளி",
+      "hint": "வெள்ளி - மின்னும் சாம்பல் நிறம்",
+      "image": "silver",
+      "category": "colors"
+    },
+    {
+      "word": "நிறம்",
+      "hint": "நிறம் - கண்ணுக்குத் தெரியும் வண்ணம்",
+      "image": "color",
+      "category": "colors"
+    },
+    {
+      "word": "வானவில்",
+      "hint": "வானவில் - மழைக்குப் பின் தோன்றும் ஏழு நிறம்",
+      "image": "rainbow",
+      "category": "colors"
+    },
+    {
+      "word": "கதவு",
+      "hint": "கதவு - உள்ளே செல்ல திறப்பது",
+      "image": "door",
+      "category": "home"
+    },
+    {
+      "word": "ஜன்னல்",
+      "hint": "ஜன்னல் - வெளியே பார்க்கும் இடம்",
+      "image": "window",
+      "category": "home"
+    },
+    {
+      "word": "கூரை",
+      "hint": "கூரை - வீட்டின் மேல் பகுதி",
+      "image": "roof",
+      "category": "home"
+    },
+    {
+      "word": "சுவர்",
+      "hint": "சுவர் - அறையின் பக்க பகுதி",
+      "image": "wall",
+      "category": "home"
+    },
+    {
+      "word": "படி",
+      "hint": "படி - மேலே ஏற உதவுவது",
+      "image": "stairs",
+      "category": "home"
+    },
+    {
+      "word": "நாற்காலி",
+      "hint": "நாற்காலி - அமரப் பயன்படும் பொருள்",
+      "image": "chair",
+      "category": "home"
+    },
+    {
+      "word": "மேசை",
+      "hint": "மேசை - எழுத பயன்படும் பொருள்",
+      "image": "table",
+      "category": "home"
+    },
+    {
+      "word": "கட்டில்",
+      "hint": "கட்டில் - தூங்கப் பயன்படும் பொருள்",
+      "image": "bed",
+      "category": "home"
+    },
+    {
+      "word": "சமையலறை",
+      "hint": "சமையலறை - சமைக்கும் அறை",
+      "image": "kitchen",
+      "category": "home"
+    },
+    {
+      "word": "தட்டு",
+      "hint": "தட்டு - உணவு உண்ணும் பொருள்",
+      "image": "plate",
+      "category": "home"
+    },
+    {
+      "word": "கிண்ணம்",
+      "hint": "கிண்ணம் - உணவு வைக்கும் வட்ட பாத்திரம்",
+      "image": "bowl",
+      "category": "home"
+    },
+    {
+      "word": "கரண்டி",
+      "hint": "கரண்டி - உணவு உண்ணும் பொருள்",
+      "image": "spoon",
+      "category": "home"
+    },
+    {
+      "word": "குவளை",
+      "hint": "குவளை - நீர் அருந்தும் பொருள்",
+      "image": "cup",
+      "category": "home"
+    },
+    {
+      "word": "பானை",
+      "hint": "பானை - சமைக்கும் பாத்திரம்",
+      "image": "pot",
+      "category": "home"
+    },
+    {
+      "word": "விளக்கு",
+      "hint": "விளக்கு - ஒளி தரும் பொருள்",
+      "image": "lamp",
+      "category": "home"
+    },
+    {
+      "word": "பேருந்து",
+      "hint": "பேருந்து - பலர் பயணிக்கும் வாகனம்",
+      "image": "bus",
+      "category": "vehicles"
+    },
+    {
+      "word": "ரயில்",
+      "hint": "ரயில் - தண்டவாளத்தில் ஓடும் வாகனம்",
+      "image": "train",
+      "category": "vehicles"
+    },
+    {
+      "word": "விமானம்",
+      "hint": "விமானம் - வானில் பறக்கும் வாகனம்",
+      "image": "plane",
+      "category": "vehicles"
+    },
+    {
+      "word": "படகு",
+      "hint": "படகு - நீரில் மிதக்கும் வாகனம்",
+      "image": "boat",
+      "category": "vehicles"
+    },
+    {
+      "word": "கப்பல்",
+      "hint": "கப்பல் - கடலில் செல்லும் பெரிய வாகனம்",
+      "image": "ship",
+      "category": "vehicles"
+    },
+    {
+      "word": "சைக்கிள்",
+      "hint": "சைக்கிள் - இரு சக்கர மிதிவண்டி",
+      "image": "bike",
+      "category": "vehicles"
+    },
+    {
+      "word": "லாரி",
+      "hint": "லாரி - சுமை ஏற்றும் வாகனம்",
+      "image": "truck",
+      "category": "vehicles"
+    },
+    {
+      "word": "டிராக்டர்",
+      "hint": "டிராக்டர் - வயலில் வேலை செய்யும் வாகனம்",
+      "image": "tractor",
+      "category": "vehicles"
+    },
+    {
+      "word": "ஆம்புலன்ஸ்",
+      "hint": "ஆம்புலன்ஸ் - நோயாளியை அழைத்துச் செல்லும் வாகனம்",
+      "image": "ambulance",
+      "category": "vehicles"
+    },
+    {
+      "word": "ராக்கெட்",
+      "hint": "ராக்கெட் - விண்வெளிக்குச் செல்லும் வாகனம்",
+      "image": "rocket",
+      "category": "vehicles"
+    },
+    {
+      "word": "சக்கரம்",
+      "hint": "சக்கரம் - உருளும் வட்ட பகுதி",
+      "image": "wheel",
+      "category": "vehicles"
+    },
+    {
+      "word": "சாலை",
+      "hint": "சாலை - வாகனம் செல்லும் பாதை",
+      "image": "road",
+      "category": "vehicles"
+    },
+    {
+      "word": "பாலம்",
+      "hint": "பாலம் - ஆற்றின் மேல் உள்ள பாதை",
+      "image": "bridge",
+      "category": "vehicles"
+    },
+    {
+      "word": "வண்டி",
+      "hint": "வண்டி - பொருட்களை இழுக்கும் வாகனம்",
+      "image": "cart",
+      "category": "vehicles"
+    },
+    {
+      "word": "ஓட்டுநர்",
+      "hint": "ஓட்டுநர் - வாகனம் ஓட்டுபவர்",
+      "image": "driver",
+      "category": "vehicles"
+    },
+    {
+      "word": "பள்ளி",
+      "hint": "பள்ளி - கற்றுக் கொள்ளும் இடம்",
+      "image": "school",
+      "category": "school"
+    },
+    {
+      "word": "ஆசிரியர்",
+      "hint": "ஆசிரியர் - கற்றுத் தருபவர்",
+      "image": "teacher",
+      "category": "school"
+    },
+    {
+      "word": "மாணவன்",
+      "hint": "மாணவன் - கற்றுக் கொள்பவன்",
+      "image": "student",
+      "category": "school"
+    },
+    {
+      "word": "பேனா",
+      "hint": "பேனா - மையால் எழுதும் பொருள்",
+      "image": "pen",
+      "category": "school"
+    },
+    {
+      "word": "பென்சில்",
+      "hint": "பென்சில் - எழுதி அழிக்கும் பொருள்",
+      "image": "pencil",
+      "category": "school"
+    },
+    {
+      "word": "அழிப்பான்",
+      "hint": "அழிப்பான் - எழுத்தை அழிக்கும் பொருள்",
+      "image": "eraser",
+      "category": "school"
+    },
+    {
+      "word": "அளவுகோல்",
+      "hint": "அளவுகோல் - நேர்கோடு வரையும் பொருள்",
+      "image": "ruler",
+      "category": "school"
+    },
+    {
+      "word": "நோட்டு",
+      "hint": "நோட்டு - எழுதும் புத்தகம்",
+      "image": "notebook",
+      "category": "school"
+    },
+    {
+      "word": "கரும்பலகை",
+      "hint": "கரும்பலகை - ஆசிரியர் எழுதும் பலகை",
+      "image": "board",
+      "category": "school"
+    },
+    {
+      "word": "வகுப்பு",
+      "hint": "வகுப்பு - பாடம் நடக்கும் அறை",
+      "image": "classroom",
+      "category": "school"
+    },
+    {
+      "word": "பாடம்",
+      "hint": "பாடம் - கற்கும் ஒரு பகுதி",
+      "image": "lesson",
+      "category": "school"
+    },
+    {
+      "word": "கேள்வி",
+      "hint": "கேள்வி - அறிய கேட்பது",
+      "image": "question",
+      "category": "school"
+    },
+    {
+      "word": "பதில்",
+      "hint": "பதில் - கேள்விக்கு சொல்வது",
+      "image": "answer",
+      "category": "school"
+    },
+    {
+      "word": "கதை",
+      "hint": "கதை - படிக்கும் நிகழ்வு",
+      "image": "story",
+      "category": "school"
+    },
+    {
+      "word": "எழுத்து",
+      "hint": "எழுத்து - மொழியின் அடிப்படை குறியீடு",
+      "image": "letterabc",
+      "category": "school"
+    },
+    {
+      "word": "மழை",
+      "hint": "மழை - மேகத்திலிருந்து விழும் நீர்",
+      "image": "rain",
+      "category": "weather"
+    },
+    {
+      "word": "காற்று",
+      "hint": "காற்று - வீசும் காற்று",
+      "image": "wind",
+      "category": "weather"
+    },
+    {
+      "word": "இடி",
+      "hint": "இடி - வானில் கேட்கும் பேரொலி",
+      "image": "thunder",
+      "category": "weather"
+    },
+    {
+      "word": "மின்னல்",
+      "hint": "மின்னல் - வானில் தோன்றும் ஒளிக்கீற்று",
+      "image": "lightning",
+      "category": "weather"
+    },
+    {
+      "word": "பனி",
+      "hint": "பனி - குளிரான வெண்மையான நீர்",
+      "image": "snow",
+      "category": "weather"
+    },
+    {
+      "word": "புயல்",
+      "hint": "புயல் - பலத்த காற்றும் மழையும்",
+      "image": "storm",
+      "category": "weather"
+    },
+    {
+      "word": "வெயில்",
+      "hint": "வெயில் - சூரியனின் வெப்பம்",
+      "image": "sunshine",
+      "category": "weather"
+    },
+    {
+      "word": "குளிர்",
+      "hint": "குளிர் - குறைவான வெப்பம்",
+      "image": "cold",
+      "category": "weather"
+    },
+    {
+      "word": "வெப்பம்",
+      "hint": "வெப்பம் - அதிக சூடு",
+      "image": "heat",
+      "category": "weather"
+    },
+    {
+      "word": "மூடுபனி",
+      "hint": "மூடுபனி - பார்வையை மறைக்கும் பனி",
+      "image": "fog",
+      "category": "weather"
+    },
+    {
+      "word": "நிழல்",
+      "hint": "நிழல் - ஒளி மறைக்கப்படும் இடம்",
+      "image": "shadow",
+      "category": "weather"
+    },
+    {
+      "word": "பருவம்",
+      "hint": "பருவம் - ஆண்டின் ஒரு காலம்",
+      "image": "season",
+      "category": "weather"
+    },
+    {
+      "word": "காலை",
+      "hint": "காலை - நாளின் தொடக்கம்",
+      "image": "morning",
+      "category": "weather"
+    },
+    {
+      "word": "மாலை",
+      "hint": "மாலை - நாளின் இறுதி நேரம்",
+      "image": "evening",
+      "category": "weather"
+    },
+    {
+      "word": "இரவு",
+      "hint": "இரவு - இருள் நிறைந்த நேரம்",
+      "image": "nighttime",
+      "category": "weather"
+    },
+    {
+      "word": "வெள்ளம்",
+      "hint": "வெள்ளம் - அதிக நீர் நிலத்தில் பரவுவது",
+      "image": "flood",
+      "category": "weather"
+    },
+    {
+      "word": "பனிக்கட்டி",
+      "hint": "பனிக்கட்டி - உறைந்த நீர்",
+      "image": "ice",
+      "category": "weather"
+    },
+    {
+      "word": "சூறாவளி",
+      "hint": "சூறாவளி - சுழலும் பலத்த காற்று",
+      "image": "cyclone",
+      "category": "weather"
+    },
+    {
+      "word": "தூறல்",
+      "hint": "தூறல் - மெல்லிய மழை",
+      "image": "drizzle",
+      "category": "weather"
+    },
+    {
+      "word": "வறட்சி",
+      "hint": "வறட்சி - மழை இல்லாத நிலை",
+      "image": "drought",
+      "category": "weather"
+    },
+    {
+      "word": "பகல்",
+      "hint": "பகல் - சூரியன் இருக்கும் நேரம்",
+      "image": "daytime",
+      "category": "weather"
+    },
+    {
+      "word": "விடியல்",
+      "hint": "விடியல் - இரவு முடியும் நேரம்",
+      "image": "dawn",
+      "category": "weather"
+    },
+    {
+      "word": "நண்பகல்",
+      "hint": "நண்பகல் - நாளின் நடு நேரம்",
+      "image": "noon",
+      "category": "weather"
+    },
+    {
+      "word": "தட்பவெப்பம்",
+      "hint": "தட்பவெப்பம் - சூடு குளிர் நிலை",
+      "image": "temperature",
+      "category": "weather"
+    },
+    {
+      "word": "வானிலை",
+      "hint": "வானிலை - வானத்தின் நிலை",
+      "image": "weather",
+      "category": "weather"
+    },
+    {
+      "word": "மழைக்காலம்",
+      "hint": "மழைக்காலம் - மழை பெய்யும் பருவம்",
+      "image": "monsoon",
+      "category": "weather"
+    },
+    {
+      "word": "கோடை",
+      "hint": "கோடை - வெப்பமான பருவம்",
+      "image": "summer",
+      "category": "weather"
+    },
+    {
+      "word": "குளிர்காலம்",
+      "hint": "குளிர்காலம் - குளிரான பருவம்",
+      "image": "winter",
+      "category": "weather"
+    },
+    {
+      "word": "வசந்தம்",
+      "hint": "வசந்தம் - பூக்கள் மலரும் பருவம்",
+      "image": "springtime",
+      "category": "weather"
+    },
+    {
+      "word": "ஈரம்",
+      "hint": "ஈரம் - நீர் படிந்த நிலை",
+      "image": "wet",
+      "category": "weather"
+    },
+    {
+      "word": "நூலகம்",
+      "hint": "நூலகம் - புத்தகங்கள் நிறைந்த இடம்",
+      "image": "library",
+      "category": "school"
+    },
+    {
+      "word": "விளையாட்டு",
+      "hint": "விளையாட்டு - மகிழ்ச்சியான செயல்",
+      "image": "game",
+      "category": "school"
+    },
+    {
+      "word": "பரிசு",
+      "hint": "பரிசு - வெற்றிக்குக் கிடைப்பது",
+      "image": "prize",
+      "category": "school"
+    },
+    {
+      "word": "எண்",
+      "hint": "எண் - எண்ணப் பயன்படுவது",
+      "image": "number",
+      "category": "school"
+    },
+    {
+      "word": "கணக்கு",
+      "hint": "கணக்கு - எண்கள் பற்றிய பாடம்",
+      "image": "maths",
+      "category": "school"
+    },
+    {
+      "word": "அறிவியல்",
+      "hint": "அறிவியல் - இயற்கையைப் பற்றிய பாடம்",
+      "image": "science",
+      "category": "school"
+    },
+    {
+      "word": "வரலாறு",
+      "hint": "வரலாறு - பழங்காலம் பற்றிய பாடம்",
+      "image": "history",
+      "category": "school"
+    },
+    {
+      "word": "மொழி",
+      "hint": "மொழி - பேசப் பயன்படுவது",
+      "image": "language",
+      "category": "school"
+    },
+    {
+      "word": "சொல்",
+      "hint": "சொல் - பொருள் தரும் எழுத்துக் கூட்டம்",
+      "image": "word",
+      "category": "school"
+    },
+    {
+      "word": "வாக்கியம்",
+      "hint": "வாக்கியம் - முழு கருத்து தரும் சொற்கள்",
+      "image": "sentence",
+      "category": "school"
+    },
+    {
+      "word": "படம்",
+      "hint": "படம் - வரையப்பட்ட உருவம்",
+      "image": "picture",
+      "category": "school"
+    },
+    {
+      "word": "வண்ணப்பென்சில்",
+      "hint": "வண்ணப்பென்சில் - நிறம் தீட்டும் பொருள்",
+      "image": "crayon",
+      "category": "school"
+    },
+    {
+      "word": "பள்ளிப்பை",
+      "hint": "பள்ளிப்பை - புத்தகம் சுமக்கும் பை",
+      "image": "satchel",
+      "category": "school"
+    },
+    {
+      "word": "சீருடை",
+      "hint": "சீருடை - பள்ளிக்கு அணியும் ஆடை",
+      "image": "uniform",
+      "category": "school"
+    },
+    {
+      "word": "நண்பன்",
+      "hint": "நண்பன் - சேர்ந்து விளையாடுபவன்",
+      "image": "friend",
+      "category": "school"
+    },
+    {
+      "word": "இளநீர்",
+      "hint": "இளநீர் - தேங்காயின் இனிப்பு நீர்",
+      "image": "coconut",
+      "category": "things"
+    },
+    {
+      "word": "கீற்று",
+      "hint": "கீற்று - மெல்லிய நீள துண்டு",
+      "image": "stripe",
+      "category": "things"
+    },
+    {
+      "word": "மரப்பொம்மை",
+      "hint": "மரப்பொம்மை - மரத்தால் செய்த விளையாட்டு பொருள்",
+      "image": "toy",
+      "category": "things"
+    },
+    {
+      "word": "சங்கீதம்",
+      "hint": "சங்கீதம் - இனிமையான ஒலி",
+      "image": "musicclass",
+      "category": "things"
+    },
+    {
+      "word": "முரசு",
+      "hint": "முரசு - அடித்து ஒலிக்கும் கருவி",
+      "image": "drum",
+      "category": "things"
+    },
+    {
+      "word": "புல்லாங்குழல்",
+      "hint": "புல்லாங்குழல் - ஊதி இசைக்கும் கருவி",
+      "image": "flute",
+      "category": "things"
+    },
+    {
+      "word": "கூடை",
+      "hint": "கூடை - பொருட்கள் வைக்கும் பின்னல் பை",
+      "image": "basket",
+      "category": "things"
+    },
+    {
+      "word": "வாளி",
+      "hint": "வாளி - நீர் சுமக்கும் பாத்திரம்",
+      "image": "bucket",
+      "category": "things"
+    },
+    {
+      "word": "ஊசி",
+      "hint": "ஊசி - தையல் போடும் கூர்மையான பொருள்",
+      "image": "needle",
+      "category": "things"
+    },
+    {
+      "word": "நூல்",
+      "hint": "நூல் - தையலுக்குப் பயன்படும் இழை",
+      "image": "thread",
+      "category": "things"
+    },
+    {
+      "word": "கத்தரிக்கோல்",
+      "hint": "கத்தரிக்கோல் - வெட்டப் பயன்படும் பொருள்",
+      "image": "scissors",
+      "category": "things"
+    },
+    {
+      "word": "காகிதம்",
+      "hint": "காகிதம் - எழுதப் பயன்படும் தாள்",
+      "image": "paper",
+      "category": "things"
+    },
+    {
+      "word": "சுத்தி",
+      "hint": "சுத்தி - ஆணி அடிக்கும் கருவி",
+      "image": "hammer",
+      "category": "things"
+    },
+    {
+      "word": "ஏணி",
+      "hint": "ஏணி - மேலே ஏற உதவும் பொருள்",
+      "image": "ladder",
+      "category": "things"
+    },
+    {
+      "word": "துடைப்பம்",
+      "hint": "துடைப்பம் - தரை பெருக்கும் பொருள்",
+      "image": "broom",
+      "category": "things"
+    }
+  ]
+}
