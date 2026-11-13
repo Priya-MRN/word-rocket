@@ -9,7 +9,7 @@ hanging**, emoji picture rewards, a colorful CLI, and a fully responsive web UI.
 
 > **Icons:** UI chrome (buttons, settings, hint, sound...) uses the standard
 > **lucide** icon package (via `hangman.icons` + `tools/icontool.py`, the same
-> pattern as the sibling `support_chatbot` project) — real vector icons, never
+> pattern as the sibling `support-navigator` project) — real vector icons, never
 > hand-authored SVG path data. Word-reward pictures (the cat, the apple, ...)
 > are a separate concern and stay on **Twemoji**, since they illustrate actual
 > objects rather than UI actions.
@@ -119,7 +119,7 @@ python tools/packtool.py check   # report counts + problems for both packs
 ## 📁 Project Structure
 
 ```
-hangman_game/
+word-rocket/
 ├── src/hangman/
 │   ├── __init__.py        # __version__
 │   ├── __main__.py        # python -m hangman
